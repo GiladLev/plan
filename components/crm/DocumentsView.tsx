@@ -59,6 +59,7 @@ function DocEditor({ id }: { id: string }) {
   const clients = useQuery(`clients:${business.id}`, () => listClients(business.id));
   const [lines, setLines] = useState<Line[] | null>(null);
   const [busy, setBusy] = useState(false);
+  const [clientId, setClientId] = useState<string | null | undefined>(undefined); // optimistic, so issuing right after picking works
   const issueKey = useRef<string | null>(null);
   const saveTimer = useRef<number>(0);
   useEffect(() => { if (doc && !lines) setLines(doc.document_lines.map((l) => ({ description: l.description, qty: Number(l.qty), unit_price: Number(l.unit_price) }))); }, [doc, lines]);
@@ -67,7 +68,8 @@ function DocEditor({ id }: { id: string }) {
 
   if (error) return <ErrorState error={error} retry={refetch} />;
   if (!doc || !lines) return <div className="page"><div className="skeleton" style={{ height: 500, borderRadius: 16 }} /></div>;
-  const client = clients.data?.find((c) => c.id === doc.client_id) ?? doc.clients;
+  const cid = clientId === undefined ? doc.client_id : clientId;
+  const client = clients.data?.find((c) => c.id === cid) ?? (cid === doc.client_id ? doc.clients : null);
 
   const queueSave = (next: Line[]) => {
     setLines(next); window.clearTimeout(saveTimer.current);
@@ -84,7 +86,7 @@ function DocEditor({ id }: { id: string }) {
     if (!lines.some((l) => l.description.trim() && Number(l.unit_price) > 0)) { toast('יש להוסיף לפחות שורה אחת עם מחיר', 'bad'); return; }
     window.clearTimeout(saveTimer.current); setBusy(true);
     issueKey.current ??= crypto.randomUUID(); // same key for retries / double clicks → exactly one number
-    try { await saveLines(business.id, doc.id, lines); const d = await issueDocument(doc.id, issueKey.current); toast(`${DOC_KIND_LABEL[d.kind]} מס׳ ${d.number} הופקה`); invalidate(`doc:${id}`); invalidate(`docs:${business.id}`); if (d.client_id) invalidate(`acts:${d.client_id}`); }
+    try { await saveLines(business.id, doc.id, lines); if (cid !== doc.client_id) await updateDocument(doc.id, { client_id: cid }); const d = await issueDocument(doc.id, issueKey.current); toast(`${DOC_KIND_LABEL[d.kind]} מס׳ ${d.number} הופקה`); invalidate(`doc:${id}`); invalidate(`docs:${business.id}`); if (d.client_id) invalidate(`acts:${d.client_id}`); }
     catch (e) { toast((e as Error).message, 'bad'); }
     finally { setBusy(false); }
   };
@@ -114,7 +116,7 @@ function DocEditor({ id }: { id: string }) {
         <section className="doc-form card card-pad">
           <div className="grid-2">
             <Field label="סוג"><select className="select" value={doc.kind} disabled={locked} onChange={(e) => meta({ kind: e.target.value })}>{Object.entries(DOC_KIND_LABEL).map(([k, l]) => <option key={k} value={k}>{l}</option>)}</select></Field>
-            <Field label="לקוח"><select className="select" value={doc.client_id ?? ''} disabled={locked} onChange={(e) => meta({ client_id: e.target.value || null })}><option value="">בחירת לקוח…</option>{clients.data?.map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}</select></Field>
+            <Field label="לקוח"><select className="select" value={doc.client_id ?? ''} disabled={locked} onChange={(e) => { setClientId(e.target.value || null); void meta({ client_id: e.target.value || null }); }}><option value="">בחירת לקוח…</option>{clients.data?.map((c) => <option key={c.id} value={c.id}>{c.name}</option>)}</select></Field>
             <Field label="תאריך"><input className="input" type="date" disabled={locked} value={doc.issue_date} onChange={(e) => meta({ issue_date: e.target.value })} /></Field>
             <Field label="לתשלום עד"><input className="input" type="date" disabled={locked} value={doc.due_date ?? ''} onChange={(e) => meta({ due_date: e.target.value || null })} /></Field>
           </div>

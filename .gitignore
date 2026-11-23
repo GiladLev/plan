@@ -16,3 +16,5 @@ replica/pixel/assets
 replica/tools/package-lock.json
 AGENTS.md
 .env*.local
+test-results
+playwright-report

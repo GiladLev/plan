@@ -38,6 +38,8 @@
   ],
   "exclude": [
     "node_modules",
-    "replica"
+    "replica",
+    "e2e",
+    "playwright.config.ts"
   ]
 }

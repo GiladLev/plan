@@ -36,10 +36,10 @@ export function ClientsView({ selectedId }: { selectedId?: string }) {
             </select>
           </div>
           {error ? <ErrorState error={error} retry={refetch} /> : !data ? <ListSkeleton /> : list.length === 0 ? <Empty icon={<Users />} title={q ? 'לא נמצאו לקוחות' : 'עוד אין לקוחות'}>{!q && <button className="btn btn-primary" onClick={() => setAdding(true)}>הוספת לקוח ראשון</button>}</Empty> : (
-            <ul className="plain" role="listbox" aria-label="לקוחות">
+            <ul className="plain" aria-label="לקוחות">
               {list.map((c) => (
-                <li key={c.id} role="option" aria-selected={c.id === selectedId}>
-                  <Link className={`row ${c.id === selectedId ? 'active' : ''}`} href={`/app/clients/${c.id}`}>
+                <li key={c.id}>
+                  <Link className={`row ${c.id === selectedId ? 'active' : ''}`} href={`/app/clients/${c.id}`} aria-current={c.id === selectedId ? 'page' : undefined}>
                     <Avatar name={c.name} />
                     <div className="grow"><div className="title">{c.name}</div><div className="sub">{EVENT_TYPE_LABEL[c.event_type]} · {dateShort(c.event_date)}</div></div>
                     <Pill tone={STAGE_TONE[c.stage as Stage]} dot>{STAGE_LABEL[c.stage as Stage]}</Pill>
