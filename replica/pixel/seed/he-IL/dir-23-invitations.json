@@ -1,0 +1,1477 @@
+{
+ "category": {
+  "title": "הזמנות ומיתוג",
+  "icon": "ip-icon-wedding-invitation",
+  "meta": "מוצגות 20 מתוך 26 תוצאות שנמצאו",
+  "pageTitle": "חיפוש הזמנות ומיתוג | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[227][]",
+     "value": "314",
+     "label": "הדפסת הזמנות בלבד",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[227][]",
+     "value": "315",
+     "label": "עיצוב והדפסת הזמנות",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[227][]",
+     "value": "316",
+     "label": "מיתוג לאירוע",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_154",
+   "name": "directory_brands_filter[154]",
+   "label": "עיצוב והדפסת מעטפות",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_155",
+   "name": "directory_brands_filter[155]",
+   "label": "עיצוב והדפסת מגנטים",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_156",
+   "name": "directory_brands_filter[156]",
+   "label": "בחירת עיצובים אונליין",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_225",
+   "name": "directory_brands_filter[225]",
+   "label": "עיצוב והדפסת תפריטים",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_226",
+   "name": "directory_brands_filter[226]",
+   "label": "עיצוב והדפסת מספרי שולחן",
+   "tooltip": null
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0",
+   "name": "נטלי קלוג - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2279/normal_logo.png?1517138795",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "נטלי קלוג - מיתוג לאירוע",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/419/photos/11303_small.jpg?1518952666",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1b5bcc13ce-11303_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/419/photos/11304_small.jpg?1518952673",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e222bc5aff-11304_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/419/photos/11311_small.jpg?1518952714",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/86ce52f1c9-11311_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/419/photos/11299_small.jpg?1518952603",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cb808bfcba-11299_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/419/photos/11296_small.jpg?1518952545",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ee94ff2fb1-11296_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נטלי קלוג \" href=\"/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2279/normal_logo.png?1517138795')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0\">נטלי קלוג - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"נטלי קלוג \" href=\"/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7a430390b9-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0",
+   "name": "סטודיו ליניקה - Studio Linnica - עיצוב, מיתוג והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1477/normal_logo.png?1507120656",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(18 חוות דעת)",
+   "details": [
+    "סטודיו ליניקה - Studio Linnica - עיצוב, מיתוג והדפסת הזמנות",
+    "(18 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/186/photos/8343_small.jpg?1500537994",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2b51fc0310-8343_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/186/photos/8346_small.jpg?1500538441",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4169a14b96-8346_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/186/photos/8357_small.jpg?1500538516",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/714307fffd-8357_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/186/photos/8365_small.jpg?1500538561",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5e7286edc9-8365_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/186/photos/8356_small.jpg?1500538514",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/af2021f48a-8356_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סטודיו ליניקה - Studio Linnica\" href=\"/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1477/normal_logo.png?1507120656')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0\">סטודיו ליניקה - Studio Linnica - עיצוב, מיתוג והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"סטודיו ליניקה - Studio Linnica\" href=\"/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(18 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ac990d67a7-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0",
+   "name": "InLove - אינלאב - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2244/normal_logo.png?1516027051",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "InLove - אינלאב - מיתוג לאירוע",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/400/photos/9973_small.jpg?1516286613",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/df1e34222d-9973_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/400/photos/9967_small.jpg?1516286570",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e6b78f70bd-9967_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/400/photos/9951_small.jpg?1516286506",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4dc7fbd8f6-9951_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/400/photos/9952_small.jpg?1516286513",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bd9333655d-9952_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/400/photos/9954_small.jpg?1516286519",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/858c218355-9954_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"InLove - אינלאב\" href=\"/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2244/normal_logo.png?1516027051')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0\">InLove - אינלאב - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"InLove - אינלאב\" href=\"/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/82c4eadbff-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/788-mimi?search=0",
+   "name": "Mimi - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2269/normal_logo.png?1516700921",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "Mimi - מיתוג לאירוע",
+    "5.0 (8 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/415/photos/10061_small.jpg?1516703197",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/68d62df13f-10061_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/415/photos/10050_small.jpg?1516703106",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e067b5677a-10050_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/415/photos/10085_small.jpg?1516704353",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d441057324-10085_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/415/photos/10086_small.jpg?1516704371",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/af4d92f7cd-10086_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/415/photos/10091_small.jpg?1516704576",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a05d1c3d20-10091_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/788-mimi?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Mimi\" href=\"/he-IL/directory/brands/788-mimi?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2269/normal_logo.png?1516700921')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/788-mimi?search=0\">Mimi - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/788-mimi?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/788-mimi?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7f05a69877-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0",
+   "name": "שירן אטד - עיצוב, מיתוג והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2280/normal_logo.jpg?1577732244",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "שירן אטד - עיצוב, מיתוג והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/420/photos/16694_small.jpg?1577732606",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/afdc7156a7-16694_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שירן אטד\" href=\"/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2280/normal_logo.jpg?1577732244')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0\">שירן אטד - עיצוב, מיתוג והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"שירן אטד\" href=\"/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/5331cc7425-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "המקשט - עיצוב, מיתוג והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1094/normal_logo.png?1511184879",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "המקשט - עיצוב, מיתוג והדפסת הזמנות",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/418/photos/10229_small.jpg?1516787196",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8233acee1d-10229_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/418/photos/12652_small.jpg?1526102825",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8fa9280215-12652_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"המקשט\" href=\"/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1094/normal_logo.png?1511184879')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">המקשט - עיצוב, מיתוג והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"המקשט\" href=\"/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/586b4ee023-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/426-bee-happy?search=0",
+   "name": "Bee Happy - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1096/normal_logo.png?1507120006",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "Bee Happy - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Bee Happy\" href=\"/he-IL/directory/brands/426-bee-happy?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1096/normal_logo.png?1507120006')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/426-bee-happy?search=0\">Bee Happy - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Bee Happy\" href=\"/he-IL/directory/brands/426-bee-happy?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/426-bee-happy?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0900ce83b2-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/904-paper-boutique?search=0",
+   "name": "Paper Boutique - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2375/normal_logo.jpg?1519832786",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "Paper Boutique - מיתוג לאירוע",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Paper Boutique\" href=\"/he-IL/directory/brands/904-paper-boutique?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2375/normal_logo.jpg?1519832786')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/904-paper-boutique?search=0\">Paper Boutique - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Paper Boutique\" href=\"/he-IL/directory/brands/904-paper-boutique?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/904-paper-boutique?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/87150ed3f9-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0",
+   "name": "דה לה פרינט - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1086/normal_logo.png?1507119977",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "דה לה פרינט - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דה לה פרינט\" href=\"/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1086/normal_logo.png?1507119977')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0\">דה לה פרינט - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"דה לה פרינט\" href=\"/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/af767399df-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0",
+   "name": "פרופיל - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1503/normal_logo.png?1507120721",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "פרופיל - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פרופיל \" href=\"/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1503/normal_logo.png?1507120721')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0\">פרופיל - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"פרופיל \" href=\"/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0970d49186-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0",
+   "name": "הזמנה לחגיגה - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1093/normal_logo.png?1507119998",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "הזמנה לחגיגה - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"הזמנה לחגיגה\" href=\"/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1093/normal_logo.png?1507119998')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0\">הזמנה לחגיגה - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"הזמנה לחגיגה\" href=\"/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b54a738fd3-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/790-the-paper-story?search=0",
+   "name": "The Paper Story - מיתוג לאירוע",
+   "logo": null,
+   "logoIcon": "ip-icon-wedding-invitation",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "The Paper Story - מיתוג לאירוע",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"The Paper Story\" href=\"/he-IL/directory/brands/790-the-paper-story?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"הזמנות ומיתוג\"><i class=\"ip-icon-wedding-invitation\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/790-the-paper-story?search=0\">The Paper Story - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"The Paper Story\" href=\"/he-IL/directory/brands/790-the-paper-story?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/790-the-paper-story?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0",
+   "name": "המעטפה בדרך - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2342/normal_logo.jpg?1519739350",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "המעטפה בדרך - מיתוג לאירוע",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"המעטפה בדרך\" href=\"/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2342/normal_logo.jpg?1519739350')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0\">המעטפה בדרך - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"המעטפה בדרך\" href=\"/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c9fe88b73d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0",
+   "name": "נעמה מגשימת מתנות - מיתוג לאירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2261/normal_logo.jpg?1516717619",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "נעמה מגשימת מתנות - מיתוג לאירוע",
+    "4.9 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נעמה מגשימת מתנות\" href=\"/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2261/normal_logo.jpg?1516717619')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\">נעמה מגשימת מתנות - מיתוג לאירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/753d1b0c6d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0",
+   "name": "סטודיו שקאלו - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1095/normal_logo.jpg?1507120004",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "סטודיו שקאלו - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סטודיו שקאלו\" href=\"/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1095/normal_logo.jpg?1507120004')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0\">סטודיו שקאלו - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"סטודיו שקאלו\" href=\"/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/59d71884c2-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0",
+   "name": "איליי - ELLAY - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1097/normal_logo.png?1507120009",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "איליי - ELLAY - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"איליי - ELLAY\" href=\"/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1097/normal_logo.png?1507120009')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0\">איליי - ELLAY - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"איליי - ELLAY\" href=\"/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/888611ab50-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/447-ink?search=0",
+   "name": "Ink - עיצוב, מיתוג והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1502/normal_logo.jpg?1507120719",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "Ink - עיצוב, מיתוג והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/447-ink?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Ink\" href=\"/he-IL/directory/brands/447-ink?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1502/normal_logo.jpg?1507120719')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/447-ink?search=0\">Ink - עיצוב, מיתוג והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Ink\" href=\"/he-IL/directory/brands/447-ink?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/447-ink?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/609ccae459-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0",
+   "name": "פריפרינט - FreePrint - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1085/normal_logo.png?1507119974",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "פריפרינט - FreePrint - עיצוב והדפסת הזמנות",
+    "4.9 (5 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פריפרינט - FreePrint\" href=\"/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1085/normal_logo.png?1507119974')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\">פריפרינט - FreePrint - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3693b05584-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0",
+   "name": "פופאפ - Popup - עיצוב והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1087/normal_logo.png?1507119982",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "פופאפ - Popup - עיצוב והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פופאפ - Popup\" href=\"/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1087/normal_logo.png?1507119982')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0\">פופאפ - Popup - עיצוב והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"פופאפ - Popup\" href=\"/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/409083868a-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0",
+   "name": "סטודיו טוטמי- Totemy Studio - עיצוב, מיתוג והדפסת הזמנות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1092/normal_logo.png?1507119996",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "סטודיו טוטמי- Totemy Studio - עיצוב, מיתוג והדפסת הזמנות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סטודיו טוטמי- Totemy Studio\" href=\"/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1092/normal_logo.png?1507119996')\" title=\"הזמנות ומיתוג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\">סטודיו טוטמי- Totemy Studio - עיצוב, מיתוג והדפסת הזמנות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"סטודיו טוטמי- Totemy Studio\" href=\"/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/279db291f7-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "נטלי קלוג - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/795-%D7%A0%D7%98%D7%9C%D7%99-%D7%A7%D7%9C%D7%95%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "סטודיו ליניקה - Studio Linnica - עיצוב, מיתוג והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/420-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-linnica?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "InLove - אינלאב - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/741-inlove-%D7%90%D7%99%D7%A0%D7%9C%D7%90%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "Mimi - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/788-mimi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0"
+    },
+    {
+     "text": "שירן אטד - עיצוב, מיתוג והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/796-%D7%A9%D7%99%D7%A8%D7%9F-%D7%90%D7%98%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "המקשט - עיצוב, מיתוג והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/431-%D7%94%D7%9E%D7%A7%D7%A9%D7%98-%D7%9E%D7%99%D7%AA%D7%95%D7%92-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0"
+    },
+    {
+     "text": "Bee Happy - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/426-bee-happy?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0"
+    },
+    {
+     "text": "Paper Boutique - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/904-paper-boutique?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0"
+    },
+    {
+     "text": "דה לה פרינט - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/423-%D7%93%D7%94-%D7%9C%D7%94-%D7%A4%D7%A8%D7%99%D7%A0%D7%98?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "פרופיל - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/448-%D7%A4%D7%A8%D7%95%D7%A4%D7%99%D7%9C-%D7%94%D7%93%D7%A4%D7%A1%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0"
+    },
+    {
+     "text": "הזמנה לחגיגה - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/444-%D7%94%D7%96%D7%9E%D7%A0%D7%94-%D7%9C%D7%97%D7%92%D7%99%D7%92%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0"
+    },
+    {
+     "text": "The Paper Story - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/790-the-paper-story?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0"
+    },
+    {
+     "text": "המעטפה בדרך - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/871-%D7%94%D7%9E%D7%A2%D7%98%D7%A4%D7%94-%D7%91%D7%93%D7%A8%D7%9A?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "נעמה מגשימת מתנות - מיתוג לאירוע",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/797-%D7%A0%D7%A2%D7%9E%D7%94-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "סטודיו שקאלו - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/427-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A9%D7%A7%D7%90%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0"
+    },
+    {
+     "text": "איליי - ELLAY - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/433-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%90%D7%99%D7%9C%D7%99%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/447-ink?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/447-ink?search=0"
+    },
+    {
+     "text": "Ink - עיצוב, מיתוג והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/447-ink?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/447-ink?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/447-ink?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "פריפרינט - FreePrint - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/421-%D7%A4%D7%A8%D7%99-%D7%A4%D7%A8%D7%99%D7%A0%D7%98-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0"
+    },
+    {
+     "text": "פופאפ - Popup - עיצוב והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/424-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%A4%D7%95%D7%A4%D7%90%D7%A4?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "סטודיו טוטמי- Totemy Studio - עיצוב, מיתוג והדפסת הזמנות",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/432-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%98%D7%95%D7%98%D7%9E%D7%99-%D7%94%D7%96%D7%9E%D7%A0%D7%95%D7%AA-%D7%9C%D7%97%D7%AA%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

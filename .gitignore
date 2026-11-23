@@ -1,0 +1,17 @@
+node_modules
+.next
+out
+.vercel
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+replica/tools/node_modules
+replica/pixel/screens
+replica/pixel/diff
+replica/pixel/extract/*/states/*.png
+replica/pixel/extract/**
+!replica/pixel/extract/*/
+!replica/pixel/extract/*/_tokens.md
+replica/pixel/assets
+replica/tools/package-lock.json
+AGENTS.md

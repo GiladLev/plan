@@ -1,0 +1,1800 @@
+{
+ "category": {
+  "title": "שירותי בר",
+  "icon": "ip-icon-cocktail",
+  "meta": "מוצגות 20 מתוך 40 תוצאות שנמצאו",
+  "pageTitle": "חיפוש שירותי בר | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "260",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "261",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "262",
+     "label": "השרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "263",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "264",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "265",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[166][]",
+     "value": "266",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_175",
+   "name": "directory_brands_filter[175]",
+   "label": "עמדת שתיה חמה\\קפה",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_174",
+   "name": "directory_brands_filter[174]",
+   "label": "בר מיצים טבעיים",
+   "tooltip": "בר נפרד שיאוייש על ידי אחד הברמנים ויספק מיצים טבעיים שנסחטים במקום ממגוון פירות העונה"
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_169",
+   "name": "directory_brands_filter[169]",
+   "label": "קוקטיילים קפואים",
+   "tooltip": "אפשרות למבחר קוקטיילים קפואים בקבלת הפנים"
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0",
+   "name": "מיקסולוג'י טים-mixology Team - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2675/normal_logo.jpg?1669640410",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(50 חוות דעת)",
+   "details": [
+    "מיקסולוג'י טים-mixology Team - שירותי בר",
+    "4.8 (50 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/531/photos/14360_small.jpg?1546166322",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/73f2cd241c-14360_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/531/photos/14359_small.jpg?1546166316",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2578096d8f-14359_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/531/photos/14358_small.jpg?1546166316",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/060ab6434b-14358_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/531/photos/14357_small.jpg?1546166241",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/04c72c7c2b-14357_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מיקסולוג'י טים-mixology Team\" href=\"/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2675/normal_logo.jpg?1669640410')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0\">מיקסולוג'י טים-mixology Team - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(50 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/5745ca2acd-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0",
+   "name": "תודה ש - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2800/normal_logo.jpg?1555249268",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "תודה ש - שירותי בר",
+    "4.9 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/555/photos/16364_small.jpg?1568023714",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/55a9ca9a55-16364_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/555/photos/16359_small.jpg?1568023694",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/97bd1272f7-16359_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/555/photos/16358_small.jpg?1568023693",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/2b92737dea-16358_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/555/photos/16357_small.jpg?1568023687",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fd1553bfed-16357_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/555/photos/16356_small.jpg?1568023687",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e0f5b2dcc7-16356_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"תודה ש\" href=\"/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2800/normal_logo.jpg?1555249268')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0\">תודה ש - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/be2962ff8c-normal_logo.jpg"
+  },
+  {
+   "locationId": "488",
+   "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0",
+   "name": "קוקטייל קאר - Cocktail Car - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1172/normal_logo.png?1507120111",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(72 חוות דעת)",
+   "details": [
+    "קוקטייל קאר - Cocktail Car - שירותי בר",
+    "4.8 (72 חוות דעת)",
+    "סשה ארגוב 4 055-4539176 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/340/photos/8174_small.jpg?1500220922",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5cf08ec0ce-8174_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/340/photos/8176_small.jpg?1500220931",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/35cdb448e8-8176_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/340/photos/8172_small.jpg?1500220912",
+     "promo": true,
+     "promoPhone": "055-4539176",
+     "file": "directory/5c4d4caa81-8172_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "סשה ארגוב 4",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539176",
+     "href": "tel:055-4539176",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קוקטייל קאר - Cocktail Car\" href=\"/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1172/normal_logo.png?1507120111')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0\">קוקטייל קאר - Cocktail Car - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(72 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0\"><i class=\"fas fa-map-marker-alt\"></i> סשה ארגוב 4 </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539176\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539176</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/dc4139b104-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/562-peacock?search=0",
+   "name": "פיקוק - Peacock - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2093/normal_logo.png?1666513751",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(93 חוות דעת)",
+   "details": [
+    "פיקוק - Peacock - שירותי בר",
+    "4.8 (93 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/405/photos/10746_small.jpg?1517399420",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a480df4707-10746_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/562-peacock?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פיקוק - Peacock \" href=\"/he-IL/directory/brands/562-peacock?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2093/normal_logo.png?1666513751')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/562-peacock?search=0\">פיקוק - Peacock - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/562-peacock?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(93 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/562-peacock?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d939dba644-normal_logo.png"
+  },
+  {
+   "locationId": "497",
+   "href": "/he-IL/directory/brands/1485-647?search=0",
+   "name": "647 - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2438/normal_logo.png?1521735280",
+   "logoIcon": null,
+   "rating": "4.4",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "647 - שירותי בר",
+    "4.4 (6 חוות דעת)",
+    "תל אביב יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/1485-647?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/1485-647?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1485-647?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"647\" href=\"/he-IL/directory/brands/1485-647?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2438/normal_logo.png?1521735280')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1485-647?search=0\">647 - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1485-647?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 37.6%\"></i></div><span class=\"rating_total\">4.4</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/1485-647?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/1485-647?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1485-647?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4de1c63147-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/466-golden-bar?search=0",
+   "name": "Golden Bar - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1451/normal_logo.png?1525091804",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(49 חוות דעת)",
+   "details": [
+    "Golden Bar - שירותי בר",
+    "4.8 (49 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Golden Bar\" href=\"/he-IL/directory/brands/466-golden-bar?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1451/normal_logo.png?1525091804')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/466-golden-bar?search=0\">Golden Bar - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/466-golden-bar?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(49 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/466-golden-bar?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/466-golden-bar?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/601daa11b1-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0",
+   "name": "בר בוואן - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3013/normal_logo.jpg?1615991922",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "בר בוואן - שירותי בר",
+    "4.6 (2 חוות דעת)",
+    "055-4539255 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539255",
+     "href": "tel:055-4539255",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בר בוואן\" href=\"/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3013/normal_logo.jpg?1615991922')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0\">בר בוואן - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539255\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539255</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/82b63b8eae-normal_logo.jpg"
+  },
+  {
+   "locationId": "733",
+   "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0",
+   "name": "רווה אירועים | Reve Events - שירותי בר",
+   "logo": null,
+   "logoIcon": "ip-icon-cocktail",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "רווה אירועים | Reve Events - שירותי בר",
+    "(0 חוות דעת)",
+    "יבנה 055-4539663 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יבנה",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539663",
+     "href": "tel:055-4539663",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\" רווה אירועים | Reve Events \" href=\"/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שירותי בר\"><i class=\"ip-icon-cocktail\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0\"> רווה אירועים | Reve Events - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\" רווה אירועים | Reve Events \" href=\"/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0\"><i class=\"fas fa-map-marker-alt\"></i> יבנה </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539663\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539663</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0",
+   "name": "אמורפי - Amorphy - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1075/normal_logo.jpg?1570725178",
+   "logoIcon": null,
+   "rating": "4.5",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(13 חוות דעת)",
+   "details": [
+    "אמורפי - Amorphy - שירותי בר",
+    "4.5 (13 חוות דעת)",
+    "055-4539195 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539195",
+     "href": "tel:055-4539195",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אמורפי - Amorphy \" href=\"/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1075/normal_logo.jpg?1570725178')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0\">אמורפי - Amorphy - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 47.0%\"></i></div><span class=\"rating_total\">4.5</span></div> </a><div class=\"inline-block small nowrap\">(13 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539195\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539195</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/535ad0b88b-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/504-zoya?search=0",
+   "name": "Zoya - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1756/normal_logo.png?1507120890",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(69 חוות דעת)",
+   "details": [
+    "Zoya - שירותי בר",
+    "4.6 (69 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/504-zoya?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/504-zoya?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Zoya \" href=\"/he-IL/directory/brands/504-zoya?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1756/normal_logo.png?1507120890')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/504-zoya?search=0\">Zoya - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/504-zoya?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(69 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/504-zoya?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/504-zoya?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e487c43cd7-normal_logo.png"
+  },
+  {
+   "locationId": "597",
+   "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0",
+   "name": "ברבר - BarBar - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1975/normal_logo.png?1543224106",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(18 חוות דעת)",
+   "details": [
+    "ברבר - BarBar - שירותי בר",
+    "4.9 (18 חוות דעת)",
+    "חדרה יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "חדרה",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ברבר - BarBar\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1975/normal_logo.png?1543224106')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\">ברבר - BarBar - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(18 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\"><i class=\"fas fa-map-marker-alt\"></i> חדרה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3d81c9e502-normal_logo.png"
+  },
+  {
+   "locationId": "659",
+   "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+   "name": "סאם שירותי בר והפקות - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3350/normal_logo.jpg?1674488392",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(57 חוות דעת)",
+   "details": [
+    "סאם שירותי בר והפקות - שירותי בר",
+    "4.9 (57 חוות דעת)",
+    "צומת כנות יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/681/photos/21746_small.jpg?1718889312",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4f7d589a26-21746_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/681/photos/21747_small.jpg?1718889316",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/17f88df9a8-21747_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/681/photos/21748_small.jpg?1718889316",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/44e84fe391-21748_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/681/photos/21745_small.jpg?1718889311",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b550459722-21745_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/681/photos/21750_small.jpg?1718889322",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2b4b1cf7da-21750_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "צומת כנות",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סאם שירותי בר והפקות\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3350/normal_logo.jpg?1674488392')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\">סאם שירותי בר והפקות - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(57 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><i class=\"fas fa-map-marker-alt\"></i> צומת כנות </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/47948d7088-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/509-hili-s?search=0",
+   "name": "Hili's - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1607/normal_logo.jpg?1517968190",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "Hili's - שירותי בר",
+    "4.9 (6 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/212/photos/9808_small.jpg?1516053033",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0705e124d3-9808_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Hili's\" href=\"/he-IL/directory/brands/509-hili-s?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1607/normal_logo.jpg?1517968190')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/509-hili-s?search=0\">Hili's - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/509-hili-s?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/509-hili-s?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/509-hili-s?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/876d208278-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0",
+   "name": "סופרים בר - Supreme Bar - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1171/normal_logo.jpg?1570947144",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(10 חוות דעת)",
+   "details": [
+    "סופרים בר - Supreme Bar - שירותי בר",
+    "4.6 (10 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/337/photos/8496_small.jpg?1501138916",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d521264294-8496_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/337/photos/8497_small.jpg?1501138939",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cc5c303c67-8497_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/337/photos/8467_small.jpg?1501084421",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/13dd2ddf2b-8467_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/337/photos/8470_small.jpg?1501084432",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f3ed1d2b66-8470_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/337/photos/8469_small.jpg?1501084430",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f4a87fc91b-8469_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סופרים בר - Supreme Bar\" href=\"/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1171/normal_logo.jpg?1570947144')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0\">סופרים בר - Supreme Bar - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(10 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3f4d7309fe-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0",
+   "name": "סילבר האמר - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3324/normal_logo.png?1738665770",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "סילבר האמר - שירותי בר",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סילבר האמר\" href=\"/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3324/normal_logo.png?1738665770')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0\">סילבר האמר - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"סילבר האמר\" href=\"/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/527b9852b9-normal_logo.png"
+  },
+  {
+   "locationId": "596",
+   "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0",
+   "name": "לומינר - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3008/normal_logo.png?1611217313",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "לומינר - שירותי בר",
+    "5.0 (2 חוות דעת)",
+    "קיסריה עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיסריה",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"לומינר\" href=\"/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3008/normal_logo.png?1611217313')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0\">לומינר - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קיסריה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/15aad23462-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0",
+   "name": "רינגו בר - שירותי בר",
+   "logo": null,
+   "logoIcon": "ip-icon-cocktail",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "רינגו בר - שירותי בר",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רינגו בר\" href=\"/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שירותי בר\"><i class=\"ip-icon-cocktail\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0\">רינגו בר - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רינגו בר\" href=\"/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": "512",
+   "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0",
+   "name": "DuckFace Events - דאק פייס - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1178/normal_logo.jpg?1507120129",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(55 חוות דעת)",
+   "details": [
+    "DuckFace Events - דאק פייס - שירותי בר",
+    "4.7 (55 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/517/photos/13838_small.jpg?1540213864",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/78fb4ca12b-13838_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/517/photos/13837_small.jpg?1540213859",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/64dcfc2d5b-13837_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/517/photos/13833_small.jpg?1540213843",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/56298f8981-13833_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/517/photos/13698_small.jpg?1538053314",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9ffdc5b23d-13698_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"DuckFace Events - דאק פייס\" href=\"/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1178/normal_logo.jpg?1507120129')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0\">DuckFace Events - דאק פייס - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(55 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d81831468d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0",
+   "name": "בנג'י ואן - שירותי בר",
+   "logo": null,
+   "logoIcon": "ip-icon-cocktail",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "בנג'י ואן - שירותי בר",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/443/photos/11726_small.jpg?1521638307",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/91ea18073f-11726_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/443/photos/11725_small.jpg?1521638301",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ac31eb7774-11725_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/443/photos/11723_small.jpg?1521638288",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/18b48f2d3a-11723_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/443/photos/11721_small.jpg?1521638265",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f00b125dd3-11721_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/443/photos/11727_small.jpg?1521638338",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/20f4cd3318-11727_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בנג'י ואן\" href=\"/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שירותי בר\"><i class=\"ip-icon-cocktail\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0\">בנג'י ואן - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"בנג'י ואן\" href=\"/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/417-energy-concept?search=0",
+   "name": "Energy Concept - שירותי בר",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1483/normal_logo.png?1507120676",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(15 חוות דעת)",
+   "details": [
+    "Energy Concept - שירותי בר",
+    "4.8 (15 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/356/photos/8501_small.jpg?1501145966",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/aa75f38e8f-8501_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/356/photos/8500_small.jpg?1501145963",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6e1309c862-8500_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/356/photos/8507_small.jpg?1501146092",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/96169b1585-8507_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/356/photos/8505_small.jpg?1501146075",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/134e1f5ed9-8505_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/356/photos/8498_small.jpg?1501145915",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3836d63290-8498_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Energy Concept\" href=\"/he-IL/directory/brands/417-energy-concept?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1483/normal_logo.png?1507120676')\" title=\"שירותי בר\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/417-energy-concept?search=0\">Energy Concept - שירותי בר </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/417-energy-concept?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(15 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/417-energy-concept?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b066b7eea0-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "מיקסולוג'י טים-mixology Team - שירותי בר",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2046-%D7%9E%D7%99%D7%A7%D7%A1%D7%95%D7%9C%D7%95%D7%92%D7%99-%D7%98%D7%99%D7%9D-mixology-team?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "תודה ש - שירותי בר",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2077-%D7%AA%D7%95%D7%93%D7%94-%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539176 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539176"
+    },
+    {
+     "text": "עוד פרטים? 055-4539176 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "קוקטייל קאר - Cocktail Car - שירותי בר",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "סשה ארגוב 4",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "055-4539176",
+     "href": "tel:055-4539176"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/457-%D7%A7%D7%95%D7%A7%D7%98%D7%99%D7%99%D7%9C-%D7%A7%D7%90%D7%A8-cocktail-car?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/562-peacock?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/562-peacock?search=0"
+    },
+    {
+     "text": "פיקוק - Peacock - שירותי בר",
+     "href": "/he-IL/directory/brands/562-peacock?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/562-peacock?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/562-peacock?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "647 - שירותי בר",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "4.4",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1485-647?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "Golden Bar - שירותי בר",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/466-golden-bar?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0"
+    },
+    {
+     "text": "בר בוואן - שירותי בר",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0"
+    },
+    {
+     "text": "055-4539255",
+     "href": "tel:055-4539255"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2186-%D7%91%D7%A8-%D7%91%D7%95%D7%95%D7%90%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "רווה אירועים | Reve Events - שירותי בר",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "יבנה",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "055-4539663",
+     "href": "tel:055-4539663"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2352-%D7%A8%D7%95%D7%95%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-reve-events?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0"
+    },
+    {
+     "text": "אמורפי - Amorphy - שירותי בר",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0"
+    },
+    {
+     "text": "4.5",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0"
+    },
+    {
+     "text": "055-4539195",
+     "href": "tel:055-4539195"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/517-%D7%90%D7%9E%D7%95%D7%A8%D7%A4%D7%99-amorphy?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "Zoya - שירותי בר",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/504-zoya?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "ברבר - BarBar - שירותי בר",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "חדרה",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/549-%D7%91%D7%A8%D7%91%D7%A8-barbar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "סאם שירותי בר והפקות - שירותי בר",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "צומת כנות",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2261-%D7%A1%D7%90%D7%9D-%D7%A9%D7%99%D7%A8%D7%95%D7%AA%D7%99-%D7%91%D7%A8-%D7%95%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "Hili's - שירותי בר",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/509-hili-s?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "סופרים בר - Supreme Bar - שירותי בר",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/497-%D7%A1%D7%95%D7%A4%D7%A8%D7%99%D7%9D-%D7%91%D7%A8-supreme-bar?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0"
+    },
+    {
+     "text": "סילבר האמר - שירותי בר",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2260-%D7%A1%D7%99%D7%9C%D7%91%D7%A8-%D7%94%D7%90%D7%9E%D7%A8?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "לומינר - שירותי בר",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "קיסריה",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2181-%D7%9C%D7%95%D7%9E%D7%99%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "רינגו בר - שירותי בר",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2374-%D7%A8%D7%99%D7%A0%D7%92%D7%95-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "DuckFace Events - דאק פייס - שירותי בר",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/508-duckface-events-%D7%93%D7%90%D7%A7-%D7%A4%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "בנג'י ואן - שירותי בר",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/826-%D7%91%D7%A0%D7%92%D7%99-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "Energy Concept - שירותי בר",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/417-energy-concept?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

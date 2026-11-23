@@ -1,0 +1,50 @@
+html { font-size: 10px; }
+body {
+  margin: 0;
+  background-color: $c-footer;
+  color: $c-ink;
+  font-size: 16px;
+  font-weight: 100;
+  font-family: var(--font-rubik), Rubik, Arial, sans-serif;
+  &:not(.modal-open-full-screen) { padding-top: 61px; }
+  h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, strong, .strong, form label { font-weight: 400; }
+  .close { font-weight: 500; }
+  .popover-title, .popover-content, .tooltip-inner { font-weight: 400; }
+  .popover-title { font-weight: 600; }
+  h1, h2, h3, h4, h5 { margin-top: 0; margin-bottom: 0; }
+  h2 { font-size: 36px; }
+  h3 { font-size: 24px; }
+  .text-muted { font-weight: 300; color: $c-muted; }
+  .section-gray .text-muted { color: $c-muted-on-gray; }
+  .section-gray a.btn-link-dotted { color: $c-link-strong; }
+  .tooltip > .close { margin: 5px 13px; font-size: 20px; }
+  .tooltip .tooltip-inner { padding: 10px; font-size: 14px; }
+}
+// en-US is rendered by the original with the LTR theme: Arial, regular weight, 18px body
+body.locale-en {
+  font-family: Arial, sans-serif;
+  font-weight: normal;
+  font-size: 18px;
+  h2 { font-weight: 100; }
+  h1, h2, h3, h4, h5, h6, strong, .strong, form label { font-weight: bold; }
+  h2 { font-weight: 100; }
+  h3 { font-weight: 400; }
+  .btn, .dropdown-menu, .form-control { font-family: Arial, sans-serif; }
+}
+a:focus-visible, button:focus-visible, .btn:focus-visible { outline: 2px solid #005fcc; outline-offset: 2px; }
+
+.btn-link-dotted {
+  color: $c-link;
+  border-bottom: 1px dotted $c-link;
+  font-weight: normal;
+  border-radius: 0;
+  &:hover, &:focus { text-decoration: none; }
+}
+body .btn.btn-success { background-color: $c-success; border-color: #1e6341; color: #fff;
+  &:hover, &:focus, &:active { background-color: #1e6341; border-color: #184f34; } }
+body .btn.btn-info { background-color: $c-info; border-color: #1d5b83; color: #fff;
+  &:hover, &:focus, &:active { background-color: #1d5b83; border-color: #174868; } }
+
+form label.req::after { margin-left: 5px; margin-right: 5px; content: '*'; color: #eb5959; }
+form .has-error .form-control { background-color: #ffe1ee; }
+form input[type=email], form input[type=password] { /*rtl:ignore*/ direction: ltr; }

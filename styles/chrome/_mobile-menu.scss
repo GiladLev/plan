@@ -1,0 +1,73 @@
+// Small-screen navigation: Bootstrap modal promoted to a full-screen sheet (#main_navigation_modal)
+body #main_navigation_modal {
+  ul { list-style-type: none; padding: 0; }
+  .modal-header {
+    color: #fff;
+    background: $c-nav $tex-nav repeat top left;
+    border-color: $c-nav-dark;
+    .modal-title { margin-top: -10px; margin-bottom: -10px; i.ip-icon-logo { font-size: 40px; } }
+    .close { font-weight: 100; color: #fff; text-shadow: none; opacity: 1; }
+  }
+  ul.nav.navbar-nav {
+    margin: 0;
+    li.dropdown {
+      border-top: 1px solid #e5e5e5;
+      a { color: $c-ink; }
+      h4 { margin: 0; padding: 20px 20px 0 20px; font-weight: 400; .small { font-weight: 100; margin-top: 3px; } }
+      > a { display: block; }
+      ul.dropdown-menu {
+        padding: 10px 20px;
+        li:not(.divider) { padding: 2px 0; }
+        li.header { padding: 5px 10px; }
+        li.empty { display: none; }
+        li.active a { background-color: #f5f5f5; font-weight: 500; }
+        li a {
+          padding: 10px 15px; white-space: nowrap; display: block; border-radius: 5px; position: relative; line-height: 19px; font-weight: 400;
+          &:hover { background-color: transparent; text-decoration: none; i { color: $c-muted; } &:active { background-color: #f5f5f5; i { color: $c-ink; } } }
+          i { margin-right: -15px; vertical-align: middle; display: inline-block; font-size: 18px; width: 35px; text-align: center; color: $c-muted; }
+        }
+        &.dropdown-menu-lg li a { font-size: 16px; line-height: 25px; padding: 10px 20px; font-weight: 100;
+          i { margin-right: -20px; font-size: 24px; width: 50px; text-align: center; }
+        }
+      }
+    }
+    &.navbar-top {
+      background-color: #f5f5f5;
+      li.dropdown {
+        .fa-chevron-down { display: none; }
+        a.dropdown-toggle { background-color: transparent;
+          h4 { margin-top: 10px; margin-bottom: 8px; padding: 0; }
+          i { margin-left: 8px; }
+        }
+        &.open a.dropdown-toggle { border-bottom: 1px solid #e5e5e5;
+          .fa-chevron-left, .fa-chevron-right { display: none; }
+          .fa-chevron-down { display: inline-block; }
+        }
+        ul.dropdown-menu li.active a { background-color: #e5e5e5; }
+        ul.dropdown-menu li a:hover { background-color: transparent; &:active { background-color: #e5e5e5; } }
+      }
+    }
+  }
+}
+// the nav "dropdowns" inside the sheet are always laid out inline
+#main_navigation_modal .navbar-nav { float: none; }
+#main_navigation_modal .navbar-nav > li { float: none; }
+#main_navigation_modal .navbar-nav .open .dropdown-menu, #main_navigation_modal .navbar-nav .dropdown-menu { position: static; float: none; width: auto; margin-top: 0; background-color: transparent; border: 0; box-shadow: none; }
+#main_navigation_modal .navbar-top .dropdown:not(.open) > .dropdown-menu { display: none; }
+
+body.modal-open-full-screen {
+  overflow: auto;
+  background: #fff;
+  #page > section, #page > main, #page > footer, .modal-backdrop, #page > .navbar, .privacy_cookies_banner { display: none !important; }
+  .modal.modal-full-screen {
+    background: #fff; position: static; padding: 0 !important; display: block;
+    .modal-dialog { margin: 0; width: 100%; transform: none;
+      .modal-content { border: 0; border-radius: 0; padding-top: 61px; box-shadow: none;
+        .modal-header { z-index: 1; position: fixed; width: 100%; top: 0; padding: 12px 7px 11px 50px;
+          h4 { font-size: 26px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+          .close { font-size: 40px; margin: 0; position: absolute; left: 18px; top: 12px; }
+        }
+      }
+    }
+  }
+}

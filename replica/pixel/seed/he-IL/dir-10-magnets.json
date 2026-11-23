@@ -1,0 +1,1298 @@
+{
+ "category": {
+  "title": "צילום מגנטים",
+  "icon": "ip-icon-pictures",
+  "meta": "מוצגות 20 מתוך 79 תוצאות שנמצאו",
+  "pageTitle": "חיפוש צילום מגנטים | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "374",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "375",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "376",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "377",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "378",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "379",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[267][]",
+     "value": "380",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0",
+   "name": "מגנטולי - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1007/normal_logo.png?1518341948",
+   "logoIcon": null,
+   "rating": "3.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "מגנטולי - צילום והדפסת מגנטים",
+    "3.0 (1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/437/photos/11126_small.jpg?1518341582",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/887bbadcf9-11126_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מגנטולי\" href=\"/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1007/normal_logo.png?1518341948')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0\">מגנטולי - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><span class=\"rating_total\">3.0</span></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f680b89854-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0",
+   "name": "מגנטינה - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1009/normal_logo.jpg?1517228353",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(26 חוות דעת)",
+   "details": [
+    "מגנטינה - צילום והדפסת מגנטים",
+    "5.0 (26 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/423/photos/10592_small.jpg?1517228568",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/62c183ac72-10592_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/423/photos/10595_small.jpg?1517228607",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fc7b52a882-10595_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מגנטינה\" href=\"/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1009/normal_logo.jpg?1517228353')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0\">מגנטינה - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(26 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f44d0090d7-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0",
+   "name": "אימנס - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1011/normal_logo.png?1507119877",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(7 חוות דעת)",
+   "details": [
+    "אימנס - צילום והדפסת מגנטים",
+    "4.9 (7 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/421/photos/10612_small.jpg?1517231014",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/455f39c1e1-10612_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אימנס\" href=\"/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1011/normal_logo.png?1507119877')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0\">אימנס - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(7 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b6f04fc6aa-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+   "name": "SH הפקות - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2416/normal_logo.jpg?1522846571",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "SH הפקות - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/466/photos/11914_small.jpg?1522848443",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9504a24492-11914_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"SH הפקות\" href=\"/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2416/normal_logo.jpg?1522846571')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\">SH הפקות - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"SH הפקות\" href=\"/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/853d167d1e-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0",
+   "name": "פירוספארק - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1017/normal_logo.png?1507119889",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "פירוספארק - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פירוספארק\" href=\"/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1017/normal_logo.png?1507119889')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0\">פירוספארק - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"פירוספארק\" href=\"/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/19e5b9338a-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0",
+   "name": "ממגנט-לי - צילום והדפסת מגנטים",
+   "logo": null,
+   "logoIcon": "ip-icon-pictures",
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "ממגנט-לי - צילום והדפסת מגנטים",
+    "4.8 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ממגנט-לי\" href=\"/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום מגנטים\"><i class=\"ip-icon-pictures\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0\">ממגנט-לי - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0",
+   "name": "פלאש בק - צילום והדפסת מגנטים",
+   "logo": null,
+   "logoIcon": "ip-icon-pictures",
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "פלאש בק - צילום והדפסת מגנטים",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פלאש בק\" href=\"/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום מגנטים\"><i class=\"ip-icon-pictures\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0\">פלאש בק - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0",
+   "name": "מגניטי - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1224/normal_logo.jpg?1521987107",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מגניטי - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מגניטי\" href=\"/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1224/normal_logo.jpg?1521987107')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0\">מגניטי - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מגניטי\" href=\"/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/74e5a5c34f-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/672-trend-54?search=0",
+   "name": "Trend 54 - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1015/normal_logo.png?1514807023",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(52 חוות דעת)",
+   "details": [
+    "Trend 54 - צילום והדפסת מגנטים",
+    "5.0 (52 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Trend 54\" href=\"/he-IL/directory/brands/672-trend-54?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1015/normal_logo.png?1514807023')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/672-trend-54?search=0\">Trend 54 - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/672-trend-54?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(52 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/672-trend-54?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/befbc81992-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1006-view?search=0",
+   "name": "view - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2305/normal_logo.jpg?1518525938",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "view - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1006-view?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"view \" href=\"/he-IL/directory/brands/1006-view?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2305/normal_logo.jpg?1518525938')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1006-view?search=0\">view - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"view \" href=\"/he-IL/directory/brands/1006-view?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1006-view?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/15124924f6-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+   "name": "שוויצריה הפקות - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1018/normal_logo.png?1507560359",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(23 חוות דעת)",
+   "details": [
+    "שוויצריה הפקות - צילום והדפסת מגנטים",
+    "4.9 (23 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שוויצריה הפקות\" href=\"/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1018/normal_logo.png?1507560359')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\">שוויצריה הפקות - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(23 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/523770adcc-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0",
+   "name": "Mגניב - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2284/normal_logo.jpg?1521130628",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "Mגניב - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Mגניב\" href=\"/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2284/normal_logo.jpg?1521130628')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0\">Mגניב - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Mגניב\" href=\"/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/56ef265eae-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/682-selfie-point?search=0",
+   "name": "Selfie Point - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1910/normal_logo.png?1514883033",
+   "logoIcon": null,
+   "rating": "4.3",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "Selfie Point - צילום והדפסת מגנטים",
+    "4.3 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Selfie Point\" href=\"/he-IL/directory/brands/682-selfie-point?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1910/normal_logo.png?1514883033')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/682-selfie-point?search=0\">Selfie Point - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/682-selfie-point?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 28.2%\"></i></div><span class=\"rating_total\">4.3</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/682-selfie-point?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ee6b087482-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0",
+   "name": "רועי עטרי - צילום והדפסת מגנטים",
+   "logo": null,
+   "logoIcon": "ip-icon-pictures",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "רועי עטרי - צילום והדפסת מגנטים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רועי עטרי \" href=\"/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום מגנטים\"><i class=\"ip-icon-pictures\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0\">רועי עטרי - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רועי עטרי \" href=\"/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0",
+   "name": "עידן המגנטים - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/990/normal_logo.png?1507119825",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "עידן המגנטים - צילום והדפסת מגנטים",
+    "4.9 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עידן המגנטים\" href=\"/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/990/normal_logo.png?1507119825')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0\">עידן המגנטים - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/728783e73e-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "שואו אירועים - צילום והדפסת מגנטים",
+   "logo": null,
+   "logoIcon": "ip-icon-pictures",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "שואו אירועים - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שואו אירועים \" href=\"/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום מגנטים\"><i class=\"ip-icon-pictures\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">שואו אירועים - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"שואו אירועים \" href=\"/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0",
+   "name": "מתמגנטים באהבה - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/989/normal_logo.png?1507119822",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(10 חוות דעת)",
+   "details": [
+    "מתמגנטים באהבה - צילום והדפסת מגנטים",
+    "5.0 (10 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מתמגנטים באהבה\" href=\"/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/989/normal_logo.png?1507119822')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0\">מתמגנטים באהבה - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(10 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/49e4af4535-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/674-gm-magnetics?search=0",
+   "name": "Gm.magnetics - גמ.מגנטיקס - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/992/normal_logo.png?1507119832",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(7 חוות דעת)",
+   "details": [
+    "Gm.magnetics - גמ.מגנטיקס - צילום והדפסת מגנטים",
+    "5.0 (7 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Gm.magnetics - גמ.מגנטיקס\" href=\"/he-IL/directory/brands/674-gm-magnetics?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/992/normal_logo.png?1507119832')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/674-gm-magnetics?search=0\">Gm.magnetics - גמ.מגנטיקס - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/674-gm-magnetics?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(7 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/674-gm-magnetics?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a43963718e-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0",
+   "name": "בניאל טל - צילום והדפסת מגנטים",
+   "logo": null,
+   "logoIcon": "ip-icon-pictures",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "בניאל טל - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בניאל טל \" href=\"/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום מגנטים\"><i class=\"ip-icon-pictures\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0\">בניאל טל - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"בניאל טל \" href=\"/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0",
+   "name": "אייל - צילום והדפסת מגנטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/736/normal_logo.png?1507119339",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אייל - צילום והדפסת מגנטים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אייל\" href=\"/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/736/normal_logo.png?1507119339')\" title=\"צילום מגנטים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0\">אייל - צילום והדפסת מגנטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אייל\" href=\"/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7b39392b4f-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "מגנטולי - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "3.0",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/819-%D7%9E%D7%92%D7%A0%D7%98%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "מגנטינה - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/675-%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0"
+    },
+    {
+     "text": "אימנס - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/670-%D7%90%D7%99%D7%9E%D7%A0%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "SH הפקות - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1956-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0"
+    },
+    {
+     "text": "פירוספארק - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1513-%D7%A4%D7%99%D7%A8%D7%95%D7%A1%D7%A4%D7%90%D7%A8%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "ממגנט-לי - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1964-%D7%9E%D7%9E%D7%92%D7%A0%D7%98-%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "פלאש בק - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1967-%D7%A4%D7%9C%D7%90%D7%A9-%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "מגניטי - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1509-%D7%9E%D7%92%D7%A0%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0"
+    },
+    {
+     "text": "Trend 54 - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/672-trend-54?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1006-view?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1006-view?search=0"
+    },
+    {
+     "text": "view - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1006-view?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1006-view?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1006-view?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "שוויצריה הפקות - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1512-%D7%A9%D7%95%D7%95%D7%99%D7%A6%D7%A8%D7%99%D7%94-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "Mגניב - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1016-m%D7%92%D7%A0%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0"
+    },
+    {
+     "text": "Selfie Point - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0"
+    },
+    {
+     "text": "4.3",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/682-selfie-point?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "רועי עטרי - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1538-%D7%A8%D7%95%D7%A2%D7%99-%D7%A2%D7%98%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עידן המגנטים - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1529-%D7%A2%D7%99%D7%93%D7%9F-%D7%94%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "שואו אירועים - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2026-%D7%A9%D7%95%D7%90%D7%95-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "מתמגנטים באהבה - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1530-%D7%9E%D7%AA%D7%9E%D7%92%D7%A0%D7%98%D7%99%D7%9D-%D7%91%D7%90%D7%94%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0"
+    },
+    {
+     "text": "Gm.magnetics - גמ.מגנטיקס - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/674-gm-magnetics?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "בניאל טל - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1010-%D7%91%D7%A0%D7%99%D7%90%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "אייל - צילום והדפסת מגנטים",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1534-%D7%90%D7%99%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

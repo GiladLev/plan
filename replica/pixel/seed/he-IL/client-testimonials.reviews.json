@@ -1,0 +1,277 @@
+[
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של נועם &quot;Noam&quot;\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/271898/photo_271898_square_sm.jpg?1792927650\"> <div class=\"review-heading\"> <h4> נועם \"Noam\" </h4> <div class=\"small text-muted\"> ניתנה לפני בערך 11 שעות </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">16/11/2026</div> <div class=\"label label-default\">קאי - ריזורט אירועים </div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">שירות מעולה ! מרוצים מאוד</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/271898/photo_271898_square_sm.jpg?1792927650"
+  ],
+  "text": "נועם \"Noam\" ניתנה לפני בערך 11 שעות חתונה 16/11/2026 קאי - ריזורט אירועים שירות מעולה ! מרוצים מאוד",
+  "files": [
+   "directory/2dd552f661-photo_271898_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של Yuli-Yosef Seada\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/291888/photo_291888_square_sm.jpg?1791825582\"> <div class=\"review-heading\"> <h4> Yuli-Yosef Seada </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">17/11/2026</div> <div class=\"label label-default\">ארץ מתחם אירועים</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">היה מאוד נוח שהכול מרוכז באותה מערכת, מערכת אינטואיטיבית. תודה רבה!</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/291888/photo_291888_square_sm.jpg?1791825582"
+  ],
+  "text": "Yuli-Yosef Seada ניתנה לפני יום אחד חתונה 17/11/2026 ארץ מתחם אירועים היה מאוד נוח שהכול מרוכז באותה מערכת, מערכת אינטואיטיבית. תודה רבה!",
+  "files": [
+   "directory/9ad78e8732-photo_291888_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של אורלי מכטייב\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> אורלי מכטייב </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">19/11/2026</div> <div class=\"label label-default\">VIA</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">שרות מצוין ענו על כל שאלה באדיבות וסובלנות</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "אורלי מכטייב ניתנה לפני יום אחד חתונה 19/11/2026 VIA שרות מצוין ענו על כל שאלה באדיבות וסובלנות",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של shira elimelech\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> shira elimelech </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">19/11/2026</div> <div class=\"label label-default\">שבט | Shevett</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">היה מעולה, שירותיים ונדיבים:)</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "shira elimelech ניתנה לפני יום אחד חתונה 19/11/2026 שבט | Shevett היה מעולה, שירותיים ונדיבים:)",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של אסף ביתן\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> אסף ביתן </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">17/11/2026</div> <div class=\"label label-default\">אביגדור</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">סהכ נהדר! נציגים נעימים ועוזרים. הדבר העיקרי שחסר- לא יכולים לשלוח בעצמכם הודעות כשמבקשים. יכול היה לעזור לשניויים קטנים והודעות שיש לישלוח כשאנחנו לא ליד מחשב ולא פנויים לתפעל את הנושא הזה. סהכ באמת מעולה.</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "אסף ביתן ניתנה לפני יום אחד חתונה 17/11/2026 אביגדור סהכ נהדר! נציגים נעימים ועוזרים. הדבר העיקרי שחסר- לא יכולים לשלוח בעצמכם הודעות כשמבקשים. יכול היה לעזור לשניויים קטנים והודעות שיש לישלוח כשאנחנו לא ליד מחשב ולא פנויים לתפעל את הנושא הזה. סהכ באמת מעולה.",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של עומר ניר\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> עומר ניר </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">20/11/2026</div> <div class=\"label label-default\">הגבעה</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">מהיר קליל, והכי חשוב מסונכרן</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "עומר ניר ניתנה לפני יום אחד חתונה 20/11/2026 הגבעה מהיר קליל, והכי חשוב מסונכרן",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של עדי הראלי\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> עדי הראלי </h4> <div class=\"small text-muted\"> ניתנה לפני יום אחד </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">20/11/2026</div> <div class=\"label label-default\"> האגם - אירועים בגן הבוטני </div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">נוח ומאוד ברור לשימוש. עושה חיים קלים 😁</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "עדי הראלי ניתנה לפני יום אחד חתונה 20/11/2026 האגם - אירועים בגן הבוטני נוח ומאוד ברור לשימוש. עושה חיים קלים 😁",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של סתיו אוחיון\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/280424/photo_280424_square_sm.jpg?1781251208\"> <div class=\"review-heading\"> <h4> סתיו אוחיון </h4> <div class=\"small text-muted\"> ניתנה לפני 4 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">17/11/2026</div> <div class=\"label label-default\">עלמה</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">היה מושלם!!! השירות 10/10</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/280424/photo_280424_square_sm.jpg?1781251208"
+  ],
+  "text": "סתיו אוחיון ניתנה לפני 4 ימים חתונה 17/11/2026 עלמה היה מושלם!!! השירות 10/10",
+  "files": [
+   "directory/8fc1a01e79-photo_280424_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של רחל ברמן פיקאר\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> רחל ברמן פיקאר </h4> <div class=\"small text-muted\"> ניתנה לפני 5 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">15/11/2026</div> <div class=\"label label-default\">האחוזה- מודיעין</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">ממשק נח ויעיל, סייע לנו מאד</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "רחל ברמן פיקאר ניתנה לפני 5 ימים חתונה 15/11/2026 האחוזה- מודיעין ממשק נח ויעיל, סייע לנו מאד",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של Goni Naor\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> Goni Naor </h4> <div class=\"small text-muted\"> ניתנה לפני 5 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">House No.Seven</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">שירות מצוין ויחס מעולה שירות לקוחות זמין ביותר</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "Goni Naor ניתנה לפני 5 ימים חתונה 11/11/2026 House No.Seven שירות מצוין ויחס מעולה שירות לקוחות זמין ביותר",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של מאיה בריקס\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> מאיה בריקס </h4> <div class=\"small text-muted\"> ניתנה לפני 6 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">12/11/2026</div> <div class=\"label label-default\">צל החורש</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">בגדול העבודה מולם הייתה נוחה, והשירות לקוחות ענה ממש מהר וביעלות. משהו אחד שלדעתי קצת פחות טוב-אנחנו רצינו לשלוח הודעות בווטסאפ. וזה לעומת הודעות בsms כל הזמן דרש לשלוח להם הודעה מיוחדת ולא היה ניתן לערוך את הטקסט כמו שניתן בsms. חוץ מזה הכל היה אחלה</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "מאיה בריקס ניתנה לפני 6 ימים חתונה 12/11/2026 צל החורש בגדול העבודה מולם הייתה נוחה, והשירות לקוחות ענה ממש מהר וביעלות. משהו אחד שלדעתי קצת פחות טוב-אנחנו רצינו לשלוח הודעות בווטסאפ. וזה לעומת הודעות בsms כל הזמן דרש לשלוח להם הודעה מיוחדת ולא היה ניתן לערוך את הטקסט כמו שניתן בsms. חוץ מזה הכל היה אחלה",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של דור לידג'י\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/284835/photo_284835_square_sm.jpg?1792152816\"> <div class=\"review-heading\"> <h4> דור לידג'י </h4> <div class=\"small text-muted\"> ניתנה לפני 6 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">חלום בחווה - אורבן</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">הכל מסונכרן. ממשק נוח מהמחשב והנייד ושירות מעולה</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/284835/photo_284835_square_sm.jpg?1792152816"
+  ],
+  "text": "דור לידג'י ניתנה לפני 6 ימים חתונה 11/11/2026 חלום בחווה - אורבן הכל מסונכרן. ממשק נוח מהמחשב והנייד ושירות מעולה",
+  "files": [
+   "directory/f0f8498b42-photo_284835_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של Daniel Faza\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/party_square_sm-45ef2c409085cc992ce5565cf6407314ca027e7d94d2995c1cca84ab78bb62bd.png\"> <div class=\"review-heading\"> <h4> Daniel Faza </h4> <div class=\"small text-muted\"> ניתנה לפני 6 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">מסיבה</div> <div class=\"label label-default\">15/11/2026</div> <div class=\"label label-default\">דואאה</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">שירות מעולה!!! שווה כל שקל</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/party_square_sm-45ef2c409085cc992ce5565cf6407314ca027e7d94d2995c1cca84ab78bb62bd.png"
+  ],
+  "text": "Daniel Faza ניתנה לפני 6 ימים מסיבה 15/11/2026 דואאה שירות מעולה!!! שווה כל שקל",
+  "files": [
+   "directory/e7193761ed-party_square_sm-45ef2c409085cc992ce5565cf6407314ca027e7d94d2995c1cca84ab78bb62bd.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של זוהר וידל\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> זוהר וידל </h4> <div class=\"small text-muted\"> ניתנה לפני 7 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">10/11/2026</div> <div class=\"label label-default\">SERA | אירועים בעמק האלה</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">המערכת ממש נוחה, הכל היה לנו ברור ומסונכרן ישר עם הסידורי הושבה ככה שאין תקלות. בנוסף הם היו זמינים לנו בטלפון ובווטסאפ לכל שאלה.</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "זוהר וידל ניתנה לפני 7 ימים חתונה 10/11/2026 SERA | אירועים בעמק האלה המערכת ממש נוחה, הכל היה לנו ברור ומסונכרן ישר עם הסידורי הושבה ככה שאין תקלות. בנוסף הם היו זמינים לנו בטלפון ובווטסאפ לכל שאלה.",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של שני שכטר\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> שני שכטר </h4> <div class=\"small text-muted\"> ניתנה לפני 7 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">09/11/2026</div> <div class=\"label label-default\">באסיקו</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">המערכת נוחה, פשוטה וידידותית שחסכה לנו המון זמן והתעסקות לקראת החתונה. מעבר למערכת המצוינת, השירות היה פשוט מעולה! תמיד הייתה זמינות בוואטסאפ, בכל פעם שהייתה לנו שאלה קיבלנו מענה מהיר, סבלני ומקצועי. ללא ספק בחירה מעולה שעשתה לנו את כל התהליך הרבה יותר פשוט ונוח. ממליצים בחום</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "שני שכטר ניתנה לפני 7 ימים חתונה 09/11/2026 באסיקו המערכת נוחה, פשוטה וידידותית שחסכה לנו המון זמן והתעסקות לקראת החתונה. מעבר למערכת המצוינת, השירות היה פשוט מעולה! תמיד הייתה זמינות בוואטסאפ, בכל פעם שהייתה לנו שאלה קיבלנו מענה מהיר, סבלני ומקצועי. ללא ספק בחירה מעולה שעשתה לנו את כל התהליך הרבה יותר פשוט ונוח. ממליצים בחום",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של גל ראובן לוי\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/268825/photo_268825_square_sm.jpg?1793606648\"> <div class=\"review-heading\"> <h4> גל ראובן לוי </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">12/11/2026</div> <div class=\"label label-default\">אהובת הספן</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">ממשק מאוד נוח לעבודה ונותן תמונה של האולם והכמות מוזמנים שתגיע וזה עושה סדר בראש</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/268825/photo_268825_square_sm.jpg?1793606648"
+  ],
+  "text": "גל ראובן לוי ניתנה לפני 8 ימים חתונה 12/11/2026 אהובת הספן ממשק מאוד נוח לעבודה ונותן תמונה של האולם והכמות מוזמנים שתגיע וזה עושה סדר בראש",
+  "files": [
+   "directory/396bb2e4b2-photo_268825_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של נועם פריידברג\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/267562/photo_267562_square_sm.jpg?1764186133\"> <div class=\"review-heading\"> <h4> נועם פריידברג </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">12/11/2026</div> <div class=\"label label-default\">ירוק על המים</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">אנחנו עבדנו עם I plan הסידורי הושבה היה הכי נוח ומובן שיש לעשות את הסידור הושבה שחששנו ממנו המון, כל שאלה היו זמינים אלינו ונתנו לנו הרגשה טובה</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/267562/photo_267562_square_sm.jpg?1764186133"
+  ],
+  "text": "נועם פריידברג ניתנה לפני 8 ימים חתונה 12/11/2026 ירוק על המים אנחנו עבדנו עם I plan הסידורי הושבה היה הכי נוח ומובן שיש לעשות את הסידור הושבה שחששנו ממנו המון, כל שאלה היו זמינים אלינו ונתנו לנו הרגשה טובה",
+  "files": [
+   "directory/d5f7794428-photo_267562_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של Itzik Asher\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> Itzik Asher </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">סיטרוס</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">ממשק מדהים ונוח שעושה לך המון סדר בכל נושא האורחים, אישורי ההגעה וההושבה. תמיד היו זמינים לכל פניה ושאלה. מומלץ בחום!</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "Itzik Asher ניתנה לפני 8 ימים חתונה 11/11/2026 סיטרוס ממשק מדהים ונוח שעושה לך המון סדר בכל נושא האורחים, אישורי ההגעה וההושבה. תמיד היו זמינים לכל פניה ושאלה. מומלץ בחום!",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של בתאל אבוטבול\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/279436/photo_279436_square_sm.jpg?1779118940\"> <div class=\"review-heading\"> <h4> בתאל אבוטבול </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">אגדתא</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">התחתנו ב11.11.26 וקיבלנו שירות אישורי הגעה דרך אייפלאן. השירות היה אחלה לגמרי, חוץ מזה שהם שולחים הרבה תזכורות לנו החתן והכלה שזה מעט מתיש. אבל חוץ מזה הם אחלה באמת.</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/279436/photo_279436_square_sm.jpg?1779118940"
+  ],
+  "text": "בתאל אבוטבול ניתנה לפני 8 ימים חתונה 11/11/2026 אגדתא התחתנו ב11.11.26 וקיבלנו שירות אישורי הגעה דרך אייפלאן. השירות היה אחלה לגמרי, חוץ מזה שהם שולחים הרבה תזכורות לנו החתן והכלה שזה מעט מתיש. אבל חוץ מזה הם אחלה באמת.",
+  "files": [
+   "directory/7fe9d47d56-photo_279436_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של amit shemesh\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> amit shemesh </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">10/11/2026</div> <div class=\"label label-default\">חוות אלנבי</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">תודה רבה היה נוח לשימוש ושירות לקוחות זמין</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "amit shemesh ניתנה לפני 8 ימים חתונה 10/11/2026 חוות אלנבי תודה רבה היה נוח לשימוש ושירות לקוחות זמין",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של עדי כהן\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> עדי כהן </h4> <div class=\"small text-muted\"> ניתנה לפני 8 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">08/11/2026</div> <div class=\"label label-default\">קאי - ריזורט אירועים </div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">קיבלנו את שירות ההושבה מהאולם והוא היה מאוד נוח :)</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "עדי כהן ניתנה לפני 8 ימים חתונה 08/11/2026 קאי - ריזורט אירועים קיבלנו את שירות ההושבה מהאולם והוא היה מאוד נוח :)",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של דור סיני\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> דור סיני </h4> <div class=\"small text-muted\"> ניתנה לפני 9 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">10/11/2026</div> <div class=\"label label-default\">אלה - בית לאירועים</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">מעולים ומקצוענים אין עליכם</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "דור סיני ניתנה לפני 9 ימים חתונה 10/11/2026 אלה - בית לאירועים מעולים ומקצוענים אין עליכם",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של Elinor Zeichner\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/290509/photo_290509_square_sm.jpg?1789850057\"> <div class=\"review-heading\"> <h4> Elinor Zeichner </h4> <div class=\"small text-muted\"> ניתנה לפני 9 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">08/11/2026</div> <div class=\"label label-default\">הגלריה</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">מעולה, שימושי מאוד ועושה סדר, ממליצה מאוד</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/290509/photo_290509_square_sm.jpg?1789850057"
+  ],
+  "text": "Elinor Zeichner ניתנה לפני 9 ימים חתונה 08/11/2026 הגלריה מעולה, שימושי מאוד ועושה סדר, ממליצה מאוד",
+  "files": [
+   "directory/3e3c64e91b-photo_290509_square_sm.jpg"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של נוי גורלי\" src=\"https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png\"> <div class=\"review-heading\"> <h4> נוי גורלי </h4> <div class=\"small text-muted\"> ניתנה לפני 9 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">The Avenue</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">ממשק נוח ברמות! זמינות מטורפת! הוצאה בין הטובות שעשינו בחתונה!</span></span></div> </div>",
+  "imgs": [
+   "https://d2vawm7u8pr5bs.cloudfront.net/assets/default_event_photo/wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ],
+  "text": "נוי גורלי ניתנה לפני 9 ימים חתונה 11/11/2026 The Avenue ממשק נוח ברמות! זמינות מטורפת! הוצאה בין הטובות שעשינו בחתונה!",
+  "files": [
+   "directory/2efb2fe75f-wedding_square_sm-5366e2fe997ee6502402d0e3aafc273134e50e6deb149f55b7b75edaec78936d.png"
+  ]
+ },
+ {
+  "cls": "testimonial",
+  "html": "<div class=\"testimonial\"> <img class=\"img-circle pull-left\" alt=\"תמונת האירוע של עופרי אזולאי\" src=\"https://iplan-uuc-production.s3.amazonaws.com/public/client/events/293816/photo_293816_square_sm.jpg?1793037238\"> <div class=\"review-heading\"> <h4> עופרי אזולאי </h4> <div class=\"small text-muted\"> ניתנה לפני 10 ימים </div> <div class=\"event-attributes\"> <div class=\"label label-default\">חתונה</div> <div class=\"label label-default\">11/11/2026</div> <div class=\"label label-default\">קדם מתחם אירועים</div> </div> </div> <div class=\"review-body text-muted\"><span style=\"white-space: pre-wrap\"><span class=\"full_text\">הצוות מקסים, השירות מושלם!! תודה רבה לכם</span></span></div> </div>",
+  "imgs": [
+   "https://iplan-uuc-production.s3.amazonaws.com/public/client/events/293816/photo_293816_square_sm.jpg?1793037238"
+  ],
+  "text": "עופרי אזולאי ניתנה לפני 10 ימים חתונה 11/11/2026 קדם מתחם אירועים הצוות מקסים, השירות מושלם!! תודה רבה לכם",
+  "files": [
+   "directory/cae82785ea-photo_293816_square_sm.jpg"
+  ]
+ }
+]

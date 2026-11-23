@@ -1,0 +1,138 @@
+// Fixed top navigation (#main_navigation) — values from home@1440 extraction + nav-dropdown state captures
+.navbar {
+  min-height: 60px;
+  font-size: 18px;
+  .navbar-brand { padding: 1.5px 7px; font-size: 40px; line-height: 57px; height: 60px; }
+  .navbar-nav { margin: 8.75px -7px;
+    > li > a { line-height: 25px; }
+  }
+  .navbar-toggle { margin-top: 13px; margin-bottom: 13px; }
+  @include md-up {
+    .navbar-nav { margin: 0;
+      > li > a { padding-top: 17.5px; padding-bottom: 17.5px; }
+    }
+  }
+}
+.navbar-blue {
+  margin-bottom: 0;
+  background: $c-nav $tex-nav repeat top left;
+  border-color: $c-nav-dark;
+  .navbar-brand { color: #f2f2f2; margin: 0 !important;
+    &:hover, &:focus { color: #fff; background-color: transparent; }
+  }
+  .navbar-nav > li > a { color: $c-nav-text;
+    &:hover, &:focus { color: #fff; background-color: transparent; }
+  }
+  .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus,
+  .navbar-nav > .open > a, .navbar-nav > .open > a:hover, .navbar-nav > .open > a:focus { color: #fff; background-color: transparent; }
+  .navbar-toggle { border-color: transparent; background-color: transparent;
+    &:hover, &:focus { background-color: $c-nav-hover; }
+    .icon-bar { background-color: #fff; }
+  }
+  .navbar-collapse { border-color: $c-nav-dark; }
+  @include sm-up {
+    &.navbar-bordered .navbar-nav > li {
+      border-right: 1px solid $c-nav-light;
+      box-shadow: 1px 0 0 $c-nav-dark;
+      &.active { border-right-color: $c-nav-dark; box-shadow: 1px 0 0 $c-nav-light, inset 0 0 30px rgba(0, 0, 0, 0.1); }
+      &:last-child { border-left: 1px solid $c-nav-dark; box-shadow: 1px 0 0 $c-nav-dark, -1px 0 0 $c-nav-light;
+        &.active { box-shadow: 1px 0 0 $c-nav-light, -1px 0 0 $c-nav-light, inset 0 0 30px rgba(0, 0, 0, 0.1); }
+      }
+    }
+  }
+  @include md-up { &.navbar-bordered > .container-fluid { padding: 0; } }
+}
+body .navbar .navbar-brand i.ip-icon-logo::before { vertical-align: middle; margin-top: -3px;
+  @include sm-up { margin-left: 0.3em; }
+}
+
+body #main_navigation {
+  border-width: 0 0 1px;
+  border-radius: 0;
+  z-index: 1040;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  ul { list-style-type: none; padding: 0; }
+  ul.navbar-nav li.dropdown {
+    > a { display: block; }
+    ul.dropdown-menu {
+      padding: 15px;
+      li:not(.divider) { padding: 2px 0; }
+      li.header { padding: 5px 10px; }
+      li.empty { display: none; }
+      li.active a { background-color: #f5f5f5; font-weight: 500; i { color: $c-ink; } }
+      li a {
+        padding: 10px 15px; white-space: nowrap; color: $c-ink; display: block; border-radius: 5px; position: relative; line-height: 19px; font-weight: 400;
+        &:hover { background-color: #f5f5f5; text-decoration: none; i { color: $c-ink; } }
+        i { margin-right: -15px; vertical-align: middle; display: inline-block; font-size: 18px; width: 35px; text-align: center; color: $c-muted;
+          &::before { margin: 0; }
+        }
+      }
+      &.dropdown-menu-lg li a { font-size: 16px; line-height: 25px; padding: 10px 20px; font-weight: 100;
+        i { margin-right: -20px; font-size: 24px; width: 50px; }
+      }
+      li ul.two-col { column-count: 2; li.empty { display: block; } }
+    }
+  }
+  .navbar-nav .dropdown-menu.dropdown-menu-caret {
+    margin-right: 10px; margin-top: -7px; padding: 15px; border-radius: 4px;
+    &::after, &::before { bottom: 100%; content: ' '; height: 0; width: 0; position: absolute; pointer-events: none; border: 8px solid transparent; border-bottom-color: #fff; right: 20px; }
+    &::before { border-width: 9px; border-bottom-color: rgba(0, 0, 0, 0.15); right: 19px; }
+    &.columns-style {
+      a { padding: 5px 10px; display: block; clear: both; font-weight: normal; line-height: 1.428571429; white-space: nowrap; &:hover { color: $c-link; } }
+      > ul { padding: 0; > li a { color: $c-ink; } }
+    }
+  }
+  .navbar-nav.navbar-right {
+    .dropdown-menu.dropdown-menu-caret { margin-left: 10px; margin-right: 0;
+      &::after { left: 20px; right: auto; }
+      &::before { left: 19px; right: auto; }
+    }
+    .service_and_support .dropdown-menu { min-width: 200px; }
+    .service_and_support > a { padding-bottom: 11px; padding-top: 16px; line-height: 16px; }
+    li.login > a { padding: 14px 15px;
+      div { border: 2px solid $c-nav-text; border-radius: 5px; padding: 2px 6px; }
+      &:hover div { border-color: #fff; }
+    }
+    li.divider { height: 1px; margin: 9px 0; overflow: hidden; background-color: #e5e5e5; }
+  }
+  // vendor search box
+  .text-search {
+    a[data-action], > a { padding: 0; color: #999; position: absolute; z-index: 1; }
+    > a:first-child, a[data-action=focus] { right: 15px; padding: 5px; }
+    > a:last-child, a[data-action=clear] { left: 15px; display: none; }
+    &.focus > a:last-child { display: block; cursor: pointer; }
+    input { outline: none; border-radius: 5px; border: 0; color: $c-ink; }
+    .tt-menu { width: 100%; }
+    @include md-up {
+      padding: 16px 10px;
+      &.focus > a { color: $c-ink; }
+      > a { top: 13px; font-size: 16px; }
+      > a:last-child { padding: 5px 10px; }
+      input { width: 130px; padding: 2px 30px 2px 0; height: 29px; font-size: 14px; }
+    }
+    @media (min-width: 992px) and (max-width: 1199px) {
+      > a { display: none; }
+      input { width: 60px; padding: 2px 10px; }
+    }
+    @include sm-down {
+      padding: 0 15px; position: absolute; left: 45px; top: 13px; transition: all 0.5s ease; width: 170px;
+      &.focus { left: 0; width: 100%; > a { color: #fff; } }
+      > a { top: 0; }
+      > a:first-child { right: 20px; }
+      > a:last-child { padding: 5px 10px; }
+      input { padding: 5px 35px 5px 0; color: #fff; width: 100%; background: $c-nav-hover; height: 35px; font-size: 14px;
+        &::placeholder { color: rgba(255, 255, 255, 0.6); }
+      }
+    }
+  }
+}
+// typeahead menu (static replica index)
+.tt-menu {
+  max-height: 400px; overflow-y: auto; position: absolute; top: 100%; right: 0; z-index: 1000; display: none; float: right; min-width: 250px; padding: 5px 0; margin: 2px 0 0; list-style: none; font-size: 14px; background-color: #fff; border: 1px solid rgba(0, 0, 0, 0.15); border-radius: 4px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+  &.open { display: block; }
+  .tt-suggestion { display: block; padding: 5px 20px; clear: both; font-weight: normal; line-height: 1.42857143; color: $c-ink; text-decoration: none;
+    &.tt-cursor, &:hover, &:focus { background-color: #f5f5f5; color: #262626; outline: 0; }
+    small { color: $c-muted; margin-right: 6px; }
+  }
+  .tt-empty { padding: 10px 20px; color: $c-muted; }
+}

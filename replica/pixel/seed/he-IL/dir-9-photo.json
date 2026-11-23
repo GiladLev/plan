@@ -1,0 +1,1650 @@
+{
+ "category": {
+  "title": "צילום",
+  "icon": "ip-icon-camera",
+  "meta": "מוצגות 20 מתוך 300+ תוצאות שנמצאו",
+  "pageTitle": "חיפוש צילום | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[254][]",
+     "value": "353",
+     "label": "צילום סטילס",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[254][]",
+     "value": "352",
+     "label": "צילום וידאו",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[254][]",
+     "value": "354",
+     "label": "סטילס ווידאו",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[254][]",
+     "value": "466",
+     "label": "צילום תלת מימד",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_243",
+   "name": "directory_brands_filter[243]",
+   "label": "צילום אווירי - רחפן",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_242",
+   "name": "directory_brands_filter[242]",
+   "label": "מצלמת רחף",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_244",
+   "name": "directory_brands_filter[244]",
+   "label": "אלבומים מעוצבים",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_249",
+   "name": "directory_brands_filter[249]",
+   "label": "אלבומים דיגיטליים",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_250",
+   "name": "directory_brands_filter[250]",
+   "label": "טראש דה דרס",
+   "tooltip": null
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "551",
+   "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0",
+   "name": "בראשית ישראל פרסי - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2885/normal_logo.jpg?1731339170",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "בראשית ישראל פרסי - סטילס ווידאו",
+    "5.0 (0 חוות דעת)",
+    "ראשון לציון 055-4539205 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/568/photos/22263_small.jpg?1731584674",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/54633a75e4-22263_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/568/photos/22270_small.jpg?1731754568",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/edac61a0f7-22270_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/568/photos/22267_small.jpg?1731754516",
+     "promo": true,
+     "promoPhone": "055-4539205",
+     "file": "directory/967cf70d82-22267_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "ראשון לציון",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539205",
+     "href": "tel:055-4539205",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בראשית ישראל פרסי\" href=\"/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2885/normal_logo.jpg?1731339170')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0\">בראשית ישראל פרסי - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> ראשון לציון </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539205\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539205</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/96fabb2465-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0",
+   "name": "פקאנה - Pacana - צילום סטילס",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2249/normal_logo.jpg?1516118385",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(44 חוות דעת)",
+   "details": [
+    "פקאנה - Pacana - צילום סטילס",
+    "5.0 (44 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/404/photos/14132_small.jpg?1543687946",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7fd3bdc415-14132_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/404/photos/14136_small.jpg?1543688034",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a55c2bf93e-14136_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פקאנה - Pacana\" href=\"/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2249/normal_logo.jpg?1516118385')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0\">פקאנה - Pacana - צילום סטילס </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(44 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/2c0d6774a9-normal_logo.jpg"
+  },
+  {
+   "locationId": "482",
+   "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0",
+   "name": "אספוסה - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/546/normal_logo.png?1514214126",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(65 חוות דעת)",
+   "details": [
+    "אספוסה - סטילס ווידאו",
+    "4.9 (65 חוות דעת)",
+    "קרית אונו יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/323/photos/11199_small.jpg?1518630642",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0bb7d58310-11199_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/323/photos/11200_small.jpg?1518630653",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d7ef349525-11200_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/323/photos/11195_small.jpg?1518630620",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/91c4402748-11195_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/323/photos/9356_small.jpg?1514214243",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/279e018aa6-9356_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קרית אונו",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אספוסה\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/546/normal_logo.png?1514214126')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\">אספוסה - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(65 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קרית אונו </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/58667f37d7-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0",
+   "name": "Your Wedding Story | יור וודינג סטורי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3562/normal_logo.jpg?1713433299",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "Your Wedding Story | יור וודינג סטורי",
+    "5.0 (5 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\" Your Wedding Story | יור וודינג סטורי \" href=\"/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3562/normal_logo.jpg?1713433299')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0\"> Your Wedding Story | יור וודינג סטורי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/86cb2ed57c-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0",
+   "name": "קובי מהגר - צילום סטילס",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1532/normal_logo.jpg?1516877452",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "קובי מהגר - צילום סטילס",
+    "5.0 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/14899_small.jpg?1551190765",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8dd0a5163a-14899_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קובי מהגר \" href=\"/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1532/normal_logo.jpg?1516877452')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0\">קובי מהגר - צילום סטילס </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4d5d3388f2-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0",
+   "name": "עדי פהר - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1938/normal_logo.png?1516267184",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "עדי פהר - סטילס ווידאו",
+    "4.6 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/14896_small.jpg?1551190756",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ed874b0e1d-14896_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עדי פהר\" href=\"/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1938/normal_logo.png?1516267184')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0\">עדי פהר - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6999b2658e-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0",
+   "name": "חופה 360 3D - צילום תלת מימד",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3019/normal_logo.png?1619957462",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "חופה 360 3D - צילום תלת מימד",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/614/photos/18019_small.jpg?1620220545",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f997df98e9-18019_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"חופה 360 3D\" href=\"/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3019/normal_logo.png?1619957462')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0\">חופה 360 3D - צילום תלת מימד </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"חופה 360 3D\" href=\"/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/437feafdd9-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0",
+   "name": "שחר מייזנר - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2002/normal_logo.png?1516266666",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "שחר מייזנר - סטילס ווידאו",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/14903_small.jpg?1551190783",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ee76e8138f-14903_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שחר מייזנר\" href=\"/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2002/normal_logo.png?1516266666')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0\">שחר מייזנר - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9cac947d9f-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1961-crazy-clip?search=0",
+   "name": "Crazy clip - צילום וידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2474/normal_logo.jpg?1523877700",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "Crazy clip - צילום וידאו",
+    "4.9 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/495/photos/12420_small.jpg?1523975026",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a82357d604-12420_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Crazy clip\" href=\"/he-IL/directory/brands/1961-crazy-clip?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2474/normal_logo.jpg?1523877700')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1961-crazy-clip?search=0\">Crazy clip - צילום וידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1961-crazy-clip?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1961-crazy-clip?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9f1aa6fdba-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0",
+   "name": "רמי כהן - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/590/normal_logo.jpg?1507118968",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(10 חוות דעת)",
+   "details": [
+    "רמי כהן - סטילס ווידאו",
+    "5.0 (10 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/502/photos/12704_small.jpg?1527495659",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7d4b473ece-12704_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/502/photos/12964_small.jpg?1527508178",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3531854295-12964_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רמי כהן\" href=\"/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/590/normal_logo.jpg?1507118968')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0\">רמי כהן - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(10 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9033f88fbd-normal_logo.jpg"
+  },
+  {
+   "locationId": "487",
+   "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0",
+   "name": "יוסי מסה - סטילס ווידאו",
+   "logo": null,
+   "logoIcon": "ip-icon-camera",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "יוסי מסה - סטילס ווידאו",
+    "(1 חוות דעת)",
+    "קיבוץ מעברות עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/435/photos/10992_small.jpg?1518087750",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/01dc98f58d-10992_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ מעברות",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"יוסי מסה\" href=\"/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"צילום\"><i class=\"ip-icon-camera\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0\">יוסי מסה - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"יוסי מסה\" href=\"/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ מעברות </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0",
+   "name": "סוף כהן - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2444/normal_logo.png?1522074914",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "סוף כהן - סטילס ווידאו",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/484/photos/11741_small.jpg?1522075013",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d03fd636c3-11741_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/484/photos/11744_small.jpg?1522075038",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/05b4d08774-11744_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/484/photos/13101_small.jpg?1528702702",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4f651b3d10-13101_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/484/photos/13102_small.jpg?1528702703",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ee77c627c5-13102_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/484/photos/13108_small.jpg?1528702740",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4e77d24177-13108_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סוף כהן\" href=\"/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2444/normal_logo.png?1522074914')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0\">סוף כהן - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/77f5f23670-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1048-idan-milman?search=0",
+   "name": "Idan Milman - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1754/normal_logo.jpg?1507120883",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "Idan Milman - סטילס ווידאו",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/410/photos/10017_small.jpg?1516538696",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e2a70656a1-10017_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/410/photos/10014_small.jpg?1516538688",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d481191e8c-10014_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Idan Milman \" href=\"/he-IL/directory/brands/1048-idan-milman?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1754/normal_logo.jpg?1507120883')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1048-idan-milman?search=0\">Idan Milman - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Idan Milman \" href=\"/he-IL/directory/brands/1048-idan-milman?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1048-idan-milman?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/58b97cc33d-normal_logo.jpg"
+  },
+  {
+   "locationId": "483",
+   "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0",
+   "name": "רון תורג'מן - Ron Torgeman - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1274/normal_logo.png?1507120237",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "רון תורג'מן - Ron Torgeman - סטילס ווידאו",
+    "5.0 (2 חוות דעת)",
+    "פרדס חנה עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/397/photos/11706_small.jpg?1521308550",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/45316dc7b4-11706_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/397/photos/11698_small.jpg?1521308417",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2b75d18638-11698_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/397/photos/9620_small.jpg?1515444375",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/54566e8bee-9620_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/397/photos/11702_small.jpg?1521308510",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f4084c0d27-11702_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/397/photos/11697_small.jpg?1521308417",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e100958872-11697_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "פרדס חנה",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רון תורג'מן - Ron Torgeman\" href=\"/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1274/normal_logo.png?1507120237')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0\">רון תורג'מן - Ron Torgeman - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0\"><i class=\"fas fa-map-marker-alt\"></i> פרדס חנה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4d7f6e7113-normal_logo.png"
+  },
+  {
+   "locationId": "465",
+   "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+   "name": "מוסיקה פלוס - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/306/normal_logo.jpg?1515583846",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(29 חוות דעת)",
+   "details": [
+    "מוסיקה פלוס - סטילס ווידאו",
+    "4.9 (29 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/9718_small.jpg?1515661831",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3503a7bb29-9718_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מוסיקה פלוס\" href=\"/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/306/normal_logo.jpg?1515583846')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\">מוסיקה פלוס - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(29 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/177a06e261-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0",
+   "name": "אריאל אריכא - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/539/normal_logo.png?1507118854",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "אריאל אריכא - סטילס ווידאו",
+    "5.0 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/479/photos/11755_small.jpg?1522151383",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fd6a8864f9-11755_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אריאל אריכא\" href=\"/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/539/normal_logo.png?1507118854')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0\">אריאל אריכא - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/47e6f429ad-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0",
+   "name": "עידו סקעת - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/684/normal_logo.png?1507119211",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "עידו סקעת - סטילס ווידאו",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/485/photos/11767_small.jpg?1522152187",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b3ecb1accb-11767_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/485/photos/11763_small.jpg?1522151983",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4ae82f7955-11763_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עידו סקעת\" href=\"/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/684/normal_logo.png?1507119211')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0\">עידו סקעת - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/be3987c24c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0",
+   "name": "שגיב לייקין - צילום וידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1307/normal_logo.jpg?1519727866",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "שגיב לייקין - צילום וידאו",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/478/photos/11736_small.jpg?1522050657",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/58bbd8aa9a-11736_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שגיב לייקין\" href=\"/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1307/normal_logo.jpg?1519727866')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0\">שגיב לייקין - צילום וידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0f4cce05b4-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0",
+   "name": "פוני מסיקה - Foni Mesika - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/683/normal_logo.png?1516266953",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(10 חוות דעת)",
+   "details": [
+    "פוני מסיקה - Foni Mesika - סטילס ווידאו",
+    "5.0 (10 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/14898_small.jpg?1551190763",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6022120149-14898_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פוני מסיקה - Foni Mesika\" href=\"/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/683/normal_logo.png?1516266953')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0\">פוני מסיקה - Foni Mesika - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(10 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/41dd5b6ba6-normal_logo.png"
+  },
+  {
+   "locationId": "466",
+   "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0",
+   "name": "זום 18 - סטילס ווידאו",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1606/normal_logo.jpg?1516015828",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(21 חוות דעת)",
+   "details": [
+    "זום 18 - סטילס ווידאו",
+    "5.0 (21 חוות דעת)",
+    "תל אביב יפו עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/248/photos/9740_small.jpg?1516015431",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6ea2a53e27-9740_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/248/photos/9742_small.jpg?1516016044",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bcbf931589-9742_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/248/photos/9741_small.jpg?1516015909",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1027873ffb-9741_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/248/photos/9754_small.jpg?1516017505",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/609bf1a5ba-9754_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/248/photos/9752_small.jpg?1516017490",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c89837363f-9752_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב יפו",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"זום 18\" href=\"/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1606/normal_logo.jpg?1516015828')\" title=\"צילום\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0\">זום 18 - סטילס ווידאו </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(21 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב יפו </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/aa5d2406e4-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539205 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539205"
+    },
+    {
+     "text": "עוד פרטים? 055-4539205 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "בראשית ישראל פרסי - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "ראשון לציון",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "055-4539205",
+     "href": "tel:055-4539205"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2106-%D7%91%D7%A8%D7%90%D7%A9%D7%99%D7%AA-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%A4%D7%A8%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "פקאנה - Pacana - צילום סטילס",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/749-pacana-%D7%A4%D7%A7%D7%90%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "אספוסה - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "קרית אונו",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/461-%D7%90%D7%A1%D7%A4%D7%95%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "Your Wedding Story | יור וודינג סטורי",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2296-your-wedding-story-%D7%99%D7%95%D7%A8-%D7%95%D7%95%D7%93%D7%99%D7%A0%D7%92-%D7%A1%D7%98%D7%95%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0"
+    },
+    {
+     "text": "קובי מהגר - צילום סטילס",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/744-%D7%A7%D7%95%D7%91%D7%99-%D7%9E%D7%94%D7%92%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "עדי פהר - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/760-%D7%A2%D7%93%D7%99-%D7%A4%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0"
+    },
+    {
+     "text": "חופה 360 3D - צילום תלת מימד",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2192-%D7%97%D7%95%D7%A4%D7%94-360-3d?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "שחר מייזנר - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/757-%D7%A9%D7%97%D7%A8-%D7%9E%D7%99%D7%99%D7%96%D7%A0%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0"
+    },
+    {
+     "text": "Crazy clip - צילום וידאו",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1961-crazy-clip?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "רמי כהן - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/908-%D7%A8%D7%9E%D7%99-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "יוסי מסה - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "קיבוץ מעברות",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/818-%D7%99%D7%95%D7%A1%D7%99-%D7%9E%D7%A1%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "סוף כהן - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1548-%D7%A1%D7%95%D7%A3-%D7%9B%D7%94%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "Idan Milman - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1048-idan-milman?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "רון תורג'מן - Ron Torgeman - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "פרדס חנה",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/669-%D7%A8%D7%95%D7%9F-%D7%AA%D7%95%D7%A8%D7%92%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "מוסיקה פלוס - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/572-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0"
+    },
+    {
+     "text": "אריאל אריכא - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/600-%D7%90%D7%A8%D7%99%D7%90%D7%9C-%D7%90%D7%A8%D7%99%D7%9B%D7%90?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "עידו סקעת - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1625-%D7%A2%D7%99%D7%93%D7%95-%D7%A1%D7%A7%D7%A2%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "שגיב לייקין - צילום וידאו",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/859-%D7%A9%D7%92%D7%99%D7%91-%D7%9C%D7%99%D7%99%D7%A7%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0"
+    },
+    {
+     "text": "פוני מסיקה - Foni Mesika - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/759-%D7%A4%D7%95%D7%A0%D7%99-%D7%9E%D7%A1%D7%99%D7%A7%D7%94-foni-mesika?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "זום 18 - סטילס ווידאו",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "תל אביב יפו",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/462-%D7%96%D7%95%D7%9D-18?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

@@ -1,0 +1,1449 @@
+{
+ "category": {
+  "title": "שמלות כלה וערב",
+  "icon": "ip-icon-tailored-dress",
+  "meta": "מוצגות 20 מתוך 132 תוצאות שנמצאו",
+  "pageTitle": "חיפוש שמלות כלה וערב | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור",
+   "options": [
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "441",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "442",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "443",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "444",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "445",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "446",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[298][]",
+     "value": "447",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[245][]",
+     "value": "344",
+     "label": "שמלות כלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[245][]",
+     "value": "345",
+     "label": "שמלות ערב",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[245][]",
+     "value": "346",
+     "label": "שמלות כלה וערב",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "478",
+   "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0",
+   "name": "קרן מור יוסף - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/906/normal_logo.png?1515413910",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "קרן מור יוסף - שמלות כלה",
+    "5.0 (2 חוות דעת)",
+    "אשקלון יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/396/photos/9663_small.jpg?1515581893",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/842725703c-9663_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/396/photos/9661_small.jpg?1515581874",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3cdf802e33-9661_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/396/photos/9667_small.jpg?1515581922",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/de941c28a2-9667_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/396/photos/9668_small.jpg?1515581934",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bb4c9e5b8c-9668_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/396/photos/9670_small.jpg?1515581948",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/057cb79642-9670_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "אשקלון",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קרן מור יוסף\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/906/normal_logo.png?1515413910')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\">קרן מור יוסף - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\"><i class=\"fas fa-map-marker-alt\"></i> אשקלון </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9726e52362-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0",
+   "name": "Smart Brides | סמארט בריידס",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2944/normal_logo.png?1578224076",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "Smart Brides | סמארט בריידס",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Smart Brides | סמארט בריידס\" href=\"/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2944/normal_logo.png?1578224076')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0\">Smart Brides | סמארט בריידס </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Smart Brides | סמארט בריידס\" href=\"/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/2ab3a6d2d9-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0",
+   "name": "אלמוגית שטרן",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2943/normal_logo.png?1578224128",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אלמוגית שטרן",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אלמוגית שטרן\" href=\"/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2943/normal_logo.png?1578224128')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0\">אלמוגית שטרן </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אלמוגית שטרן\" href=\"/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b10b4d3b4c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0",
+   "name": "LOSQUTE סטודיו לעיצוב שמלות כלה וערב - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2861/normal_logo.png?1562050860",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "LOSQUTE סטודיו לעיצוב שמלות כלה וערב - שמלות כלה",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/565/photos/15828_small.jpg?1562010255",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/06427197a9-15828_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"LOSQUTE סטודיו לעיצוב שמלות כלה וערב\" href=\"/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2861/normal_logo.png?1562050860')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0\">LOSQUTE סטודיו לעיצוב שמלות כלה וערב - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"LOSQUTE סטודיו לעיצוב שמלות כלה וערב\" href=\"/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d4b77d2503-normal_logo.png"
+  },
+  {
+   "locationId": "484",
+   "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0",
+   "name": "אלה נוה - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2258/normal_logo.png?1516702679",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "אלה נוה - שמלות כלה",
+    "4.9 (8 חוות דעת)",
+    "נתניה עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/406/photos/10152_small.jpg?1516707911",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f73a343e23-10152_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "נתניה",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אלה נוה\" href=\"/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2258/normal_logo.png?1516702679')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0\">אלה נוה - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> נתניה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1830eedb04-normal_logo.png"
+  },
+  {
+   "locationId": "479",
+   "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0",
+   "name": "ערבה פולק - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/893/normal_logo.png?1507119583",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "ערבה פולק - שמלות כלה",
+    "5.0 (3 חוות דעת)",
+    "חיפה עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/399/photos/9837_small.jpg?1516102839",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/eb74351362-9837_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/399/photos/9859_small.jpg?1516103121",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5fb3af39ad-9859_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/399/photos/9848_small.jpg?1516103005",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ef548d3214-9848_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/399/photos/9865_small.jpg?1516103219",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/75e5ca40f0-9865_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/399/photos/9843_small.jpg?1516102957",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2f4a12b977-9843_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "חיפה",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ערבה פולק\" href=\"/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/893/normal_logo.png?1507119583')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0\">ערבה פולק - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0\"><i class=\"fas fa-map-marker-alt\"></i> חיפה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ea62e0f459-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0",
+   "name": "מלי אביב - שמלות כלה",
+   "logo": null,
+   "logoIcon": "ip-icon-tailored-dress",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "מלי אביב - שמלות כלה",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מלי אביב\" href=\"/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שמלות כלה וערב\"><i class=\"ip-icon-tailored-dress\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0\">מלי אביב - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מלי אביב\" href=\"/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0",
+   "name": "ראומה ויואל וינטאג' - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/944/normal_logo.jpg?1507119725",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "ראומה ויואל וינטאג' - שמלות כלה",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ראומה ויואל וינטאג'\" href=\"/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/944/normal_logo.jpg?1507119725')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0\">ראומה ויואל וינטאג' - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"ראומה ויואל וינטאג'\" href=\"/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ace7fc24ff-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0",
+   "name": "שימקה - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/928/normal_logo.png?1507119682",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "שימקה - שמלות כלה וערב",
+    "4.7 (5 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שימקה\" href=\"/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/928/normal_logo.png?1507119682')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0\">שימקה - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/368ba24b98-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0",
+   "name": "ענבל רביב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/889/normal_logo.png?1507119573",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "ענבל רביב",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ענבל רביב\" href=\"/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/889/normal_logo.png?1507119573')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0\">ענבל רביב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6cca2ab9ab-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0",
+   "name": "אביטל ספורטה - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/890/normal_logo.png?1507119575",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "אביטל ספורטה - שמלות כלה",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אביטל ספורטה\" href=\"/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/890/normal_logo.png?1507119575')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0\">אביטל ספורטה - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/036e126214-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0",
+   "name": "עדי סלע - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/907/normal_logo.png?1507119622",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "עדי סלע - שמלות כלה וערב",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עדי סלע\" href=\"/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/907/normal_logo.png?1507119622')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0\">עדי סלע - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"עדי סלע\" href=\"/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/89211479b2-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0",
+   "name": "אושי - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/904/normal_logo.png?1507119613",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אושי - שמלות כלה וערב",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אושי\" href=\"/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/904/normal_logo.png?1507119613')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0\">אושי - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אושי\" href=\"/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b89fa4e38b-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0",
+   "name": "יעקב דוק - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/902/normal_logo.png?1507119608",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "יעקב דוק - שמלות כלה וערב",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"יעקב דוק\" href=\"/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/902/normal_logo.png?1507119608')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0\">יעקב דוק - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"יעקב דוק\" href=\"/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/8eb7e0b9d0-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1799-zoe?search=0",
+   "name": "ZOE - שמלות כלה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/935/normal_logo.png?1507119702",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "ZOE - שמלות כלה",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ZOE\" href=\"/he-IL/directory/brands/1799-zoe?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/935/normal_logo.png?1507119702')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1799-zoe?search=0\">ZOE - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1799-zoe?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1799-zoe?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c25e585d41-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0",
+   "name": "דורין - שמלות כלה",
+   "logo": null,
+   "logoIcon": "ip-icon-tailored-dress",
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "דורין - שמלות כלה",
+    "4.7 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דורין\" href=\"/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שמלות כלה וערב\"><i class=\"ip-icon-tailored-dress\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0\">דורין - שמלות כלה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0",
+   "name": "גלית רוביניק - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/937/normal_logo.png?1507119708",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "גלית רוביניק - שמלות כלה וערב",
+    "4.9 (5 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גלית רוביניק\" href=\"/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/937/normal_logo.png?1507119708')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0\">גלית רוביניק - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/8733904c1c-normal_logo.png"
+  },
+  {
+   "locationId": "472",
+   "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0",
+   "name": "רמי גואטה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/978/normal_logo.png?1507119812",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "רמי גואטה",
+    "(1 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רמי גואטה\" href=\"/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/978/normal_logo.png?1507119812')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0\">רמי גואטה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רמי גואטה\" href=\"/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3ec274fad8-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+   "name": "אירנה בורשטיין - שמלות כלה וערב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1407/normal_logo.png?1507120487",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "אירנה בורשטיין - שמלות כלה וערב",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אירנה בורשטיין\" href=\"/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1407/normal_logo.png?1507120487')\" title=\"שמלות כלה וערב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\">אירנה בורשטיין - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אירנה בורשטיין\" href=\"/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/223aa02eab-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1783-imc?search=0",
+   "name": "IMC - שמלות כלה וערב",
+   "logo": null,
+   "logoIcon": "ip-icon-tailored-dress",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "IMC - שמלות כלה וערב",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1783-imc?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"IMC\" href=\"/he-IL/directory/brands/1783-imc?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"שמלות כלה וערב\"><i class=\"ip-icon-tailored-dress\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1783-imc?search=0\">IMC - שמלות כלה וערב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"IMC\" href=\"/he-IL/directory/brands/1783-imc?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1783-imc?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "קרן מור יוסף - שמלות כלה",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "אשקלון",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/574-%D7%A7%D7%A8%D7%9F-%D7%9E%D7%95%D7%A8-%D7%99%D7%95%D7%A1%D7%A3?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0"
+    },
+    {
+     "text": "Smart Brides | סמארט בריידס",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2120-smart-brides-%D7%A1%D7%9E%D7%90%D7%A8%D7%98-%D7%91%D7%A8%D7%99%D7%99%D7%93%D7%A1?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "אלמוגית שטרן",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2119-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%AA-%D7%A9%D7%98%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0"
+    },
+    {
+     "text": "LOSQUTE סטודיו לעיצוב שמלות כלה וערב - שמלות כלה",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2086-losqute-%D7%A1%D7%98%D7%95%D7%93%D7%99%D7%95-%D7%9C%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A9%D7%9E%D7%9C%D7%95%D7%AA-%D7%9B%D7%9C%D7%94-%D7%95%D7%A2%D7%A8%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "אלה נוה - שמלות כלה",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "נתניה",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/765-%D7%90%D7%9C%D7%94-%D7%A0%D7%95%D7%95%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "ערבה פולק - שמלות כלה",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "חיפה",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/745-%D7%A2%D7%A8%D7%91%D7%94-%D7%A4%D7%95%D7%9C%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "מלי אביב - שמלות כלה",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1845-%D7%9E%D7%9C%D7%99-%D7%90%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0"
+    },
+    {
+     "text": "ראומה ויואל וינטאג' - שמלות כלה",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1791-%D7%A8%D7%90%D7%95%D7%9E%D7%94-%D7%95%D7%99%D7%95%D7%90%D7%9C-%D7%95%D7%99%D7%A0%D7%98%D7%90%D7%92?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0"
+    },
+    {
+     "text": "שימקה - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1805-%D7%A9%D7%99%D7%9E%D7%A7%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "ענבל רביב",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/594-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A8%D7%91%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "אביטל ספורטה - שמלות כלה",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1838-%D7%90%D7%91%D7%99%D7%98%D7%9C-%D7%A1%D7%A4%D7%95%D7%A8%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0"
+    },
+    {
+     "text": "עדי סלע - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1823-%D7%A2%D7%93%D7%99-%D7%A1%D7%9C%D7%A2?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0"
+    },
+    {
+     "text": "אושי - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1825-%D7%90%D7%95%D7%A9%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0"
+    },
+    {
+     "text": "יעקב דוק - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1827-%D7%99%D7%A2%D7%A7%D7%91-%D7%93%D7%95%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0"
+    },
+    {
+     "text": "ZOE - שמלות כלה",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1799-zoe?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "דורין - שמלות כלה",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1844-%D7%93%D7%95%D7%A8%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0"
+    },
+    {
+     "text": "גלית רוביניק - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1797-%D7%92%D7%9C%D7%99%D7%AA-%D7%A8%D7%95%D7%91%D7%99%D7%A0%D7%99%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "רמי גואטה",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/659-%D7%A8%D7%9E%D7%99-%D7%92%D7%95%D7%90%D7%98%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "אירנה בורשטיין - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1741-%D7%90%D7%99%D7%A8%D7%A0%D7%94-%D7%91%D7%95%D7%A8%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1783-imc?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1783-imc?search=0"
+    },
+    {
+     "text": "IMC - שמלות כלה וערב",
+     "href": "/he-IL/directory/brands/1783-imc?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1783-imc?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1783-imc?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

@@ -1,0 +1,33 @@
+{
+  "name": "iplan-replica",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev -p 4317",
+    "build": "next build",
+    "start": "next start -p 4317",
+    "typecheck": "tsc --noEmit",
+    "content": "node scripts/build-content.mjs",
+    "compare": "node replica/tools/compare.mjs --base=http://localhost:4317",
+    "css": "node scripts/build-css.mjs",
+    "predev": "node scripts/build-css.mjs",
+    "prebuild": "node scripts/build-css.mjs"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "next": "^16.4.6",
+    "react": "^19.2.9",
+    "react-dom": "^19.2.9"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^7.3.1",
+    "@tabler/icons": "^3.52.0",
+    "@types/leaflet": "^1.9.12",
+    "@types/node": "^22.20.5",
+    "@types/react": "^19.3.0",
+    "bootstrap-sass": "^3.4.3",
+    "rtlcss": "^4.3.0",
+    "sass": "^1.108.2",
+    "typescript": "^5.9.3"
+  }
+}

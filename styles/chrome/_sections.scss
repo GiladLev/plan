@@ -1,0 +1,58 @@
+// Section system: themed "section.section" bands and marketing "section:not(.section)" bands
+section.section, footer.section {
+  background-color: #fff; padding-top: 30px; padding-bottom: 30px;
+  @include xs { padding-top: 20px; padding-bottom: 20px; }
+  &.section-sm { padding-top: 10px; padding-bottom: 10px; @include xs { padding-top: 5px; padding-bottom: 5px; } }
+  &.section-lg { padding-top: 50px; padding-bottom: 50px; @include xs { padding-top: 30px; padding-bottom: 30px; } }
+  &.section-black { background: $c-footer; color: #fff; a { color: #b8b8b8; } }
+  &.section-gray { background-color: $c-gray-section; }
+}
+section.section.section-hero {
+  position: relative;
+  background-color: $c-hero;
+  overflow: visible;
+  margin-bottom: 15px;
+  h1 { font-weight: 500; color: $c-brand-wine; margin: 0; font-size: 42px; }
+  h3, .section-hero-subtitle { margin: 0; margin-top: 5px; font-weight: 300; font-size: 22px; }
+  &.section-lg h1 { font-size: 52px; }
+  &::before { content: ''; background: $img-rays no-repeat right bottom; opacity: 0.1; inset: 0; position: absolute; z-index: 0; }
+  &::after { content: ''; background: $c-hero $img-bubble repeat-x top; height: 15px; left: 0; right: 0; bottom: -15px; position: absolute; }
+  > .container { position: relative; z-index: 1; }
+}
+body section:not(.section) {
+  overflow: auto;
+  background-color: #fff;
+  > .container, > .container-fluid {
+    margin-top: 105px; margin-bottom: 105px;
+    @include sm-down { margin-top: 70px; margin-bottom: 70px; }
+    @include xs { margin-top: 60px; margin-bottom: 60px; }
+  }
+  &.gray { background-color: $c-gray-section; }
+  &.section-xs, &.section-sm, &.section-md, &.section-lg { overflow: initial;
+    > .container, > .container-fluid { margin-top: 0; margin-bottom: 0; }
+  }
+  &.section-xs { padding-top: 10px; padding-bottom: 10px; @include xs { padding-top: 5px; padding-bottom: 5px; } }
+  &.section-sm { padding-top: 30px; padding-bottom: 30px; @include xs { padding-top: 20px; padding-bottom: 20px; } }
+  &.section-md { padding-top: 70px; padding-bottom: 70px; @include sm-down { padding-top: 40px; padding-bottom: 40px; } @include xs { padding-top: 30px; padding-bottom: 30px; } }
+  &.section-lg { padding-top: 105px; padding-bottom: 105px; @include sm-down { padding-top: 70px; padding-bottom: 70px; } @include xs { padding-top: 60px; padding-bottom: 60px; } }
+  &.hero {
+    position: relative; padding-bottom: 20px; background: $c-hero $img-bubble repeat-x bottom;
+    > .container { margin-top: 60px; margin-bottom: 60px; @include xs { margin-top: 50px; margin-bottom: 50px; } }
+    &.hero-lg > .container { margin-top: 75px; margin-bottom: 75px;
+      @media (min-width: 992px) and (min-height: 900px) { margin-top: 180px; margin-bottom: 180px; }
+    }
+    &::after { content: ''; background: $img-rays no-repeat right bottom; opacity: 0.1; inset: 0; position: absolute; }
+    .hero-content { position: relative; z-index: 1;
+      h1 { font-weight: 500; font-size: 60px; line-height: 50px; color: $c-brand-wine; }
+      h3 { font-weight: 300; margin-top: 10px; }
+    }
+  }
+}
+body.locale-en section:not(.section).hero .hero-content h1 { font-weight: bold; font-size: 50px; line-height: 1.1; }
+body section.get-started, body section.statement { color: #1a1a1a;
+  a:not(.btn) { color: #0066cc; &:hover, &:focus { text-decoration: underline; } }
+}
+body section.help .q-and-a .text-muted.a { color: #1a1a1a;
+  a { color: #0066cc; &:hover, &:focus { text-decoration: underline; } }
+}
+body section.features .img-circle.rsvp { color: $c-link-strong; }

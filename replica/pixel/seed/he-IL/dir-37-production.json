@@ -1,0 +1,1365 @@
+{
+ "category": {
+  "title": "הפקת אירוע",
+  "icon": "ip-icon-planner",
+  "meta": "מוצגות 17 מתוך 17 תוצאות שנמצאו",
+  "pageTitle": "חיפוש הפקת אירוע | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[269][]",
+     "value": "385",
+     "label": "הפקה, ליווי וייעוץ",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[269][]",
+     "value": "386",
+     "label": "הפקה ביום האירוע",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "387",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "388",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "389",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "390",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "391",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "392",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[271][]",
+     "value": "393",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוגי אירוע",
+   "options": [
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "394",
+     "label": "חתונה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "395",
+     "label": "בר\\בת מצווה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "396",
+     "label": "ברית\\ה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "397",
+     "label": "עסקי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "398",
+     "label": "הופעה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[272][]",
+     "value": "399",
+     "label": "מסיבה",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "447",
+   "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0",
+   "name": "The Happy Wedding - הפקה, ליווי וייעוץ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2028/normal_logo.png?1508062790",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "The Happy Wedding - הפקה, ליווי וייעוץ",
+    "(1 חוות דעת)",
+    "תל אביב יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/373/photos/10854_small.jpg?1517832150",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bd2131c247-10854_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"The Happy Wedding\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2028/normal_logo.png?1508062790')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\">The Happy Wedding - הפקה, ליווי וייעוץ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"The Happy Wedding\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/548-the-happy-wedding?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/8b1f671402-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0",
+   "name": "שני בן שם צלנר - Shani Ben Shem Zellner - הפקה, ליווי וייעוץ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2302/normal_logo.jpg?1575532352",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(13 חוות דעת)",
+   "details": [
+    "שני בן שם צלנר - Shani Ben Shem Zellner - הפקה, ליווי וייעוץ",
+    "5.0 (13 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/441/photos/11517_small.jpg?1519899602",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e68e0d2663-11517_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שני בן שם צלנר - Shani Ben Shem Zellner\" href=\"/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2302/normal_logo.jpg?1575532352')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0\">שני בן שם צלנר - Shani Ben Shem Zellner - הפקה, ליווי וייעוץ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(13 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e7f5deb4f0-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2303-wedding-club?search=0",
+   "name": "Wedding Club - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3616/normal_logo.png?1718544941",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "Wedding Club - הפקת אירועים",
+    "5.0 (8 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/721/photos/22404_small.jpg?1747689750",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/34cc013090-22404_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/721/photos/21725_small.jpg?1718545151",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/41edf314d4-21725_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Wedding Club\" href=\"/he-IL/directory/brands/2303-wedding-club?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3616/normal_logo.png?1718544941')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2303-wedding-club?search=0\">Wedding Club - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2303-wedding-club?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2303-wedding-club?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2303-wedding-club?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/81cae92f01-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0",
+   "name": "נתן קטש",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2954/normal_logo.jpg?1578841510",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "נתן קטש",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נתן קטש\" href=\"/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2954/normal_logo.jpg?1578841510')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0\">נתן קטש </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"נתן קטש\" href=\"/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/82f00fe3cf-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+   "name": "Fass productions | פס הפקות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3289/normal_logo.jpg?1672649519",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "Fass productions | פס הפקות",
+    "5.0 (5 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Fass productions | פס הפקות\" href=\"/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3289/normal_logo.jpg?1672649519')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\">Fass productions | פס הפקות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/faa237a3f0-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0",
+   "name": "משה זהר - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2667/normal_logo.png?1542239225",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "משה זהר - הפקת אירועים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/530/photos/13913_small.jpg?1541435776",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d3d65481a9-13913_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"משה זהר\" href=\"/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2667/normal_logo.png?1542239225')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0\">משה זהר - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"משה זהר\" href=\"/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/5ad6016825-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0",
+   "name": "תומר אשכנזי - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2293/normal_logo.jpg?1518611452",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "תומר אשכנזי - הפקת אירועים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/427/photos/11162_small.jpg?1518611204",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bd04e34253-11162_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/427/photos/11163_small.jpg?1518611203",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9bea3fc378-11163_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/427/photos/11164_small.jpg?1518611209",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c127b90e2e-11164_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/427/photos/11165_small.jpg?1518611211",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2775429808-11165_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/427/photos/11168_small.jpg?1518611225",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e741bd9ea9-11168_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"תומר אשכנזי\" href=\"/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2293/normal_logo.jpg?1518611452')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0\">תומר אשכנזי - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"תומר אשכנזי\" href=\"/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/09c1cfc80f-normal_logo.jpg"
+  },
+  {
+   "locationId": "364",
+   "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0",
+   "name": "רויטל אטיאס - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1863/normal_logo.png?1507120988",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "רויטל אטיאס - הפקת אירועים",
+    "(0 חוות דעת)",
+    "רחובות עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/363/photos/7637_small.jpg?1498993914",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/df27d5cb6c-7637_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/363/photos/7632_small.jpg?1498993885",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0d85d4abf6-7632_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/363/photos/7633_small.jpg?1498993884",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9a3d80f9ff-7633_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/363/photos/7651_small.jpg?1498993970",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/175e0082b3-7651_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/363/photos/7622_small.jpg?1498993766",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/54f2ebc5ff-7622_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "רחובות",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רויטל אטיאס\" href=\"/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1863/normal_logo.png?1507120988')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0\">רויטל אטיאס - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רויטל אטיאס\" href=\"/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0\"><i class=\"fas fa-map-marker-alt\"></i> רחובות </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/54b6a2c560-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0",
+   "name": "תומר מצרי - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2296/normal_logo.png?1517917552",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "תומר מצרי - הפקת אירועים",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/432/photos/15514_small.jpg?1558433334",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/068ffae885-15514_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/432/photos/15515_small.jpg?1558433348",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9097a21f23-15515_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/432/photos/15516_small.jpg?1558433567",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fc902433a5-15516_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/432/photos/15517_small.jpg?1558433589",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/be608a6181-15517_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/432/photos/15519_small.jpg?1558433650",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/af8f6c4e3d-15519_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"תומר מצרי\" href=\"/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2296/normal_logo.png?1517917552')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0\">תומר מצרי - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c3d2cea9d7-normal_logo.png"
+  },
+  {
+   "locationId": "347",
+   "href": "/he-IL/directory/brands/463-pure-production?search=0",
+   "name": "Pure Production - הפקה ,לווי וייעוץ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1447/normal_logo.png?1507120574",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "Pure Production - הפקה ,לווי וייעוץ",
+    "(1 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/318/photos/12626_small.jpg?1525353533",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/52af2a9b2d-12626_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Pure Production\" href=\"/he-IL/directory/brands/463-pure-production?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1447/normal_logo.png?1507120574')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/463-pure-production?search=0\">Pure Production - הפקה ,לווי וייעוץ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Pure Production\" href=\"/he-IL/directory/brands/463-pure-production?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/463-pure-production?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/463-pure-production?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1ab4e690ec-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "אדמה אירועים - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2281/normal_logo.png?1517473636",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "אדמה אירועים - הפקת אירועים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/426/photos/10847_small.jpg?1517825583",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4d46f48985-10847_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אדמה אירועים\" href=\"/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2281/normal_logo.png?1517473636')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">אדמה אירועים - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אדמה אירועים\" href=\"/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4865293ff1-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+   "name": "SH הפקות - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2416/normal_logo.jpg?1522846571",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "SH הפקות - הפקת אירועים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/466/photos/11914_small.jpg?1522848443",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9504a24492-11914_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"SH הפקות\" href=\"/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2416/normal_logo.jpg?1522846571')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\">SH הפקות - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"SH הפקות\" href=\"/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/853d167d1e-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0",
+   "name": "עומר טובי - Omer Tubi - הפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2126/normal_logo.jpg?1512057203",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "עומר טובי - Omer Tubi - הפקת אירועים",
+    "4.9 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/430/photos/16035_small.jpg?1562857412",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/60b0036e3d-16035_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/430/photos/10920_small.jpg?1517843447",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/97317a2e49-10920_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עומר טובי - Omer Tubi\" href=\"/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2126/normal_logo.jpg?1512057203')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0\">עומר טובי - Omer Tubi - הפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c0be8f307e-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1563-one-day?search=0",
+   "name": "One Day",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1707/normal_logo.png?1507120852",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "One Day",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"One Day\" href=\"/he-IL/directory/brands/1563-one-day?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1707/normal_logo.png?1507120852')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1563-one-day?search=0\">One Day </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"One Day\" href=\"/he-IL/directory/brands/1563-one-day?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1563-one-day?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/690bc6584c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1978-deus?search=0",
+   "name": "deus",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2491/normal_logo.jpg?1524995469",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "deus",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1978-deus?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"deus\" href=\"/he-IL/directory/brands/1978-deus?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2491/normal_logo.jpg?1524995469')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1978-deus?search=0\">deus </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"deus\" href=\"/he-IL/directory/brands/1978-deus?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1978-deus?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f635223d73-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+   "name": "מורן גולדשטיין",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2698/normal_logo.jpg?1543934870",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מורן גולדשטיין",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מורן גולדשטיין\" href=\"/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2698/normal_logo.jpg?1543934870')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\">מורן גולדשטיין </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מורן גולדשטיין\" href=\"/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a4b0aa97e9-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "אוהנה - עיצוב והפקת אירועים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2956/normal_logo.jpg?1578842521",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אוהנה - עיצוב והפקת אירועים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אוהנה - עיצוב והפקת אירועים\" href=\"/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2956/normal_logo.jpg?1578842521')\" title=\"הפקת אירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">אוהנה - עיצוב והפקת אירועים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אוהנה - עיצוב והפקת אירועים\" href=\"/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7ba63245c0-normal_logo.jpg"
+  }
+ ],
+ "pagerInfo": null,
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "The Happy Wedding - הפקה, ליווי וייעוץ",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/548-the-happy-wedding?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0"
+    },
+    {
+     "text": "שני בן שם צלנר - Shani Ben Shem Zellner - הפקה, ליווי וייעוץ",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/823-%D7%A9%D7%A0%D7%99-%D7%91%D7%9F-%D7%A9%D7%9D-%D7%A6%D7%9C%D7%A0%D7%A8-shani-ben-shem-zellner?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "Wedding Club - הפקת אירועים",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2303-wedding-club?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0"
+    },
+    {
+     "text": "נתן קטש",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2130-%D7%A0%D7%AA%D7%9F-%D7%A7%D7%98%D7%A9?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "Fass productions | פס הפקות",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2253-fass-productions-%D7%A4%D7%A1-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "משה זהר - הפקת אירועים",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2043-%D7%9E%D7%A9%D7%94-%D7%96%D7%94%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "תומר אשכנזי - הפקת אירועים",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/810-%D7%AA%D7%95%D7%9E%D7%A8-%D7%90%D7%A9%D7%9B%D7%A0%D7%96%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "רויטל אטיאס - הפקת אירועים",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "רחובות",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/484-%D7%A8%D7%95%D7%99%D7%98%D7%9C-%D7%90%D7%98%D7%99%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "תומר מצרי - הפקת אירועים",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/813-%D7%AA%D7%95%D7%9E%D7%A8-%D7%9E%D7%A6%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "Pure Production - הפקה ,לווי וייעוץ",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/463-pure-production?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אדמה אירועים - הפקת אירועים",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/798-%D7%90%D7%93%D7%9E%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "SH הפקות - הפקת אירועים",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/949-sh-%D7%94%D7%A4%D7%A7%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "עומר טובי - Omer Tubi - הפקת אירועים",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/811-%D7%A2%D7%95%D7%9E%D7%A8-%D7%98%D7%95%D7%91%D7%99-omer-tubi?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0"
+    },
+    {
+     "text": "One Day",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1563-one-day?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1978-deus?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1978-deus?search=0"
+    },
+    {
+     "text": "deus",
+     "href": "/he-IL/directory/brands/1978-deus?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1978-deus?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1978-deus?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "מורן גולדשטיין",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2057-%D7%9E%D7%95%D7%A8%D7%9F-%D7%92%D7%95%D7%9C%D7%93%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אוהנה - עיצוב והפקת אירועים",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2132-%D7%90%D7%95%D7%94%D7%A0%D7%94-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%95%D7%94%D7%A4%D7%A7%D7%AA-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 17,
+ "afterTilesHtml": ""
+}

@@ -1,0 +1,2158 @@
+{
+ "category": {
+  "title": "קייטרינג",
+  "icon": "ip-icon-cook-hat",
+  "meta": "מוצגות 20 מתוך 76 תוצאות שנמצאו",
+  "pageTitle": "חיפוש קייטרינג | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "224",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "318",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "225",
+     "label": "השרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "226",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "227",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "229",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[126][]",
+     "value": "228",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "כמות סועדים",
+   "options": [
+    {
+     "name": "directory_brands_filter[234][]",
+     "value": "328",
+     "label": "עד 100",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[234][]",
+     "value": "329",
+     "label": "החל מ-100",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "כשרות",
+   "options": [
+    {
+     "name": "directory_brands_filter[129][]",
+     "value": "231",
+     "label": "כשרות רבנות",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[129][]",
+     "value": "232",
+     "label": "כשרות מהדרין",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[129][]",
+     "value": "233",
+     "label": "לא כשר",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג תפריט",
+   "options": [
+    {
+     "name": "directory_brands_filter[131][]",
+     "value": "234",
+     "label": "בשרי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[131][]",
+     "value": "235",
+     "label": "חלבי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[131][]",
+     "value": "236",
+     "label": "צמחוני",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[131][]",
+     "value": "237",
+     "label": "טבעוני",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "350",
+   "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0",
+   "name": "עץ השדה - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1161/normal_logo.png?1582631042",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(1137 חוות דעת)",
+   "details": [
+    "עץ השדה - קייטרינג",
+    "4.9 (1137 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "גן אירועים הגבעה קיבוץ גבעת ברנר יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/114/photos/7037_small.jpg?1494317303",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/52579fed6c-7037_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/114/photos/7035_small.jpg?1494317295",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/611da28106-7035_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/114/photos/7033_small.jpg?1494317288",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/a2c9752129-7033_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/114/photos/9308_small.jpg?1513866334",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/852be32e76-9308_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/114/photos/9316_small.jpg?1513866664",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2627bd0112-9316_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "גן אירועים הגבעה קיבוץ גבעת ברנר",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עץ השדה\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1161/normal_logo.png?1582631042')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\">עץ השדה - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(1137 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> גן אירועים הגבעה קיבוץ גבעת ברנר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/42f41e0eff-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0",
+   "name": "אתי ונעמה - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1080/normal_logo.png?1507119958",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(38 חוות דעת)",
+   "details": [
+    "אתי ונעמה - קייטרינג",
+    "5.0 (38 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "055-4539200 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/383/photos/9212_small.jpg?1511955728",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7b18ffded3-9212_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/383/photos/9207_small.jpg?1511955703",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e7ec304657-9207_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/383/photos/9209_small.jpg?1511955710",
+     "promo": true,
+     "promoPhone": "055-4539200",
+     "file": "directory/dbde3c6a71-9209_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/383/photos/9210_small.jpg?1511955710",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/88e32ea54b-9210_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/383/photos/9211_small.jpg?1511955719",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a6aa499901-9211_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539200",
+     "href": "tel:055-4539200",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אתי ונעמה\" href=\"/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1080/normal_logo.png?1507119958')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0\">אתי ונעמה - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(38 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539200\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539200</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/edd874ce67-normal_logo.png"
+  },
+  {
+   "locationId": "403",
+   "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0",
+   "name": "עלי דפנה - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1169/normal_logo.png?1567604127",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(292 חוות דעת)",
+   "details": [
+    "עלי דפנה - קייטרינג",
+    "5.0 (292 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "מושב בית עובד 055-4539569 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/538/photos/16332_small.jpg?1567608904",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cb5f5ba16c-16332_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "מושב בית עובד",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539569",
+     "href": "tel:055-4539569",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עלי דפנה \" href=\"/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1169/normal_logo.png?1567604127')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0\">עלי דפנה - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(292 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> מושב בית עובד </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539569\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539569</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0753238ce4-normal_logo.png"
+  },
+  {
+   "locationId": "429",
+   "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0",
+   "name": "אדום - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1148/normal_logo.jpg?1507120038",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(35 חוות דעת)",
+   "details": [
+    "אדום - קייטרינג",
+    "4.8 (35 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "רם און יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/88/photos/7056_small.jpg?1494318321",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ebc4698ce0-7056_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/88/photos/7051_small.jpg?1494318297",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/33e707e882-7051_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/88/photos/7048_small.jpg?1494318286",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/9db60718ee-7048_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/88/photos/7045_small.jpg?1494318268",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9ca54062e7-7045_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/88/photos/7046_small.jpg?1494318274",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6137031d57-7046_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "רם און",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אדום\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1148/normal_logo.jpg?1507120038')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\">אדום - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(35 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\"><i class=\"fas fa-map-marker-alt\"></i> רם און </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e2754ee0d9-normal_logo.jpg"
+  },
+  {
+   "locationId": "433",
+   "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0",
+   "name": "מעשייה - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1151/normal_logo.png?1507120048",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(101 חוות דעת)",
+   "details": [
+    "מעשייה - קייטרינג",
+    "4.9 (101 חוות דעת)",
+    "• כשרות רבנות • כל כמות סועדים",
+    "תל אביב יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8599_small.jpg?1501423828",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5cc07cb096-8599_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8594_small.jpg?1501423779",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b03a86ea4e-8594_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8595_small.jpg?1501423785",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/84f8a1273c-8595_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8597_small.jpg?1501423803",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/db4f1b5ba9-8597_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8598_small.jpg?1501423815",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/93687df805-8598_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מעשייה\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1151/normal_logo.png?1507120048')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\">מעשייה - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(101 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> כל כמות סועדים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/510d5cf45f-normal_logo.png"
+  },
+  {
+   "locationId": "348",
+   "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0",
+   "name": "מטבח מקומי - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1147/normal_logo.png?1507120035",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(190 חוות דעת)",
+   "details": [
+    "מטבח מקומי - קייטרינג",
+    "5.0 (190 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "חוות רונית יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/315/photos/7095_small.jpg?1494418616",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0d7f5ef738-7095_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/315/photos/7100_small.jpg?1494419130",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bcc70aeb36-7100_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/315/photos/7094_small.jpg?1494418383",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/867ce1da9c-7094_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/315/photos/7096_small.jpg?1494418618",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1187c98f20-7096_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/315/photos/7098_small.jpg?1494418859",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/aac62c604b-7098_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "חוות רונית",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מטבח מקומי\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1147/normal_logo.png?1507120035')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\">מטבח מקומי - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(190 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> חוות רונית </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b7ce205ffe-normal_logo.png"
+  },
+  {
+   "locationId": "399",
+   "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0",
+   "name": "אינדיגו - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1175/normal_logo.jpg?1507120120",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(182 חוות דעת)",
+   "details": [
+    "אינדיגו - קייטרינג",
+    "4.8 (182 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "קיבוץ שדות ים עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/3/photos/8658_small.jpg?1501499580",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3b110fd12d-8658_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/3/photos/8668_small.jpg?1501499643",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cfe7c7531f-8668_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/3/photos/8660_small.jpg?1501499595",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ce87aa5cec-8660_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/3/photos/8663_small.jpg?1501499619",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/47b76a5edd-8663_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/3/photos/8642_small.jpg?1501499249",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fe8fdb5d18-8642_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ שדות ים",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אינדיגו\" href=\"/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1175/normal_logo.jpg?1507120120')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0\">אינדיגו - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(182 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ שדות ים </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1efadad187-normal_logo.jpg"
+  },
+  {
+   "locationId": "617",
+   "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0",
+   "name": "סגנון אחר - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2623/normal_logo.png?1631185828",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(41 חוות דעת)",
+   "details": [
+    "סגנון אחר - קייטרינג",
+    "4.7 (41 חוות דעת)",
+    "• כשרות מהדרין • כל כמות סועדים",
+    "אפרת 055-4539387 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/628/photos/18576_small.jpg?1633952908",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9af58ec22f-18576_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/628/photos/18605_small.jpg?1633953116",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6746c6ebbf-18605_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/628/photos/18714_small.jpg?1636367057",
+     "promo": true,
+     "promoPhone": "055-4539387",
+     "file": "directory/6c588e77c6-18714_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/628/photos/18715_small.jpg?1636367065",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7c6813b14e-18715_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/628/photos/18720_small.jpg?1636367112",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/94205d82a8-18720_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "אפרת",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539387",
+     "href": "tel:055-4539387",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סגנון אחר\" href=\"/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2623/normal_logo.png?1631185828')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0\">סגנון אחר - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(41 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"tooltip\" data-trigger=\"hover\" title=\"\" data-original-title=\"רבנות אפרת\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות מהדרין <i class=\"fas fa-info-circle\"></i> </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> כל כמות סועדים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0\"><i class=\"fas fa-map-marker-alt\"></i> אפרת </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539387\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539387</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7329f24336-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0",
+   "name": "אנדיב קייטרינג | Endiv - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1071/normal_logo.png?1747910980",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(34 חוות דעת)",
+   "details": [
+    "אנדיב קייטרינג | Endiv - קייטרינג",
+    "4.8 (34 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/744/photos/22422_small.jpg?1750082842",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/87cd47e11f-22422_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אנדיב קייטרינג | Endiv\" href=\"/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1071/normal_logo.png?1747910980')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0\">אנדיב קייטרינג | Endiv - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(34 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6e3275bce7-normal_logo.png"
+  },
+  {
+   "locationId": "432",
+   "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0",
+   "name": "קוטורה - Cottura - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1152/normal_logo.png?1507120051",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(20 חוות דעת)",
+   "details": [
+    "קוטורה - Cottura - קייטרינג",
+    "(20 חוות דעת)",
+    "• לא כשר • כל כמות סועדים",
+    "תל אביב יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8829_small.jpg?1502192824",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/43a3698bdb-8829_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8810_small.jpg?1502190159",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0c7d0995d8-8810_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8812_small.jpg?1502190316",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/c4c77d5040-8812_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8826_small.jpg?1502192672",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a48f22d67b-8826_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/118/photos/8817_small.jpg?1502190803",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cde2ec6b86-8817_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קוטורה - Cottura\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1152/normal_logo.png?1507120051')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\">קוטורה - Cottura - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"קוטורה - Cottura\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(20 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> לא כשר </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> כל כמות סועדים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a8cd52a8be-normal_logo.png"
+  },
+  {
+   "locationId": "413",
+   "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0",
+   "name": "מגי ותולי - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1157/normal_logo.png?1507120067",
+   "logoIcon": null,
+   "rating": "3.4",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(31 חוות דעת)",
+   "details": [
+    "מגי ותולי - קייטרינג",
+    "3.4 (31 חוות דעת)",
+    "• כל כמות סועדים",
+    "בצרה יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/9/photos/7108_small.jpg?1494422767",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c7ce86c3c7-7108_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/9/photos/7105_small.jpg?1494422727",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0ea81c2e5c-7105_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/9/photos/7106_small.jpg?1494422729",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/fd569ada72-7106_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/9/photos/7107_small.jpg?1494422737",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/143dd53b93-7107_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/9/photos/7109_small.jpg?1494422770",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0df04a2d3f-7109_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "בצרה",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מגי ותולי\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1157/normal_logo.png?1507120067')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\">מגי ותולי - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 37.6%\"></i></div><i class=\"fal fa-star\"></i><span class=\"rating_total\">3.4</span></div> </a><div class=\"inline-block small nowrap\">(31 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> כל כמות סועדים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> בצרה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/92bdb79fcc-normal_logo.png"
+  },
+  {
+   "locationId": "748",
+   "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0",
+   "name": "רועים חופש קולינרי | roim culinary - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3970/normal_logo.png?1795009070",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "רועים חופש קולינרי | roim culinary - קייטרינג",
+    "5.0 (4 חוות דעת)",
+    "• החל מ-100 • כשרות רבנות",
+    "קיבוץ רמת הכובש 055-4539270 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ רמת הכובש",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539270",
+     "href": "tel:055-4539270",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רועים חופש קולינרי | roim culinary\" href=\"/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3970/normal_logo.png?1795009070')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0\">רועים חופש קולינרי | roim culinary - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ רמת הכובש </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539270\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539270</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A",
+   "logoFile": "directory/38b0b3ebe1-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0",
+   "name": "גוסטו - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3014/normal_logo.jpg?1623229332",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(116 חוות דעת)",
+   "details": [
+    "גוסטו - קייטרינג",
+    "4.9 (116 חוות דעת)",
+    "• כשרות רבנות",
+    "055-4539169 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539169",
+     "href": "tel:055-4539169",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גוסטו\" href=\"/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3014/normal_logo.jpg?1623229332')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0\">גוסטו - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(116 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"tooltip\" data-trigger=\"hover\" title=\"\" data-original-title=\"מטבח כשר\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות <i class=\"fas fa-info-circle\"></i> </div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539169\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539169</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3d8648f4bc-normal_logo.jpg"
+  },
+  {
+   "locationId": "363",
+   "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0",
+   "name": "אדמה - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1174/normal_logo.png?1544353128",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(40 חוות דעת)",
+   "details": [
+    "אדמה - קייטרינג",
+    "4.7 (40 חוות דעת)",
+    "• כשרות מהדרין • החל מ-100",
+    "קדומים עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "קדומים",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אדמה\" href=\"/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1174/normal_logo.png?1544353128')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0\">אדמה - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(40 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות מהדרין </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קדומים </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9975683232-normal_logo.png"
+  },
+  {
+   "locationId": "360",
+   "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0",
+   "name": "טעם וצבע - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1160/normal_logo.jpg?1507120077",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(953 חוות דעת)",
+   "details": [
+    "טעם וצבע - קייטרינג",
+    "4.9 (953 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "עמק חפר יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עמק חפר",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"טעם וצבע\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1160/normal_logo.jpg?1507120077')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\">טעם וצבע - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(953 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\"><i class=\"fas fa-map-marker-alt\"></i> עמק חפר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/81e7d4d13f-normal_logo.jpg"
+  },
+  {
+   "locationId": "708",
+   "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0",
+   "name": "מנספלד קייטרינג | Mansfeld - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3815/normal_logo.png?1754907372",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מנספלד קייטרינג | Mansfeld - קייטרינג",
+    "(0 חוות דעת)",
+    "הדר עם 055-4539622 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "הדר עם",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539622",
+     "href": "tel:055-4539622",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מנספלד קייטרינג | Mansfeld\" href=\"/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3815/normal_logo.png?1754907372')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0\">מנספלד קייטרינג | Mansfeld - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מנספלד קייטרינג | Mansfeld\" href=\"/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0\"><i class=\"fas fa-map-marker-alt\"></i> הדר עם </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539622\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539622</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9def5cd22a-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0",
+   "name": "פרלה וג'וזף - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1491/normal_logo.png?1507120690",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(81 חוות דעת)",
+   "details": [
+    "פרלה וג'וזף - קייטרינג",
+    "4.9 (81 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פרלה וג'וזף\" href=\"/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1491/normal_logo.png?1507120690')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0\">פרלה וג'וזף - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(81 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/fd61a42176-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0",
+   "name": "פורצ'יני | Porcini - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/319/normal_logo.png?1761042624",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(412 חוות דעת)",
+   "details": [
+    "פורצ'יני | Porcini - קייטרינג",
+    "4.9 (412 חוות דעת)",
+    "• כשרות רבנות • החל מ-100",
+    "055-4539648 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539648",
+     "href": "tel:055-4539648",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פורצ'יני | Porcini\" href=\"/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/319/normal_logo.png?1761042624')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0\">פורצ'יני | Porcini - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(412 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"כמות סועדים\"></i> החל מ-100 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539648\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539648</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/5234c875ba-normal_logo.png"
+  },
+  {
+   "locationId": "725",
+   "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0",
+   "name": "נינה קייטרינג | Nina - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3925/normal_logo.png?1770559351",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "נינה קייטרינג | Nina - קייטרינג",
+    "(0 חוות דעת)",
+    "• כשרות רבנות",
+    "כפר סבא 055-4539431 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "כפר סבא",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539431",
+     "href": "tel:055-4539431",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נינה קייטרינג | Nina\" href=\"/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3925/normal_logo.png?1770559351')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0\">נינה קייטרינג | Nina - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"נינה קייטרינג | Nina\" href=\"/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-star-of-david\" title=\"כשרות\"></i> כשרות רבנות </div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0\"><i class=\"fas fa-map-marker-alt\"></i> כפר סבא </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539431\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539431</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6e43f1a662-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "גלידה לג'נדה אירועים - קייטרינג",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3807/normal_logo.png?1745426704",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "גלידה לג'נדה אירועים - קייטרינג",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/742/photos/22368_small.jpg?1745426205",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4152695a0d-22368_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/742/photos/22369_small.jpg?1745426209",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/eaffb81fd6-22369_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/742/photos/22370_small.jpg?1745426209",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/bb29ecc22a-22370_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/742/photos/22371_small.jpg?1745426213",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a3bfaf0174-22371_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/742/photos/22367_small.jpg?1745426205",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2a2f4fc2d3-22367_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גלידה לג'נדה אירועים\" href=\"/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3807/normal_logo.png?1745426704')\" title=\"קייטרינג\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">גלידה לג'נדה אירועים - קייטרינג </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"גלידה לג'נדה אירועים\" href=\"/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c7ae55f050-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "עץ השדה - קייטרינג",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "גן אירועים הגבעה קיבוץ גבעת ברנר",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/369-%D7%A2%D7%A5-%D7%94%D7%A9%D7%93%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539200 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539200"
+    },
+    {
+     "text": "עוד פרטים? 055-4539200 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "אתי ונעמה - קייטרינג",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "055-4539200",
+     "href": "tel:055-4539200"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/407-%D7%90%D7%AA%D7%99-%D7%95%D7%A0%D7%A2%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עלי דפנה - קייטרינג",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "מושב בית עובד",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "055-4539569",
+     "href": "tel:055-4539569"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/365-%D7%A2%D7%9C%D7%99-%D7%93%D7%A4%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "אדום - קייטרינג",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "רם און",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/372-%D7%90%D7%93%D7%95%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "מעשייה - קייטרינג",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/366-%D7%9E%D7%A2%D7%A9%D7%99%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "מטבח מקומי - קייטרינג",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "חוות רונית",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/371-%D7%9E%D7%98%D7%91%D7%97-%D7%9E%D7%A7%D7%95%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "אינדיגו - קייטרינג",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "קיבוץ שדות ים",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/363-%D7%90%D7%99%D7%A0%D7%93%D7%99%D7%92%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539387 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539387"
+    },
+    {
+     "text": "עוד פרטים? 055-4539387 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "סגנון אחר - קייטרינג",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "אפרת",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "055-4539387",
+     "href": "tel:055-4539387"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2209-%D7%A1%D7%92%D7%A0%D7%95%D7%9F-%D7%90%D7%97%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0"
+    },
+    {
+     "text": "אנדיב קייטרינג | Endiv - קייטרינג",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/409-%D7%90%D7%A0%D7%93%D7%99%D7%91-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-endiv?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "קוטורה - Cottura - קייטרינג",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/367-%D7%A7%D7%95%D7%98%D7%95%D7%A8%D7%94-cottura?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "מגי ותולי - קייטרינג",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "3.4",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "בצרה",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/364-%D7%9E%D7%92%D7%99-%D7%95%D7%AA%D7%95%D7%9C%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "רועים חופש קולינרי | roim culinary - קייטרינג",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "קיבוץ רמת הכובש",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "055-4539270",
+     "href": "tel:055-4539270"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2368-%D7%A8%D7%95%D7%A2%D7%99%D7%9D-%D7%97%D7%95%D7%A4%D7%A9-%D7%A7%D7%95%D7%9C%D7%99%D7%A0%D7%A8%D7%99-roim-culinary?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0"
+    },
+    {
+     "text": "גוסטו - קייטרינג",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0"
+    },
+    {
+     "text": "055-4539169",
+     "href": "tel:055-4539169"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2187-%D7%92%D7%95%D7%A1%D7%98%D7%95?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "אדמה - קייטרינג",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "קדומים",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/375-%D7%90%D7%93%D7%9E%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "טעם וצבע - קייטרינג",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "עמק חפר",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/358-%D7%98%D7%A2%D7%9D-%D7%95%D7%A6%D7%91%D7%A2?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "מנספלד קייטרינג | Mansfeld - קייטרינג",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "הדר עם",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "055-4539622",
+     "href": "tel:055-4539622"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2326-%D7%9E%D7%A0%D7%A1%D7%A4%D7%9C%D7%93-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-mansfeld?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "פרלה וג'וזף - קייטרינג",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/419-%D7%A4%D7%A8%D7%9C%D7%94-%D7%95%D7%92-%D7%95%D7%96%D7%A3?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0"
+    },
+    {
+     "text": "פורצ'יני | Porcini - קייטרינג",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0"
+    },
+    {
+     "text": "055-4539648",
+     "href": "tel:055-4539648"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/481-%D7%A4%D7%95%D7%A8%D7%A6%D7%99%D7%A0%D7%99-porcini?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "נינה קייטרינג | Nina - קייטרינג",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "כפר סבא",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "055-4539431",
+     "href": "tel:055-4539431"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2345-%D7%A0%D7%99%D7%A0%D7%94-%D7%A7%D7%99%D7%99%D7%98%D7%A8%D7%99%D7%A0%D7%92-nina?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "גלידה לג'נדה אירועים - קייטרינג",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2324-%D7%92%D7%9C%D7%99%D7%93%D7%94-%D7%9C%D7%92%D7%A0%D7%93%D7%94-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

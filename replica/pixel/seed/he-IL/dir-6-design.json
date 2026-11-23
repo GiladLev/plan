@@ -1,0 +1,1729 @@
+{
+ "category": {
+  "title": "עיצוב",
+  "icon": "ip-icon-curtains",
+  "meta": "מוצגות 20 מתוך 86 תוצאות שנמצאו",
+  "pageTitle": "חיפוש עיצוב | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "356",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "357",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "358",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "359",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "360",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "361",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[256][]",
+     "value": "362",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "603",
+   "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0",
+   "name": "ספיר גלאם - נסיה - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3016/normal_logo.png?1723644083",
+   "logoIcon": null,
+   "rating": "3.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "ספיר גלאם - נסיה - עיצוב",
+    "3.7 (4 חוות דעת)",
+    "צומת ראם יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/611/photos/21610_small.jpg?1710846828",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/955ae60e4a-21610_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/611/photos/21616_small.jpg?1710851692",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/73055630e4-21616_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/611/photos/21614_small.jpg?1710851679",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/0351b61b63-21614_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/611/photos/21615_small.jpg?1710851691",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/03eb9aee6f-21615_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/611/photos/21613_small.jpg?1710851679",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/85813ffe55-21613_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "צומת ראם",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ספיר גלאם - נסיה\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3016/normal_logo.png?1723644083')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\">ספיר גלאם - נסיה - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><i class=\"fal fa-star\"></i><span class=\"rating_total\">3.7</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> צומת ראם </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/19d292af85-normal_logo.png"
+  },
+  {
+   "locationId": "349",
+   "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+   "name": "מטרו עיצובים - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1448/normal_logo.png?1507120577",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(21 חוות דעת)",
+   "details": [
+    "מטרו עיצובים - עיצוב",
+    "5.0 (21 חוות דעת)",
+    "קריית שדה התעופה יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/308/photos/9528_small.jpg?1514717418",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/51688a549f-9528_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/308/photos/9539_small.jpg?1514717826",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/90b4152019-9539_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/308/photos/9531_small.jpg?1514717431",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/ceb8580dc0-9531_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/308/photos/9543_small.jpg?1514717853",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f8a5fccf68-9543_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/308/photos/9540_small.jpg?1514717834",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8ee107cfcb-9540_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קריית שדה התעופה",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מטרו עיצובים\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1448/normal_logo.png?1507120577')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\">מטרו עיצובים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(21 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קריית שדה התעופה </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/68e7a77856-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0",
+   "name": "בלאנדר דיזיין - Blander design - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1134/normal_logo.jpg?1629707023",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(7 חוות דעת)",
+   "details": [
+    "בלאנדר דיזיין - Blander design - עיצוב",
+    "4.8 (7 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/626/photos/19233_small.jpg?1641365629",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/13ee0cd6db-19233_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בלאנדר דיזיין - Blander design\" href=\"/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1134/normal_logo.jpg?1629707023')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0\">בלאנדר דיזיין - Blander design - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(7 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4d40b68662-normal_logo.jpg"
+  },
+  {
+   "locationId": "501",
+   "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "עידו פריד - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1131/normal_logo.png?1523807745",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(20 חוות דעת)",
+   "details": [
+    "עידו פריד - עיצוב",
+    "4.8 (20 חוות דעת)",
+    "בארותיים 055-4539196 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/476/photos/11926_small.jpg?1523268728",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1e134a6924-11926_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "בארותיים",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539196",
+     "href": "tel:055-4539196",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עידו פריד\" href=\"/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1131/normal_logo.png?1523807745')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">עידו פריד - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(20 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><i class=\"fas fa-map-marker-alt\"></i> בארותיים </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539196\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539196</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4de46dc482-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+   "name": "זיני עיצובים - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2938/normal_logo.jpg?1577629655",
+   "logoIcon": null,
+   "rating": "3.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "זיני עיצובים - עיצוב",
+    "3.8 (6 חוות דעת)",
+    "055-4539206 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539206",
+     "href": "tel:055-4539206",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"זיני עיצובים\" href=\"/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2938/normal_logo.jpg?1577629655')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\">זיני עיצובים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><i class=\"fal fa-star\"></i><span class=\"rating_total\">3.8</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539206\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539206</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/80053617cf-normal_logo.jpg"
+  },
+  {
+   "locationId": "686",
+   "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+   "name": "קואטרו עיצובים - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3550/normal_logo.png?1705935974",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "קואטרו עיצובים - עיצוב",
+    "(1 חוות דעת)",
+    "עמק חפר יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עמק חפר",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קואטרו עיצובים\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3550/normal_logo.png?1705935974')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\">קואטרו עיצובים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"קואטרו עיצובים\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-map-marker-alt\"></i> עמק חפר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e594a64f4a-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0",
+   "name": "קווין דיזיין - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2415/normal_logo.png?1520350608",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "קווין דיזיין - עיצוב",
+    "(1 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קווין דיזיין \" href=\"/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2415/normal_logo.png?1520350608')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0\">קווין דיזיין - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"קווין דיזיין \" href=\"/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/506294b95b-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "בורדו עיצוב אירועים - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3718/normal_logo.png?1729517030",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "בורדו עיצוב אירועים - עיצוב",
+    "5.0 (6 חוות דעת)",
+    "055-4544635 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/727/photos/22203_small.jpg?1730805514",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5e488308bb-22203_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/727/photos/22205_small.jpg?1730805526",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/dbaf84a06e-22205_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/727/photos/22213_small.jpg?1730805724",
+     "promo": true,
+     "promoPhone": "055-4544635",
+     "file": "directory/733820308d-22213_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/727/photos/22217_small.jpg?1730805744",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0aebe12d57-22217_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/727/photos/22157_small.jpg?1730801037",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2c39cff0a6-22157_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4544635",
+     "href": "tel:055-4544635",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בורדו עיצוב אירועים\" href=\"/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3718/normal_logo.png?1729517030')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">בורדו עיצוב אירועים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4544635\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4544635</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e7ea5454ae-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0",
+   "name": "אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇 - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3532/normal_logo.png?1703604909",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇 - עיצוב",
+    "(1 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇\" href=\"/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3532/normal_logo.png?1703604909')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0\">אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇 - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇\" href=\"/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/34b50963d5-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2229-feel-desing?search=0",
+   "name": "Feel Desing - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3183/normal_logo.jpg?1653563731",
+   "logoIcon": null,
+   "rating": "3.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "Feel Desing - עיצוב",
+    "3.8 (2 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Feel Desing\" href=\"/he-IL/directory/brands/2229-feel-desing?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3183/normal_logo.jpg?1653563731')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2229-feel-desing?search=0\">Feel Desing - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2229-feel-desing?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><i class=\"fal fa-star\"></i><span class=\"rating_total\">3.8</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2229-feel-desing?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2229-feel-desing?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/8125569157-normal_logo.jpg"
+  },
+  {
+   "locationId": "691",
+   "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0",
+   "name": "ספיר גלאם - דוריה - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3683/normal_logo.png?1723644140",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "ספיר גלאם - דוריה - עיצוב",
+    "4.7 (3 חוות דעת)",
+    "שדה יואב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "שדה יואב",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ספיר גלאם - דוריה\" href=\"/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3683/normal_logo.png?1723644140')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0\">ספיר גלאם - דוריה - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> שדה יואב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3a0f7947e6-normal_logo.png"
+  },
+  {
+   "locationId": "743",
+   "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0",
+   "name": "שלומי וקנין | Shlomi Vaknin - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3962/normal_logo.png?1783954524",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "שלומי וקנין | Shlomi Vaknin - עיצוב",
+    "(0 חוות דעת)",
+    "ראשון לציון 055-4539443 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "ראשון לציון",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539443",
+     "href": "tel:055-4539443",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שלומי וקנין | Shlomi Vaknin \" href=\"/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3962/normal_logo.png?1783954524')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0\">שלומי וקנין | Shlomi Vaknin - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"שלומי וקנין | Shlomi Vaknin \" href=\"/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0\"><i class=\"fas fa-map-marker-alt\"></i> ראשון לציון </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539443\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539443</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4cbeb40518-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+   "name": "מתן עיצובים - עיצוב",
+   "logo": null,
+   "logoIcon": "ip-icon-rose",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מתן עיצובים - עיצוב",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מתן עיצובים\" href=\"/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"עיצוב\"><i class=\"ip-icon-rose\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\">מתן עיצובים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מתן עיצובים\" href=\"/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0",
+   "name": "ענבל שקד כפיר - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1135/normal_logo.png?1518091929",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "ענבל שקד כפיר - עיצוב",
+    "5.0 (8 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/436/photos/16801_small.jpg?1579597007",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3e3c93c705-16801_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/436/photos/11049_small.jpg?1518101423",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1aac3aad6a-11049_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ענבל שקד כפיר \" href=\"/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1135/normal_logo.png?1518091929')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0\">ענבל שקד כפיר - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9672fc5a82-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0",
+   "name": "נטלי מיינור - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2451/normal_logo.png?1522242998",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "נטלי מיינור - עיצוב",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/492/photos/12059_small.jpg?1523378892",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ae96f7e61c-12059_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/492/photos/12048_small.jpg?1523376452",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/277168b5b7-12048_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/492/photos/12080_small.jpg?1523457334",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5762627142-12080_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/492/photos/12092_small.jpg?1523458698",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ab8e0d60fb-12092_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/492/photos/11928_small.jpg?1523278098",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d2e171e170-11928_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נטלי מיינור\" href=\"/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2451/normal_logo.png?1522242998')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0\">נטלי מיינור - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7ce2a1d5b1-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0",
+   "name": "קים ביולו - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2298/normal_logo.png?1517993141",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(7 חוות דעת)",
+   "details": [
+    "קים ביולו - עיצוב",
+    "5.0 (7 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/433/photos/10939_small.jpg?1518009425",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/19d127b8dd-10939_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קים ביולו\" href=\"/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2298/normal_logo.png?1517993141')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0\">קים ביולו - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(7 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ac64795f0e-normal_logo.png"
+  },
+  {
+   "locationId": "453",
+   "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0",
+   "name": "Details - דיטיילס - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2086/normal_logo.jpg?1511867345",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(73 חוות דעת)",
+   "details": [
+    "Details - דיטיילס - עיצוב",
+    "4.7 (73 חוות דעת)",
+    "קיבוץ משמר השרון עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/379/photos/11982_small.jpg?1523353758",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3928ab0cd8-11982_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/379/photos/11984_small.jpg?1523353769",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/866b898616-11984_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/379/photos/11988_small.jpg?1523353790",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cd9a98cac4-11988_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/379/photos/12012_small.jpg?1523353892",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3bb2ac3c94-12012_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/379/photos/12017_small.jpg?1523353923",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e9617334f4-12017_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ משמר השרון",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Details - דיטיילס\" href=\"/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2086/normal_logo.jpg?1511867345')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0\">Details - דיטיילס - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(73 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ משמר השרון </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a203f92511-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/454-hilis-design?search=0",
+   "name": "Hilis Design - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1445/normal_logo.png?1507120568",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "Hilis Design - עיצוב",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/353/photos/10677_small.jpg?1517268501",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f9946063f7-10677_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Hilis Design\" href=\"/he-IL/directory/brands/454-hilis-design?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1445/normal_logo.png?1507120568')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/454-hilis-design?search=0\">Hilis Design - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Hilis Design\" href=\"/he-IL/directory/brands/454-hilis-design?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/454-hilis-design?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/bc359ac85c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0",
+   "name": "רעות שמעוני - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2466/normal_logo.jpg?1523784598",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "רעות שמעוני - עיצוב",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/494/photos/12350_small.jpg?1523785287",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e4d15415cc-12350_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רעות שמעוני\" href=\"/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2466/normal_logo.jpg?1523784598')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0\">רעות שמעוני - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רעות שמעוני\" href=\"/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6048fc406d-normal_logo.jpg"
+  },
+  {
+   "locationId": "507",
+   "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "שיר ירדן - עיצוב אירועים - עיצוב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2576/normal_logo.png?1529851172",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "שיר ירדן - עיצוב אירועים - עיצוב",
+    "4.6 (3 חוות דעת)",
+    "הוד השרון עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/516/photos/13297_small.jpg?1530206876",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/71695d857a-13297_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "הוד השרון",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שיר ירדן - עיצוב אירועים\" href=\"/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2576/normal_logo.png?1529851172')\" title=\"עיצוב\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">שיר ירדן - עיצוב אירועים - עיצוב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><i class=\"fas fa-map-marker-alt\"></i> הוד השרון </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/bb473233ef-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "ספיר גלאם - נסיה - עיצוב",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "3.7",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "צומת ראם",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2189-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%A0%D7%A1%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "מטרו עיצובים - עיצוב",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "קריית שדה התעופה",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/464-%D7%9E%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "בלאנדר דיזיין - Blander design - עיצוב",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1704-%D7%91%D7%9C%D7%90%D7%A0%D7%93%D7%A8-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F-blander-design?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עידו פריד - עיצוב",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "בארותיים",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "055-4539196",
+     "href": "tel:055-4539196"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/916-%D7%A2%D7%99%D7%93%D7%95-%D7%A4%D7%A8%D7%99%D7%93-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%A4%D7%A8%D7%97%D7%99%D7%9D-%D7%9C%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "זיני עיצובים - עיצוב",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "3.8",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "055-4539206",
+     "href": "tel:055-4539206"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2117-%D7%96%D7%99%D7%A0%D7%99-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "קואטרו עיצובים - עיצוב",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עמק חפר",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2295-%D7%A7%D7%95%D7%90%D7%98%D7%A8%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "קווין דיזיין - עיצוב",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/948-%D7%A7%D7%95%D7%95%D7%99%D7%9F-%D7%93%D7%99%D7%96%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4544635 לחצ/י ליצירת קשר",
+     "href": "tel:055-4544635"
+    },
+    {
+     "text": "עוד פרטים? 055-4544635 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "בורדו עיצוב אירועים - עיצוב",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "055-4544635",
+     "href": "tel:055-4544635"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2309-%D7%91%D7%95%D7%A8%D7%93%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "אוסמו עיצוב אירועים | OSMO 𝖾𝗏𝖾𝗇𝗍 𝖽𝖾𝗌𝗂𝗀𝗇 - עיצוב",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2293-%D7%90%D7%95%D7%A1%D7%9E%D7%95-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D-osmo?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "Feel Desing - עיצוב",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "3.8",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2229-feel-desing?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "ספיר גלאם - דוריה - עיצוב",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "שדה יואב",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2307-%D7%A1%D7%A4%D7%99%D7%A8-%D7%92%D7%9C%D7%90%D7%9D-%D7%93%D7%95%D7%A8%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "שלומי וקנין | Shlomi Vaknin - עיצוב",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "ראשון לציון",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "055-4539443",
+     "href": "tel:055-4539443"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2363-%D7%A9%D7%9C%D7%95%D7%9E%D7%99-%D7%95%D7%A7%D7%A0%D7%99%D7%9F-shlomi-vaknin?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "מתן עיצובים - עיצוב",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2283-%D7%9E%D7%AA%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "ענבל שקד כפיר - עיצוב",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/820-%D7%A2%D7%A0%D7%91%D7%9C-%D7%A9%D7%A7%D7%93-%D7%9B%D7%A4%D7%99%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "נטלי מיינור - עיצוב",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1714-%D7%A0%D7%98%D7%9C%D7%99-%D7%9E%D7%99%D7%99%D7%A0%D7%95%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "קים ביולו - עיצוב",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/816-%D7%A7%D7%99%D7%9D-%D7%91%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "Details - דיטיילס - עיצוב",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "קיבוץ משמר השרון",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/559-details-%D7%93%D7%99%D7%98%D7%99%D7%99%D7%9C%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0"
+    },
+    {
+     "text": "Hilis Design - עיצוב",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/454-hilis-design?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0"
+    },
+    {
+     "text": "רעות שמעוני - עיצוב",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1730-%D7%A8%D7%A2%D7%95%D7%AA-%D7%A9%D7%9E%D7%A2%D7%95%D7%A0%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "שיר ירדן - עיצוב אירועים - עיצוב",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "הוד השרון",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2022-%D7%A9%D7%99%D7%A8-%D7%99%D7%A8%D7%93%D7%9F-%D7%A2%D7%99%D7%A6%D7%95%D7%91-%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

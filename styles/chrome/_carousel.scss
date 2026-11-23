@@ -1,0 +1,18 @@
+// Replica carousel (own implementation, components/carousel.ts) — keeps the original's geometry and arrow placement
+.carousel[data-flickity] { position: relative; }
+.carousel-viewport { overflow: hidden; position: relative; height: 100%; touch-action: pan-y; cursor: grab; user-select: none; -webkit-user-select: none;
+  &.is-pointer-down { cursor: grabbing; }
+}
+.carousel-track { position: absolute; width: 100%; height: 100%; top: 0; right: 0; will-change: transform; }
+.carousel-track > .carousel-cell { position: absolute; top: 0; }
+.flickity-prev-next-button {
+  position: absolute; top: 0; height: 100%; width: 54px; border: none; border-radius: 0; background: transparent; cursor: pointer; padding: 0; z-index: 2;
+  &:hover, &:focus { background: transparent; box-shadow: none; }
+  &:focus-visible { outline: 2px solid #09f; }
+  &:active { opacity: 0.6; }
+  &.previous { right: 0; left: auto; }
+  &.next { left: 0; right: auto; }
+  &:disabled { opacity: 0.3; cursor: auto; }
+  svg { position: absolute; left: 25%; top: 20%; width: 50%; height: 60%; }
+  .arrow { fill: #333; }
+}

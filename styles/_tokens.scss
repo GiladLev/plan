@@ -1,0 +1,29 @@
+$c-ink: #333333;
+$c-muted: #666666;
+$c-muted-on-gray: #555555;
+$c-link: #337ab7;
+$c-link-strong: #1b557a;
+$c-brand-wine: #893f48;
+$c-nav: #4b688d;
+$c-nav-dark: #324b69;
+$c-nav-light: #546e8f;
+$c-nav-hover: #3b526f;
+$c-nav-text: #c8c8c8;
+$c-hero: #d1c8b2;
+$c-gray-section: #eef1f3;
+$c-footer: #333333;
+$c-footer-link: #d1d1d1;
+$c-success: #25794f;
+$c-info: #2472a4;
+$c-cookie-btn: #1b809e;
+$tex-nav: url(/assets/shared_textures__grey_overlay.png);
+$img-rays: url(/assets/lib_bootstrap-3_3_6-iplan-theme_images__rays.gif);
+$img-bubble: url(/assets/lib_bootstrap-3_3_6-iplan-theme_images__bubble.png);
+$bp-sm: 768px;
+$bp-md: 992px;
+$bp-lg: 1200px;
+@mixin xs { @media (max-width: #{$bp-sm - 1}) { @content; } }
+@mixin sm-down { @media (max-width: #{$bp-md - 1}) { @content; } }
+@mixin sm-up { @media (min-width: $bp-sm) { @content; } }
+@mixin md-up { @media (min-width: $bp-md) { @content; } }
+@mixin lg-up { @media (min-width: $bp-lg) { @content; } }

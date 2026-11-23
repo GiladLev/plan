@@ -1,0 +1,1183 @@
+{
+ "category": {
+  "title": "איפור ועיצוב שיער",
+  "icon": "ip-icon-cosmetics",
+  "meta": "מוצגות 17 מתוך 17 תוצאות שנמצאו",
+  "pageTitle": "חיפוש איפור ועיצוב שיער | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[260][]",
+     "value": "363",
+     "label": "איפור",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[260][]",
+     "value": "364",
+     "label": "עיצוב שיער",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[260][]",
+     "value": "365",
+     "label": "איפור ועיצוב שיער",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[260][]",
+     "value": "366",
+     "label": "סלון כלות",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "367",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "368",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "369",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "370",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "371",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "372",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[261][]",
+     "value": "373",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_263",
+   "name": "directory_brands_filter[263]",
+   "label": "מניקור",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_264",
+   "name": "directory_brands_filter[264]",
+   "label": "פדיקור",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_265",
+   "name": "directory_brands_filter[265]",
+   "label": "הסרת שיער",
+   "tooltip": null
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0",
+   "name": "גיורא יצחקוב - GIYORA IZHAKOV",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2696/normal_logo.png?1544352727",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "גיורא יצחקוב - GIYORA IZHAKOV",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גיורא יצחקוב - GIYORA IZHAKOV\" href=\"/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2696/normal_logo.png?1544352727')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0\">גיורא יצחקוב - GIYORA IZHAKOV </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"גיורא יצחקוב - GIYORA IZHAKOV\" href=\"/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d287891b9c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0",
+   "name": "יעל שפר - איפור",
+   "logo": null,
+   "logoIcon": "ip-icon-cosmetics",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "יעל שפר - איפור",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"יעל שפר\" href=\"/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"איפור ועיצוב שיער\"><i class=\"ip-icon-cosmetics\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0\">יעל שפר - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"יעל שפר\" href=\"/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0",
+   "name": "רעות הופס - איפור ועיצוב שיער",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2248/normal_logo.jpg?1517305328",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(7 חוות דעת)",
+   "details": [
+    "רעות הופס - איפור ועיצוב שיער",
+    "5.0 (7 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/403/photos/10224_small.jpg?1516727739",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0f758c24ce-10224_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/403/photos/10215_small.jpg?1516727703",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/abfdf93ea6-10215_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רעות הופס\" href=\"/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2248/normal_logo.jpg?1517305328')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0\">רעות הופס - איפור ועיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(7 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c245a569b8-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0",
+   "name": "הילה לובר - איפור ועיצוב שיער",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2437/normal_logo.png?1521733733",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "הילה לובר - איפור ועיצוב שיער",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/474/photos/11880_small.jpg?1522584140",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a307965689-11880_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"הילה לובר\" href=\"/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2437/normal_logo.png?1521733733')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0\">הילה לובר - איפור ועיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/ca17185c87-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0",
+   "name": "ניקול דנינו - איפור",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/759/normal_logo.png?1514709938",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "ניקול דנינו - איפור",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ניקול דנינו\" href=\"/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/759/normal_logo.png?1514709938')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0\">ניקול דנינו - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e45c782d9f-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0",
+   "name": "גיל שוען - איפור",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2365/normal_logo.jpg?1519747754",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "גיל שוען - איפור",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גיל שוען\" href=\"/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2365/normal_logo.jpg?1519747754')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0\">גיל שוען - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4cbd768b05-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0",
+   "name": "ליאת מאמן",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/750/normal_logo.png?1507119356",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "ליאת מאמן",
+    "5.0 (5 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ליאת מאמן\" href=\"/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/750/normal_logo.png?1507119356')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0\">ליאת מאמן </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e5193ee9fa-normal_logo.png"
+  },
+  {
+   "locationId": "468",
+   "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0",
+   "name": "רותם רז שניידר - איפור ועיצוב שיער",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/793/normal_logo.png?1514716327",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "רותם רז שניידר - איפור ועיצוב שיער",
+    "(1 חוות דעת)",
+    "קרית טבעון עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "קרית טבעון",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רותם רז שניידר\" href=\"/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/793/normal_logo.png?1514716327')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0\">רותם רז שניידר - איפור ועיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"רותם רז שניידר\" href=\"/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קרית טבעון </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/498615f0f0-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0",
+   "name": "טל דברה - איפור ועיצוב שיער",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/833/normal_logo.png?1507119498",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "טל דברה - איפור ועיצוב שיער",
+    "5.0 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"טל דברה\" href=\"/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/833/normal_logo.png?1507119498')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0\">טל דברה - איפור ועיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b8b7cdc913-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0",
+   "name": "ג'ודי איזנברג - איפור, עיצוב שיער, איפור ועיצוב שיער",
+   "logo": null,
+   "logoIcon": "ip-icon-cosmetics",
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "ג'ודי איזנברג - איפור, עיצוב שיער, איפור ועיצוב שיער",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ג'ודי איזנברג\" href=\"/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"איפור ועיצוב שיער\"><i class=\"ip-icon-cosmetics\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0\">ג'ודי איזנברג - איפור, עיצוב שיער, איפור ועיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0",
+   "name": "Sapir Sabag",
+   "logo": null,
+   "logoIcon": "ip-icon-kiss",
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "Sapir Sabag",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Sapir Sabag\" href=\"/he-IL/directory/brands/2134-sapir-sabag?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"איפור ועיצוב שיער\"><i class=\"ip-icon-kiss\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2134-sapir-sabag?search=0\">Sapir Sabag </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2134-sapir-sabag?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2134-sapir-sabag?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0",
+   "name": "מורן סטויצקי - איפור",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2366/normal_logo.png?1519748133",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "מורן סטויצקי - איפור",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מורן סטויצקי\" href=\"/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2366/normal_logo.png?1519748133')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0\">מורן סטויצקי - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/eda557eb2f-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0",
+   "name": "ורד ספיבק - איפור",
+   "logo": null,
+   "logoIcon": "ip-icon-cosmetics",
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "ורד ספיבק - איפור",
+    "4.6 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ורד ספיבק\" href=\"/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"איפור ועיצוב שיער\"><i class=\"ip-icon-cosmetics\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0\">ורד ספיבק - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0",
+   "name": "שירן שפלר - איפור",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/771/normal_logo.png?1507119395",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(10 חוות דעת)",
+   "details": [
+    "שירן שפלר - איפור",
+    "5.0 (10 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שירן שפלר\" href=\"/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/771/normal_logo.png?1507119395')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0\">שירן שפלר - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(10 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/89aebc3852-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0",
+   "name": "קרן שחם - איפור",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2367/normal_logo.png?1519748453",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "קרן שחם - איפור",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קרן שחם\" href=\"/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2367/normal_logo.png?1519748453')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0\">קרן שחם - איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"קרן שחם\" href=\"/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f7a7d9ea9f-normal_logo.png"
+  },
+  {
+   "locationId": "467",
+   "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0",
+   "name": "חיים זיו ושלומית מזרחי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1757/normal_logo.png?1514710230",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "חיים זיו ושלומית מזרחי",
+    "5.0 (2 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"חיים זיו ושלומית מזרחי \" href=\"/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1757/normal_logo.png?1514710230')\" title=\"איפור ועיצוב שיער\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0\">חיים זיו ושלומית מזרחי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/28f2668768-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0",
+   "name": "ליאור גבריאלוב - עיצוב שיער",
+   "logo": null,
+   "logoIcon": "ip-icon-hair-dryer",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "ליאור גבריאלוב - עיצוב שיער",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ליאור גבריאלוב\" href=\"/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"איפור ועיצוב שיער\"><i class=\"ip-icon-hair-dryer\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0\">ליאור גבריאלוב - עיצוב שיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"ליאור גבריאלוב\" href=\"/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  }
+ ],
+ "pagerInfo": null,
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0"
+    },
+    {
+     "text": "גיורא יצחקוב - GIYORA IZHAKOV",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2055-%D7%92%D7%99%D7%95%D7%A8%D7%90-%D7%99%D7%A6%D7%97%D7%A7%D7%95%D7%91-giyora-izhakov?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "יעל שפר - איפור",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2267-%D7%99%D7%A2%D7%9C-%D7%A9%D7%A4%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "רעות הופס - איפור ועיצוב שיער",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/748-%D7%A8%D7%A2%D7%95%D7%AA-%D7%94%D7%95%D7%A4%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "הילה לובר - איפור ועיצוב שיער",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1484-%D7%94%D7%99%D7%9C%D7%94-%D7%9C%D7%95%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0"
+    },
+    {
+     "text": "ניקול דנינו - איפור",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/639-%D7%A0%D7%99%D7%A7%D7%95%D7%9C-%D7%93%D7%A0%D7%99%D7%A0%D7%95?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0"
+    },
+    {
+     "text": "גיל שוען - איפור",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/891-%D7%92%D7%99%D7%9C-%D7%A9%D7%95%D7%A2%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "ליאת מאמן",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/580-%D7%9C%D7%99%D7%90%D7%AA-%D7%9E%D7%90%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "רותם רז שניידר - איפור ועיצוב שיער",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "קרית טבעון",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/657-%D7%A8%D7%95%D7%AA%D7%9D-%D7%A8%D7%96-%D7%A9%D7%A0%D7%99%D7%99%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "טל דברה - איפור ועיצוב שיער",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/654-%D7%98%D7%9C-%D7%93%D7%91%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0"
+    },
+    {
+     "text": "ג'ודי איזנברג - איפור, עיצוב שיער, איפור ועיצוב שיער",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/637-%D7%92%D7%95%D7%93%D7%99-%D7%90%D7%99%D7%96%D7%A0%D7%91%D7%A8%D7%92?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0"
+    },
+    {
+     "text": "Sapir Sabag",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2134-sapir-sabag?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0"
+    },
+    {
+     "text": "מורן סטויצקי - איפור",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/892-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A1%D7%98%D7%95%D7%99%D7%A6%D7%A7%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "ורד ספיבק - איפור",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/661-%D7%95%D7%A8%D7%93-%D7%A1%D7%A4%D7%99%D7%91%D7%A7?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0"
+    },
+    {
+     "text": "שירן שפלר - איפור",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/638-%D7%A9%D7%99%D7%A8%D7%9F-%D7%A9%D7%A4%D7%9C%D7%A8?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0"
+    },
+    {
+     "text": "קרן שחם - איפור",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/893-%D7%A7%D7%A8%D7%9F-%D7%A9%D7%97%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "חיים זיו ושלומית מזרחי",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/642-%D7%97%D7%99%D7%99%D7%9D-%D7%96%D7%99%D7%95-%D7%95%D7%A9%D7%9C%D7%95%D7%9E%D7%99%D7%AA-%D7%9E%D7%96%D7%A8%D7%97%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0"
+    },
+    {
+     "text": "ליאור גבריאלוב - עיצוב שיער",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/894-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%92%D7%91%D7%A8%D7%99%D7%90%D7%9C%D7%95%D7%91?search=0"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 17,
+ "afterTilesHtml": ""
+}

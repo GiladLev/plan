@@ -1,0 +1,18 @@
+body footer:not(.section) {
+  overflow: auto;
+  color: #fff;
+  background-color: $c-footer;
+  font-size: 14px;
+  .text-muted { color: #ccc; a { color: #fff; text-decoration: underline; } }
+  .container { max-width: 700px; }
+  .row h5 { font-size: 18px; margin: 0 0 10px; }
+  .row a { color: $c-footer-link; }
+  .row .footer-column-title { font-size: 18px; font-weight: 500; margin: 0 0 10px; }
+  a.flag { display: inline-block; position: relative; min-width: 28px; min-height: 28px; margin: 0 6px; padding: 13px 6px 5px; text-align: center; vertical-align: middle; text-decoration: none;
+    img.flag { width: 16px; height: 11px; vertical-align: top; opacity: 0.9; }
+    img.triangle { display: none; }
+    &.selected img.flag, &:hover img.flag { opacity: 1; }
+    &.selected img.triangle { display: block; position: absolute; top: 1px; right: 50%; margin-right: -8px; width: 16px; height: 10px; background: url(/assets/icons__down-white-10x10.png) no-repeat center; }
+  }
+  .fa-heart { color: #e25555; }
+}

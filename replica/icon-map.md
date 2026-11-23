@@ -1,0 +1,102 @@
+# Icon replacements
+
+- fas fa-search -> fa-free solid/magnifying-glass
+- fas fa-times -> fa-free solid/xmark
+- ip-icon-guests -> tabler users
+- ip-icon-table-with-chairs -> tabler armchair-2
+- ip-icon-tasks -> tabler clipboard-list
+- ip-icon-credit-card -> tabler credit-card
+- ip-icon-rating -> tabler stars
+- ip-icon-phone-call -> tabler phone-call
+- ip-icon-wedding-invitation -> tabler mail-heart
+- fal fa-comment -> tabler message-circle
+- fal fa-browser -> tabler browser
+- fal fa-tablet-alt -> tabler device-tablet
+- fal fa-question -> tabler question-mark
+- fal fa-toolbox -> tabler briefcase
+- fal fa-megaphone -> tabler speakerphone
+- ip-icon-cook-hat -> tabler chef-hat
+- ip-icon-cocktail -> tabler glass-cocktail
+- ip-icon-curtains -> tabler building-circus
+- ip-icon-music -> tabler music
+- ip-icon-camera -> tabler camera
+- ip-icon-tailored-dress -> tabler hanger
+- ip-icon-cosmetics -> tabler brush
+- ip-icon-pictures -> tabler photo
+- ip-icon-bus -> tabler bus
+- ip-icon-wedding-rings -> tabler diamond
+- ip-icon-planner -> tabler user-check
+- ip-icon-party -> tabler confetti
+- fab fa-black-tie -> fa-free brands/black-tie
+- fal fa-chevron-left -> tabler chevron-left
+- fal fa-chevron-down -> tabler chevron-down
+- ip-icon-venue -> tabler building-castle
+- fas fa-envelope -> fa-free solid/envelope
+- fas fa-heart -> fa-free solid/heart
+- fal fa-credit-card-front -> tabler credit-card
+- fal fa-gift -> tabler gift
+- fas fa-quote-right -> fa-free solid/quote-right
+- fas fa-quote-left -> fa-free solid/quote-left
+- fal fa-user-crown -> tabler crown
+- fas fa-phone -> fa-free solid/phone
+- fas fa-comments -> fa-free solid/comments
+- ip-icon-table -> tabler table
+- fas fa-tablet -> fa-free solid/tablet
+- fas fa-gift -> fa-free solid/gift
+- fas fa-chart-bar -> fa-free solid/chart-bar
+- fab fa-waze -> fa-free brands/waze
+- fal fa-sms -> tabler message-2
+- fal fa-user-headset -> tabler headset
+- fal fa-check -> tabler check
+- fas fa-check -> fa-free solid/check
+- fas fa-star -> fa-free solid/star
+- fas fa-glass -> fa-free solid/martini-glass-empty
+- fas fa-users -> fa-free solid/users
+- fas fa-frown -> fa-free solid/face-frown
+- fas fa-calendar -> fa-free solid/calendar
+- fas fa-location-arrow -> fa-free solid/location-arrow
+- fal fa-paper-plane -> tabler send
+- fas fa-download -> fa-free solid/download
+- fas fa-chevron-circle-right -> fa-free solid/circle-chevron-right
+- fab fa-facebook -> fa-free brands/facebook
+- fas fa-eye -> fa-free solid/eye
+- fab fa-app-store-ios -> fa-free brands/app-store-ios
+- far fa-check-circle -> fa-free regular/circle-check
+- fas fa-chevron-up -> fa-free solid/chevron-up
+- fas fa-chevron-down -> fa-free solid/chevron-down
+- fas fa-info-circle -> fa-free solid/circle-info
+- fas fa-filter -> fa-free solid/filter
+- fas fa-list -> fa-free solid/list
+- fas fa-map -> fa-free solid/map
+- fas fa-map-marker-alt -> fa-free solid/location-dot
+- fal fa-star -> tabler star
+- ip-icon-team -> tabler users-group
+- fas fa-paper-plane -> fa-free solid/paper-plane
+- fas fa-caret-left -> fa-free solid/caret-left
+- ip-icon-hair-dryer -> tabler wind
+- ip-icon-kiss -> tabler heart
+- ip-icon-rose -> tabler flower
+- ip-icon-star-of-david -> tabler jewish-star
+- fas fa-rocket -> fa-free solid/rocket
+- fas fa-magic -> fa-free solid/wand-magic-sparkles
+- fas fa-mobile -> fa-free solid/mobile
+- ip-icon-contract -> tabler file-certificate
+- fas fa-tasks -> fa-free solid/list-check
+- ip-icon-coins -> tabler coins
+- fas fa-bullhorn -> fa-free solid/bullhorn
+- fas fa-desktop -> fa-free solid/desktop
+- fas fa-utensils -> fa-free solid/utensils
+- fas fa-chart-pie -> fa-free solid/chart-pie
+- fas fa-life-ring -> fa-free solid/life-ring
+- fas fa-street-view -> fa-free solid/street-view
+- fas fa-calculator -> fa-free solid/calculator
+- fas fa-lock -> fa-free solid/lock
+- fas fa-cloud -> fa-free solid/cloud
+- fas fa-camera-retro -> fa-free solid/camera-retro
+- fas fa-bolt -> fa-free solid/bolt
+- fas fa-image -> fa-free solid/image
+- fas fa-map-signs -> fa-free solid/signs-post
+- fas fa-graduation-cap -> fa-free solid/graduation-cap
+- fas fa-question-circle -> fa-free solid/circle-question
+- fas fa-money-bill-alt -> fa-free solid/money-bill-1
+- fal fa-chevron-right -> tabler chevron-right

@@ -1,0 +1,2553 @@
+{
+ "category": {
+  "title": "מקום לאירוע",
+  "icon": "ip-icon-venue",
+  "meta": "מוצגות 20 מתוך 300+ תוצאות שנמצאו",
+  "pageTitle": "חיפוש מקום לאירוע | iPlan",
+  "h1": "",
+  "metaDescription": "מאות מתחמי האירועים המובילים במדינת ישראל במרחק לחיצה מכם. תצוגה על מפה, מידע מעניין ושימושי, והכי חשוב, מנוע חיפוש, אמיתי, בלי פרסומות ובלי מניפולציות! בואו למצוא את מתחם החלומות שלכם."
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור",
+   "options": [
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "320",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "321",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "322",
+     "label": "השרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "323",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "324",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "325",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[231][]",
+     "value": "326",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג מתחם",
+   "options": [
+    {
+     "name": "directory_brands_filter[6][]",
+     "value": "5",
+     "label": "אולם אירועים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[6][]",
+     "value": "4",
+     "label": "גן אירועים (כל האירוע תחת כיפת השמים)",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "צפי אורחים",
+   "options": [
+    {
+     "name": "directory_brands_filter[62][]",
+     "value": "94",
+     "label": "עד 200",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[62][]",
+     "value": "95",
+     "label": "350 - 200",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[62][]",
+     "value": "96",
+     "label": "500 - 350",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[62][]",
+     "value": "97",
+     "label": "650 - 500",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[62][]",
+     "value": "145",
+     "label": "מעל 650",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "כשרות",
+   "options": [
+    {
+     "name": "directory_brands_filter[36][]",
+     "value": "68",
+     "label": "לא כשר",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[36][]",
+     "value": "69",
+     "label": "כשרות רבנות",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[36][]",
+     "value": "70",
+     "label": "כשרות מהדרין",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סגנון המתחם",
+   "options": [
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "29",
+     "label": "מול הים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "27",
+     "label": "אירוע בטבע",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "28",
+     "label": "כפרי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "26",
+     "label": "אורבני",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "33",
+     "label": "יוקרתי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "31",
+     "label": "אינטימי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "30",
+     "label": "מתחם בוטיק",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "34",
+     "label": "בר מסעדה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[11][]",
+     "value": "172",
+     "label": "מלון",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "תפריט",
+   "options": [
+    {
+     "name": "directory_brands_filter[144][]",
+     "value": "238",
+     "label": "בשרי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[144][]",
+     "value": "239",
+     "label": "חלבי",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[144][]",
+     "value": "240",
+     "label": "צמחוני",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[144][]",
+     "value": "241",
+     "label": "טבעוני",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אירועים בסופ\"ש",
+   "options": [
+    {
+     "name": "directory_brands_filter[66][]",
+     "value": "133",
+     "label": "אירוע שישי צהריים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[66][]",
+     "value": "134",
+     "label": "אירוע שבת",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[66][]",
+     "value": "135",
+     "label": "אירוע מוצ\"ש",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אפשרויות חניה",
+   "options": [
+    {
+     "name": "directory_brands_filter[67][]",
+     "value": "137",
+     "label": "חניה יעודית\\פרטית לאורחים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[67][]",
+     "value": "138",
+     "label": "חניון באזור (בתשלום מול המתחם)",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[67][]",
+     "value": "136",
+     "label": "חניה חופשית באזור המתחם",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  },
+  {
+   "kind": "switch",
+   "advanced": true,
+   "id": "directory_brands_filter_230",
+   "name": "directory_brands_filter[230]",
+   "label": "קבלת פנים\\חופה באויר הפתוח",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": true,
+   "id": "directory_brands_filter_229",
+   "name": "directory_brands_filter[229]",
+   "label": "בריכת שחייה במקום",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": true,
+   "id": "directory_brands_filter_81",
+   "name": "directory_brands_filter[81]",
+   "label": "מערכת iPlan",
+   "tooltip": "מספק ללקוחות את מערכת iPlan לניהול ותכנון האירוע"
+  },
+  {
+   "kind": "switch",
+   "advanced": true,
+   "id": "directory_brands_filter_61",
+   "name": "directory_brands_filter[61]",
+   "label": "רשיון עסק",
+   "tooltip": null
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "450",
+   "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0",
+   "name": "מערבה - אולם וגן אירועים במרכז",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2067/normal_logo.png?1514196707",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(57 חוות דעת)",
+   "details": [
+    "מערבה - אולם וגן אירועים במרכז",
+    "4.8 (57 חוות דעת)",
+    "• אולם וגן אירועים",
+    "קיבוץ געש 055-4539163 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/375/photos/21493_small.jpg?1692790480",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a901307c89-21493_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/375/photos/21482_small.jpg?1692790165",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cfeb30b746-21482_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/375/photos/21489_small.jpg?1692790373",
+     "promo": true,
+     "promoPhone": "055-4539163",
+     "file": "directory/2dbf7b4553-21489_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/375/photos/16137_small.jpg?1564400872",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3a12232f60-16137_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/375/photos/21481_small.jpg?1692790141",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e45a1b4d8e-21481_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ געש",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539163",
+     "href": "tel:055-4539163",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מערבה\" href=\"/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2067/normal_logo.png?1514196707')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0\">מערבה - אולם וגן אירועים במרכז </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(57 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על מערבה\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ געש </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539163\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539163</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e435ed5571-normal_logo.png"
+  },
+  {
+   "locationId": "107",
+   "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+   "name": "עדן- גן האירועים - אולם וגן אירועים בשרון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/95/normal_logo.jpg?1580985896",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(259 חוות דעת)",
+   "details": [
+    "עדן- גן האירועים - אולם וגן אירועים בשרון",
+    "4.8 (259 חוות דעת)",
+    "• אולם וגן אירועים • 700",
+    "קיבוץ ניר אליהו יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/82/photos/12068_small.jpg?1523447453",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/74890609c1-12068_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/82/photos/12070_small.jpg?1523447567",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/06d2aeffdf-12070_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/82/photos/18690_small.jpg?1635924901",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/b8c44fefe1-18690_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/82/photos/18675_small.jpg?1635924559",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9f644ee482-18675_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/82/photos/22342_small.jpg?1739443482",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3bc9729847-22342_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ ניר אליהו",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עדן- גן האירועים\" href=\"/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/95/normal_logo.jpg?1580985896')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\">עדן- גן האירועים - אולם וגן אירועים בשרון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(259 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 700 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על עדן- גן האירועים\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ ניר אליהו </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0\"><div class",
+   "logoFile": "directory/80c644d15b-normal_logo.jpg"
+  },
+  {
+   "locationId": "62",
+   "href": "/he-IL/directory/brands/57-avenue?search=0",
+   "name": "אווניו - Avenue - אולם אירועים במרכז",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/56/normal_logo.jpg?1623072665",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(171 חוות דעת)",
+   "details": [
+    "אווניו - Avenue - אולם אירועים במרכז",
+    "4.9 (171 חוות דעת)",
+    "• אולם אירועים • 1200",
+    "לוד 055-4539235 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/7/photos/22960_small.jpg?1788180077",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d97badf20a-22960_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/7/photos/22950_small.jpg?1788179162",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1e56707c97-22950_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/7/photos/22959_small.jpg?1788180024",
+     "promo": true,
+     "promoPhone": "055-4539235",
+     "file": "directory/0aafb32861-22959_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/7/photos/22940_small.jpg?1788178010",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2646568ec6-22940_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/7/photos/6437_small.jpg?1487782613",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5cfe385cf0-6437_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "לוד",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539235",
+     "href": "tel:055-4539235",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/57-avenue?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אווניו - Avenue\" href=\"/he-IL/directory/brands/57-avenue?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/56/normal_logo.jpg?1623072665')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/57-avenue?search=0\">אווניו - Avenue - אולם אירועים במרכז </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/57-avenue?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(171 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 1200 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על אווניו - Avenue\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> לוד </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539235\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539235</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/57-avenue?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/61aaceea13-normal_logo.jpg"
+  },
+  {
+   "locationId": "615",
+   "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0",
+   "name": "ארטיסטה | Artista - אולם וגן אירועים בשרון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3045/normal_logo.jpg?1626773323",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(24 חוות דעת)",
+   "details": [
+    "ארטיסטה | Artista - אולם וגן אירועים בשרון",
+    "5.0 (24 חוות דעת)",
+    "• אולם וגן אירועים • 650",
+    "חדרה 055-4539360 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/623/photos/18402_small.jpg?1627563210",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/80dcc277a9-18402_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/623/photos/18404_small.jpg?1627575291",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c42d82c8c0-18404_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "חדרה",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539360",
+     "href": "tel:055-4539360",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ארטיסטה | Artista\" href=\"/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3045/normal_logo.jpg?1626773323')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0\">ארטיסטה | Artista - אולם וגן אירועים בשרון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(24 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 650 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על ארטיסטה | Artista\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> חדרה </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539360\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539360</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/3819674fc2-normal_logo.jpg"
+  },
+  {
+   "locationId": "564",
+   "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0",
+   "name": "דסטינו | Destino - אולם וגן אירועים בירושלים ומבואותיה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2941/normal_logo.png?1577800263",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(80 חוות דעת)",
+   "details": [
+    "דסטינו | Destino - אולם וגן אירועים בירושלים ומבואותיה",
+    "4.8 (80 חוות דעת)",
+    "• אולם וגן אירועים • 1000",
+    "שורש 055-4539561 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/581/photos/17833_small.jpg?1594052270",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/db73d26050-17833_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/581/photos/17823_small.jpg?1594052225",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/82066a5230-17823_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "שורש",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539561",
+     "href": "tel:055-4539561",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דסטינו | Destino\" href=\"/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2941/normal_logo.png?1577800263')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0\">דסטינו | Destino - אולם וגן אירועים בירושלים ומבואותיה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(80 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 1000 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על דסטינו | Destino\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> שורש </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539561\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539561</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f9de1996d7-normal_logo.png"
+  },
+  {
+   "locationId": "452",
+   "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0",
+   "name": "תל יצחק - Kitchen & Garden - גן אירועים, אולם אירועים בשרון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2077/normal_logo.png?1511450222",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(210 חוות דעת)",
+   "details": [
+    "תל יצחק - Kitchen & Garden - גן אירועים, אולם אירועים בשרון",
+    "4.8 (210 חוות דעת)",
+    "• גן אירועים • 320",
+    "קיבוץ תל יצחק 055-4539171 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/377/photos/18544_small.jpg?1629363187",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bfc5448d67-18544_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ תל יצחק",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539171",
+     "href": "tel:055-4539171",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"תל יצחק - Kitchen &amp; Garden\" href=\"/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2077/normal_logo.png?1511450222')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0\">תל יצחק - Kitchen &amp; Garden - גן אירועים, אולם אירועים בשרון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(210 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> גן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 320 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על תל יצחק - Kitchen &amp; Garden\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ תל יצחק </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539171\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539171</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f7ba657151-normal_logo.png"
+  },
+  {
+   "locationId": "664",
+   "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0",
+   "name": "חוות צאן קדר - אולם וגן אירועים בירושלים ומבואותיה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3403/normal_logo.png?1683108644",
+   "logoIcon": null,
+   "rating": "4.6",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(13 חוות דעת)",
+   "details": [
+    "חוות צאן קדר - אולם וגן אירועים בירושלים ומבואותיה",
+    "4.6 (13 חוות דעת)",
+    "• אולם וגן אירועים • 500",
+    "חוות צאן קדר 055-4539268 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/693/photos/21020_small.jpg?1685879935",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4cfe14839a-21020_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/693/photos/21018_small.jpg?1685879876",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/22b2336a48-21018_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/693/photos/21016_small.jpg?1685879872",
+     "promo": true,
+     "promoPhone": "055-4539268",
+     "file": "directory/ffa27ccbcf-21016_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/693/photos/21014_small.jpg?1685879867",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/927d112020-21014_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/693/photos/21013_small.jpg?1685879858",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/669362c81f-21013_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "חוות צאן קדר",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539268",
+     "href": "tel:055-4539268",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"חוות צאן קדר\" href=\"/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3403/normal_logo.png?1683108644')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0\">חוות צאן קדר - אולם וגן אירועים בירושלים ומבואותיה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 56.4%\"></i></div><span class=\"rating_total\">4.6</span></div> </a><div class=\"inline-block small nowrap\">(13 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 500 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על חוות צאן קדר\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> חוות צאן קדר </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539268\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539268</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4c7d3011dc-normal_logo.png"
+  },
+  {
+   "locationId": "694",
+   "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0",
+   "name": "Emilia By EXPO | אמיליה - אולם וגן אירועים בדרום",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3697/normal_logo.jpg?1747751713",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "Emilia By EXPO | אמיליה - אולם וגן אירועים בדרום",
+    "5.0 (2 חוות דעת)",
+    "• אולם וגן אירועים • 650",
+    "אילת 055-4539684 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/725/photos/21964_small.jpg?1727010457",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4941e5aabb-21964_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "אילת",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539684",
+     "href": "tel:055-4539684",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Emilia By EXPO | אמיליה\" href=\"/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3697/normal_logo.jpg?1747751713')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0\">Emilia By EXPO | אמיליה - אולם וגן אירועים בדרום </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 650 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על Emilia By EXPO | אמיליה\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> אילת </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539684\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539684</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/53816d1096-normal_logo.jpg"
+  },
+  {
+   "locationId": "144",
+   "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0",
+   "name": "בקתה ביער - אולם וגן אירועים בחיפה והקריות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/129/normal_logo.png?1507117919",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(128 חוות דעת)",
+   "details": [
+    "בקתה ביער - אולם וגן אירועים בחיפה והקריות",
+    "4.8 (128 חוות דעת)",
+    "• אולם וגן אירועים • 600",
+    "בית אורן 055-4539177 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/102/photos/9178_small.jpg?1511953499",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8c95474dc4-9178_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/102/photos/9200_small.jpg?1511954242",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e41129a28c-9200_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/102/photos/9190_small.jpg?1511953846",
+     "promo": true,
+     "promoPhone": "055-4539177",
+     "file": "directory/6056dc7194-9190_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/102/photos/9205_small.jpg?1511954352",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/245b90d9ac-9205_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/102/photos/9199_small.jpg?1511954238",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bc45dc481f-9199_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "בית אורן",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539177",
+     "href": "tel:055-4539177",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בקתה ביער\" href=\"/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/129/normal_logo.png?1507117919')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0\">בקתה ביער - אולם וגן אירועים בחיפה והקריות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(128 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 600 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על בקתה ביער\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> בית אורן </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539177\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539177</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c853ca12ab-normal_logo.png"
+  },
+  {
+   "locationId": "515",
+   "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0",
+   "name": "טרמינל - Terminal - אולם אירועים במרכז",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2196/normal_logo.png?1792065773",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(122 חוות דעת)",
+   "details": [
+    "טרמינל - Terminal - אולם אירועים במרכז",
+    "4.9 (122 חוות דעת)",
+    "• אולם אירועים • 900",
+    "פתח תקוה 055-4539158 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/514/photos/22967_small.jpg?1792071774",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/89a1492c32-22967_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "פתח תקוה",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539158",
+     "href": "tel:055-4539158",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"טרמינל - Terminal\" href=\"/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2196/normal_logo.png?1792065773')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0\">טרמינל - Terminal - אולם אירועים במרכז </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(122 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 900 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על טרמינל - Terminal\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> פתח תקוה </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539158\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539158</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1545b0e1ce-normal_logo.png"
+  },
+  {
+   "locationId": "25",
+   "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0",
+   "name": "בית על הים - אולם אירועים בתל אביב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/23/normal_logo.png?1507117609",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(257 חוות דעת)",
+   "details": [
+    "בית על הים - אולם אירועים בתל אביב",
+    "4.9 (257 חוות דעת)",
+    "• אולם אירועים • 400",
+    "תל אביב 055-4539170 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/63/photos/282_small.jpg?1462955688",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8b7efa3dea-282_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/63/photos/11381_small.jpg?1519140573",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d449c8eb85-11381_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/63/photos/11380_small.jpg?1519140508",
+     "promo": true,
+     "promoPhone": "055-4539170",
+     "file": "directory/26905ba938-11380_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/63/photos/11379_small.jpg?1519140386",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/aa64ba3296-11379_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/63/photos/11378_small.jpg?1519140372",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/da6a58782d-11378_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539170",
+     "href": "tel:055-4539170",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בית על הים\" href=\"/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/23/normal_logo.png?1507117609')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0\">בית על הים - אולם אירועים בתל אביב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(257 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 400 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על בית על הים\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539170\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539170</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a35f493b69-normal_logo.png"
+  },
+  {
+   "locationId": "12",
+   "href": "/he-IL/directory/brands/8-lago?search=0",
+   "name": "לאגו - LAGO - אולם אירועים בראשון לציון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/8/normal_logo.png?1507117566",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(241 חוות דעת)",
+   "details": [
+    "לאגו - LAGO - אולם אירועים בראשון לציון",
+    "4.9 (241 חוות דעת)",
+    "• אולם אירועים • 1000",
+    "ראשון לציון 055-4539166 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/204/photos/180_small.jpg?1462704579",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9b3f91785d-180_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/204/photos/4265_small.jpg?1472626568",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/e37cef778c-4265_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/204/photos/4266_small.jpg?1472626696",
+     "promo": true,
+     "promoPhone": "055-4539166",
+     "file": "directory/f5d4f1408a-4266_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/204/photos/4267_small.jpg?1472626700",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/61055cd036-4267_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/204/photos/4271_small.jpg?1472626861",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7b4daad2ed-4271_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "ראשון לציון",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539166",
+     "href": "tel:055-4539166",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/8-lago?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"לאגו - LAGO\" href=\"/he-IL/directory/brands/8-lago?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/8/normal_logo.png?1507117566')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/8-lago?search=0\">לאגו - LAGO - אולם אירועים בראשון לציון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/8-lago?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(241 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 1000 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על לאגו - LAGO\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> ראשון לציון </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539166\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539166</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/8-lago?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/2ac11695de-normal_logo.png"
+  },
+  {
+   "locationId": "463",
+   "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0",
+   "name": "כרמלה - אולם וגן אירועים בחיפה והקריות, צפון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2152/normal_logo.jpg?1795091420",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(251 חוות דעת)",
+   "details": [
+    "כרמלה - אולם וגן אירועים בחיפה והקריות, צפון",
+    "4.9 (251 חוות דעת)",
+    "• אולם וגן אירועים • 300",
+    "קיבוץ יגור 055-4539247 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/389/photos/13641_small.jpg?1535446721",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/057efd85d8-13641_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/389/photos/13636_small.jpg?1535446674",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8f1ba83878-13636_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/389/photos/13632_small.jpg?1535446578",
+     "promo": true,
+     "promoPhone": "055-4539247",
+     "file": "directory/f0eb686beb-13632_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קיבוץ יגור",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539247",
+     "href": "tel:055-4539247",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"כרמלה\" href=\"/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2152/normal_logo.jpg?1795091420')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0\">כרמלה - אולם וגן אירועים בחיפה והקריות, צפון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(251 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם וגן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 300 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על כרמלה\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> קיבוץ יגור </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539247\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539247</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/98bcdf854f-normal_logo.jpg"
+  },
+  {
+   "locationId": "233",
+   "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0",
+   "name": "פסק זמן - אולם אירועים בשרון",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/218/normal_logo.jpg?1507118174",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "פסק זמן - אולם אירועים בשרון",
+    "(0 חוות דעת)",
+    "• אולם אירועים • 300",
+    "רמת השרון יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/324/photos/4450_small.jpg?1473157741",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/44c76276f7-4450_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/324/photos/4451_small.jpg?1473157750",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/939d5d5393-4451_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/324/photos/4455_small.jpg?1473157772",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/f8587026e0-4455_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/324/photos/4452_small.jpg?1473157757",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1a03a0b5db-4452_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/324/photos/4454_small.jpg?1473157767",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7b7e2114c2-4454_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "רמת השרון",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פסק זמן\" href=\"/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/218/normal_logo.jpg?1507118174')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0\">פסק זמן - אולם אירועים בשרון </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"פסק זמן\" href=\"/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 300 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על פסק זמן\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> רמת השרון </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1643e1c91f-normal_logo.jpg"
+  },
+  {
+   "locationId": "39",
+   "href": "/he-IL/directory/brands/35-house-no-seven?search=0",
+   "name": "House No.Seven - אולם אירועים בתל אביב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/34/normal_logo.png?1689766181",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(224 חוות דעת)",
+   "details": [
+    "House No.Seven - אולם אירועים בתל אביב",
+    "4.9 (224 חוות דעת)",
+    "• אולם אירועים • 500",
+    "תל אביב 055-4539161 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/42/photos/21435_small.jpg?1689766119",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/56a04e08a6-21435_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539161",
+     "href": "tel:055-4539161",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"House No.Seven\" href=\"/he-IL/directory/brands/35-house-no-seven?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/34/normal_logo.png?1689766181')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/35-house-no-seven?search=0\">House No.Seven - אולם אירועים בתל אביב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/35-house-no-seven?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(224 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 500 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על House No.Seven\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539161\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539161</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/35-house-no-seven?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/44aecfbf96-normal_logo.png"
+  },
+  {
+   "locationId": "599",
+   "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0",
+   "name": "בוסתן אבו גוש - גן אירועים בירושלים ומבואותיה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3011/normal_logo.png?1633259748",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(42 חוות דעת)",
+   "details": [
+    "בוסתן אבו גוש - גן אירועים בירושלים ומבואותיה",
+    "4.7 (42 חוות דעת)",
+    "• גן אירועים • 700",
+    "אבו גוש יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/606/photos/18562_small.jpg?1633259075",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1366c1f2f1-18562_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "אבו גוש",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בוסתן אבו גוש\" href=\"/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3011/normal_logo.png?1633259748')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0\">בוסתן אבו גוש - גן אירועים בירושלים ומבואותיה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(42 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> גן אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 700 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על בוסתן אבו גוש\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> אבו גוש </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/99aa5835af-normal_logo.png"
+  },
+  {
+   "locationId": "338",
+   "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0",
+   "name": "הבית הירוק - אולם אירועים בתל אביב",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1439/normal_logo.png?1623248434",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(21 חוות דעת)",
+   "details": [
+    "הבית הירוק - אולם אירועים בתל אביב",
+    "4.7 (21 חוות דעת)",
+    "• אולם אירועים • 350",
+    "תל-אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/350/photos/6663_small.jpg?1490026619",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/776da01e22-6663_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/350/photos/6755_small.jpg?1493796064",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c844f18a26-6755_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/350/photos/6660_small.jpg?1490026590",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9df9789a3a-6660_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/350/photos/6661_small.jpg?1490026596",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/95b6723370-6661_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/350/photos/6662_small.jpg?1490026618",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2ed8a2fd9e-6662_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל-אביב",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"הבית הירוק\" href=\"/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1439/normal_logo.png?1623248434')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0\">הבית הירוק - אולם אירועים בתל אביב </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(21 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 350 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על הבית הירוק\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> תל-אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/52d823260d-normal_logo.png"
+  },
+  {
+   "locationId": "581",
+   "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0",
+   "name": "דוש הרמוני | Dosh Harmony - אולם אירועים במרכז",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2989/normal_logo.jpg?1592403537",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "דוש הרמוני | Dosh Harmony - אולם אירועים במרכז",
+    "(0 חוות דעת)",
+    "• אולם אירועים • 200",
+    "בת ים 055-4539157 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/598/photos/17741_small.jpg?1592404763",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/15974a3b06-17741_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "בת ים",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539157",
+     "href": "tel:055-4539157",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דוש הרמוני | Dosh Harmony\" href=\"/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2989/normal_logo.jpg?1592403537')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0\">דוש הרמוני | Dosh Harmony - אולם אירועים במרכז </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"דוש הרמוני | Dosh Harmony\" href=\"/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 200 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על דוש הרמוני | Dosh Harmony\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> בת ים </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539157\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539157</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7728c4a958-normal_logo.jpg"
+  },
+  {
+   "locationId": "33",
+   "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0",
+   "name": "האחוזה במודיעין - אולם אירועים במודיעין והסביבה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/28/normal_logo.png?1507117622",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(262 חוות דעת)",
+   "details": [
+    "האחוזה במודיעין - אולם אירועים במודיעין והסביבה",
+    "4.9 (262 חוות דעת)",
+    "• אולם אירועים • 1000",
+    "מודיעין 055-4539656 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/54/photos/602_small.jpg?1464082839",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ab1e91d49f-602_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/54/photos/416_small.jpg?1463490007",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b65056d856-416_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/54/photos/415_small.jpg?1463490002",
+     "promo": true,
+     "promoPhone": "055-4539656",
+     "file": "directory/bcd89e605b-415_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/54/photos/414_small.jpg?1463489996",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/8154c5b774-414_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/54/photos/603_small.jpg?1464082840",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/518cf6f3f7-603_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "מודיעין",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539656",
+     "href": "tel:055-4539656",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"האחוזה במודיעין\" href=\"/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/28/normal_logo.png?1507117622')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0\">האחוזה במודיעין - אולם אירועים במודיעין והסביבה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(262 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-team\" title=\"מספר אורחים מקסימלי\"></i> 1000 </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על האחוזה במודיעין\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> מודיעין </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539656\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539656</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/24e151f3dd-normal_logo.png"
+  },
+  {
+   "locationId": "150",
+   "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0",
+   "name": "חצר המלכה - אולם אירועים באשדוד והסביבה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/135/normal_logo.png?1672302198",
+   "logoIcon": null,
+   "rating": "4.7",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(16 חוות דעת)",
+   "details": [
+    "חצר המלכה - אולם אירועים באשדוד והסביבה",
+    "4.7 (16 חוות דעת)",
+    "• אולם אירועים",
+    "צומת כנות 055-4539652 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/173/photos/22252_small.jpg?1730891219",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cdfc1e187b-22252_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/173/photos/20764_small.jpg?1673873314",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/40eec631db-20764_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/173/photos/20763_small.jpg?1673873314",
+     "promo": true,
+     "promoPhone": "055-4539652",
+     "file": "directory/e4739f2a25-20763_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/173/photos/20451_small.jpg?1666793780",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4a60b8b297-20451_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/173/photos/20450_small.jpg?1666793779",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0f6e93616b-20450_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "צומת כנות",
+     "href": "javascript:;",
+     "action": "focus-map",
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539652",
+     "href": "tel:055-4539652",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"חצר המלכה\" href=\"/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/135/normal_logo.png?1672302198')\" title=\"מקום לאירוע\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0\">חצר המלכה - אולם אירועים באשדוד והסביבה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 65.8%\"></i></div><span class=\"rating_total\">4.7</span></div> </a><div class=\"inline-block small nowrap\">(16 חוות דעת)</div> </div> <div class=\"smaller-1 text-ellipsis featured_values\"> <div class=\"text-ellipsis inline-block sep\">•</div> <div class=\"text-ellipsis inline-block\" data-placement=\"top\" data-toggle=\"\" data-trigger=\"hover\" title=\"\"> <i class=\"ip-icon-venue\" title=\"סוג המתחם\"></i> אולם אירועים </div> </div> <div class=\"text-ellipsis call-to-action\"> <a data-action=\"focus-map\" title=\"לחצו כדי למקד את המפה על חצר המלכה\" class=\"btn btn-default btn-sm pull-left\" href=\"javascript:;\"><i class=\"fas fa-map-marker-alt\"></i> צומת כנות </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539652\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539652</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9d398df882-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539163 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539163"
+    },
+    {
+     "text": "עוד פרטים? 055-4539163 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "מערבה - אולם וגן אירועים במרכז",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "קיבוץ געש",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539163",
+     "href": "tel:055-4539163"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/556-%D7%9E%D7%A2%D7%A8%D7%91%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עדן- גן האירועים - אולם וגן אירועים בשרון",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "קיבוץ ניר אליהו",
+     "href": "javascript:;"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/100-%D7%A2%D7%93%D7%9F-%D7%92%D7%9F-%D7%94%D7%90%D7%99%D7%A8%D7%95%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539235 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539235"
+    },
+    {
+     "text": "עוד פרטים? 055-4539235 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "אווניו - Avenue - אולם אירועים במרכז",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "לוד",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539235",
+     "href": "tel:055-4539235"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/57-avenue?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "ארטיסטה | Artista - אולם וגן אירועים בשרון",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "חדרה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539360",
+     "href": "tel:055-4539360"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2205-%D7%90%D7%A8%D7%98%D7%99%D7%A1%D7%98%D7%94-artista?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "דסטינו | Destino - אולם וגן אירועים בירושלים ומבואותיה",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "שורש",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539561",
+     "href": "tel:055-4539561"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2118-%D7%93%D7%A1%D7%98%D7%99%D7%A0%D7%95-destino?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0"
+    },
+    {
+     "text": "תל יצחק - Kitchen & Garden - גן אירועים, אולם אירועים בשרון",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0"
+    },
+    {
+     "text": "קיבוץ תל יצחק",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539171",
+     "href": "tel:055-4539171"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/558-%D7%AA%D7%9C-%D7%99%D7%A6%D7%97%D7%A7-kitchen-garden?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539268 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539268"
+    },
+    {
+     "text": "עוד פרטים? 055-4539268 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "חוות צאן קדר - אולם וגן אירועים בירושלים ומבואותיה",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "4.6",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "חוות צאן קדר",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539268",
+     "href": "tel:055-4539268"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2270-%D7%97%D7%95%D7%95%D7%AA-%D7%A6%D7%90%D7%9F-%D7%A7%D7%93%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "Emilia By EXPO | אמיליה - אולם וגן אירועים בדרום",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "אילת",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539684",
+     "href": "tel:055-4539684"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2308-emilia-by-expo-%D7%90%D7%9E%D7%99%D7%9C%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539177 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539177"
+    },
+    {
+     "text": "עוד פרטים? 055-4539177 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "בקתה ביער - אולם וגן אירועים בחיפה והקריות",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "בית אורן",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539177",
+     "href": "tel:055-4539177"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/137-%D7%91%D7%A7%D7%AA%D7%94-%D7%91%D7%99%D7%A2%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0"
+    },
+    {
+     "text": "טרמינל - Terminal - אולם אירועים במרכז",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0"
+    },
+    {
+     "text": "פתח תקוה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539158",
+     "href": "tel:055-4539158"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/588-%D7%98%D7%A8%D7%9E%D7%99%D7%A0%D7%9C-terminal?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539170 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539170"
+    },
+    {
+     "text": "עוד פרטים? 055-4539170 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "בית על הים - אולם אירועים בתל אביב",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539170",
+     "href": "tel:055-4539170"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/23-%D7%91%D7%99%D7%AA-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539166 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539166"
+    },
+    {
+     "text": "עוד פרטים? 055-4539166 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "לאגו - LAGO - אולם אירועים בראשון לציון",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "ראשון לציון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539166",
+     "href": "tel:055-4539166"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/8-lago?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539247 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539247"
+    },
+    {
+     "text": "עוד פרטים? 055-4539247 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "כרמלה - אולם וגן אירועים בחיפה והקריות, צפון",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "קיבוץ יגור",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539247",
+     "href": "tel:055-4539247"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/568-%D7%9B%D7%A8%D7%9E%D7%9C%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "פסק זמן - אולם אירועים בשרון",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "רמת השרון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/232-%D7%A4%D7%A1%D7%A7-%D7%96%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0"
+    },
+    {
+     "text": "House No.Seven - אולם אירועים בתל אביב",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539161",
+     "href": "tel:055-4539161"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/35-house-no-seven?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "בוסתן אבו גוש - גן אירועים בירושלים ומבואותיה",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "אבו גוש",
+     "href": "javascript:;"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2184-%D7%91%D7%95%D7%A1%D7%AA%D7%9F-%D7%90%D7%91%D7%95-%D7%92%D7%95%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "הבית הירוק - אולם אירועים בתל אביב",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "תל-אביב",
+     "href": "javascript:;"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/339-%D7%A7%D7%9E%D7%99%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0"
+    },
+    {
+     "text": "דוש הרמוני | Dosh Harmony - אולם אירועים במרכז",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0"
+    },
+    {
+     "text": "בת ים",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539157",
+     "href": "tel:055-4539157"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2163-%D7%93%D7%95%D7%A9-%D7%94%D7%A8%D7%9E%D7%95%D7%A0%D7%99-dosh-harmony?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539656 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539656"
+    },
+    {
+     "text": "עוד פרטים? 055-4539656 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "האחוזה במודיעין - אולם אירועים במודיעין והסביבה",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "מודיעין",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539656",
+     "href": "tel:055-4539656"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/28-%D7%94%D7%90%D7%97%D7%95%D7%96%D7%94-%D7%91%D7%9E%D7%95%D7%93%D7%99%D7%A2%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539652 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539652"
+    },
+    {
+     "text": "עוד פרטים? 055-4539652 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "חצר המלכה - אולם אירועים באשדוד והסביבה",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "4.7",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "צומת כנות",
+     "href": "javascript:;"
+    },
+    {
+     "text": "055-4539652",
+     "href": "tel:055-4539652"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/143-%D7%97%D7%A6%D7%A8-%D7%94%D7%9E%D7%9C%D7%9B%D7%94?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

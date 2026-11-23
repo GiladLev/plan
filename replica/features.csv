@@ -1,0 +1,33 @@
+feature,area,priority,original,clone,notes
+Fixed navbar with brand + 3 primary items + login/contact cluster,chrome,must,yes,no,
+Mega dropdown "כלים לניהול אירוע" (two headers / two-col icon lists),chrome,must,yes,no,
+Mega dropdown "ספקים" (13 categories),chrome,must,yes,no,
+Login dropdown (host / vendor),chrome,must,yes,no,
+Vendor search typeahead in navbar,chrome,should,yes,no,static index from seed
+Mobile hamburger -> full-screen menu modal,chrome,must,yes,no,
+Footer 4 columns + language flags,chrome,must,yes,no,
+Cookie banner with dismiss (persist),chrome,must,yes,no,
+Hero band (texture + wavy edge),chrome,must,yes,no,
+Home callouts x3 with sprite icons,home,must,yes,no,
+Home features pills + tab panes,home,must,yes,no,
+Home testimonials x3,home,must,yes,no,random on original; seeded in clone
+Home vendor logo carousel (drag + wrap + arrows),home,must,yes,no,
+Home contact CTA,home,must,yes,no,
+Client sign-in (social buttons + email form),auth,must,yes,no,form posts nowhere / shows validation
+Corp sign-in distinct layout,auth,must,yes,no,he-IL only
+About page (plate + team mosaic + map),marketing,must,yes,no,
+Accessibility statement,marketing,must,yes,no,
+Contact page pills + forms,marketing,must,yes,no,
+Jobs page,marketing,must,yes,no,
+Client feature pages x11,marketing,must,yes,no,
+Vendor home (carousel + logo grid),marketing,must,yes,no,
+Vendor marketing,marketing,must,yes,no,
+Directory category page x14 (filters + cards + SEO links),directory,must,yes,no,seeded data
+Directory map view (toggle),directory,should,yes,no,Leaflet+CARTO instead of Google
+Directory filters: collapse groups / advanced switches / hide / mobile full-screen,directory,must,yes,no,
+Directory card gallery carousel + lazy images,directory,should,yes,no,
+Directory pagination / load more,directory,should,yes,no,
+404 page,chrome,should,yes,no,
+en-US mirror (LTR + Arial) for all non-directory pages,i18n,must,yes,no,
+Reduced-motion fallbacks,a11y,should,no,no,clone-only improvement
+Keyboard-reachable menus + visible focus,a11y,must,partial,no,

@@ -1,0 +1,1697 @@
+{
+ "category": {
+  "title": "מוזיקה",
+  "icon": "ip-icon-music",
+  "meta": "מוצגות 20 מתוך 300+ תוצאות שנמצאו",
+  "pageTitle": "חיפוש מוזיקה | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[238][]",
+     "value": "332",
+     "label": "תקליטנים - DJ",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[238][]",
+     "value": "333",
+     "label": "להקות וזמרים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[238][]",
+     "value": "335",
+     "label": "נגן / הרכב מוזיקלי",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "644",
+   "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0",
+   "name": "גיל לוגסי - תקליטנים - DJ, שירותי מוזיקה, נגן / הרכב מוזיקלי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3207/normal_logo.jpg?1660126871",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(29 חוות דעת)",
+   "details": [
+    "גיל לוגסי - תקליטנים - DJ, שירותי מוזיקה, נגן / הרכב מוזיקלי",
+    "5.0 (29 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21719_small.jpg?1716465077",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0270b0d659-21719_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/19931_small.jpg?1658167044",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/748a4fcab7-19931_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גיל לוגסי\" href=\"/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3207/normal_logo.jpg?1660126871')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0\">גיל לוגסי - תקליטנים - DJ, שירותי מוזיקה, נגן / הרכב מוזיקלי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(29 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/52d9faa6e6-normal_logo.jpg"
+  },
+  {
+   "locationId": "642",
+   "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0",
+   "name": "אלי מתנה - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3210/normal_logo.jpg?1660126788",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(39 חוות דעת)",
+   "details": [
+    "אלי מתנה - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "5.0 (39 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/19764_small.jpg?1656440364",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/fee89df376-19764_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21708_small.jpg?1716463751",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c262674edc-21708_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/19758_small.jpg?1656440348",
+     "promo": true,
+     "promoPhone": "055-4539613",
+     "file": "directory/4b3e1ff4d9-19758_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אלי מתנה\" href=\"/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3210/normal_logo.jpg?1660126788')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0\">אלי מתנה - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(39 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/efeb4fe0bc-normal_logo.jpg"
+  },
+  {
+   "locationId": "460",
+   "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0",
+   "name": "פיינל דראם - Final Drum - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2132/normal_logo.png?1512645143",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(139 חוות דעת)",
+   "details": [
+    "פיינל דראם - Final Drum - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "5.0 (139 חוות דעת)",
+    "תל אביב יפו 055-4539180 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/387/photos/9246_small.jpg?1512644864",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/544ce54318-9246_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב יפו",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539180",
+     "href": "tel:055-4539180",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פיינל דראם - Final Drum \" href=\"/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2132/normal_logo.png?1512645143')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0\">פיינל דראם - Final Drum - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(139 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב יפו </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539180\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539180</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/53b3c9809d-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0",
+   "name": "זה דיג'י - !ZE DJ - שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/324/normal_logo.png?1507118474",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(9 חוות דעת)",
+   "details": [
+    "זה דיג'י - !ZE DJ - שירותי מוזיקה",
+    "5.0 (9 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/327/photos/9406_small.jpg?1514238578",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/56faad7cde-9406_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/327/photos/9469_small.jpg?1514241259",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/c4207ce697-9469_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/327/photos/9407_small.jpg?1514238579",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/656e6312a7-9407_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/327/photos/9472_small.jpg?1514241269",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ac5376b648-9472_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/327/photos/9470_small.jpg?1514241262",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/75c8f54737-9470_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"זה דיג'י - !ZE DJ\" href=\"/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/324/normal_logo.png?1507118474')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0\">זה דיג'י - !ZE DJ - שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(9 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d03f35c91c-normal_logo.png"
+  },
+  {
+   "locationId": "670",
+   "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0",
+   "name": "אוהד פארן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3463/normal_logo.jpg?1691306278",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(19 חוות דעת)",
+   "details": [
+    "אוהד פארן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "5.0 (19 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21710_small.jpg?1716463764",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0e2def3a5f-21710_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אוהד פארן\" href=\"/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3463/normal_logo.jpg?1691306278')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0\">אוהד פארן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(19 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e57b5f102c-normal_logo.jpg"
+  },
+  {
+   "locationId": "541",
+   "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0",
+   "name": "קומודו - KOMODO - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2772/normal_logo.jpg?1552322209",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "קומודו - KOMODO - תקליטנים - DJ",
+    "5.0 (8 חוות דעת)",
+    "תל-אביב 055-4539167 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/553/photos/14944_small.jpg?1552394981",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bf7307594b-14944_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל-אביב",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539167",
+     "href": "tel:055-4539167",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קומודו - KOMODO\" href=\"/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2772/normal_logo.jpg?1552322209')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0\">קומודו - KOMODO - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל-אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539167\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539167</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b5472af62d-normal_logo.jpg"
+  },
+  {
+   "locationId": "657",
+   "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0",
+   "name": "חן סוקו - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3305/normal_logo.png?1669535285",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(5 חוות דעת)",
+   "details": [
+    "חן סוקו - תקליטנים - DJ",
+    "5.0 (5 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21701_small.jpg?1716462892",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1d8ce32002-21701_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21717_small.jpg?1716465064",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ccb2fb46d0-21717_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/20593_small.jpg?1669569332",
+     "promo": true,
+     "promoPhone": "055-4539613",
+     "file": "directory/a55afdfc33-20593_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"חן סוקו\" href=\"/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3305/normal_logo.png?1669535285')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0\">חן סוקו - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(5 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1cd7a2fb5b-normal_logo.png"
+  },
+  {
+   "locationId": "669",
+   "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0",
+   "name": "ליאם אלבז - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3462/normal_logo.jpg?1691306230",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "ליאם אלבז - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "(1 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21711_small.jpg?1716463768",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ddef2600c8-21711_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21514_small.jpg?1699367106",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7092aa1492-21514_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ליאם אלבז\" href=\"/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3462/normal_logo.jpg?1691306230')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0\">ליאם אלבז - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"ליאם אלבז\" href=\"/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/22f425b3f0-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0",
+   "name": "רוי ליבוביץ - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1347/normal_logo.jpg?1507120371",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(14 חוות דעת)",
+   "details": [
+    "רוי ליבוביץ - תקליטנים - DJ",
+    "4.9 (14 חוות דעת)",
+    "055-4539182 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/251/photos/9562_small.jpg?1514888322",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6c8b65605b-9562_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539182",
+     "href": "tel:055-4539182",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רוי ליבוביץ\" href=\"/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1347/normal_logo.jpg?1507120371')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0\">רוי ליבוביץ - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(14 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539182\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539182</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e9da709802-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0",
+   "name": "איציק דדיה - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2266/normal_logo.jpg?1561042163",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "איציק דדיה - תקליטנים - DJ",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/15697_small.jpg?1561042902",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/447b466b22-15697_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"איציק דדיה\" href=\"/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2266/normal_logo.jpg?1561042163')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0\">איציק דדיה - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c37ca75894-normal_logo.jpg"
+  },
+  {
+   "locationId": "645",
+   "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0",
+   "name": "זיו גדש - נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3219/normal_logo.jpg?1660126920",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "זיו גדש - נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "(0 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21709_small.jpg?1716463748",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1edd90ded5-21709_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21706_small.jpg?1716463628",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/02cac5092f-21706_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"זיו גדש\" href=\"/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3219/normal_logo.jpg?1660126920')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0\">זיו גדש - נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"זיו גדש\" href=\"/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/59532daae5-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0",
+   "name": "עדידור - ADIDOR - נגן / הרכב מוזיקלי, תקליטנים - DJ, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3147/normal_logo.jpg?1660127030",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(30 חוות דעת)",
+   "details": [
+    "עדידור - ADIDOR - נגן / הרכב מוזיקלי, תקליטנים - DJ, שירותי מוזיקה",
+    "5.0 (30 חוות דעת)",
+    "055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21713_small.jpg?1716463793",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d987a8b31f-21713_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עדידור - ADIDOR\" href=\"/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3147/normal_logo.jpg?1660127030')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0\">עדידור - ADIDOR - נגן / הרכב מוזיקלי, תקליטנים - DJ, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(30 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/2f05674ed2-normal_logo.jpg"
+  },
+  {
+   "locationId": "683",
+   "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0",
+   "name": "תומר בן עמי - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3574/normal_logo.png?1707985525",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(38 חוות דעת)",
+   "details": [
+    "תומר בן עמי - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+    "5.0 (38 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21715_small.jpg?1716463807",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3d1c0ff649-21715_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"תומר בן עמי\" href=\"/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3574/normal_logo.png?1707985525')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0\">תומר בן עמי - תקליטנים - DJ, נגן / הרכב מוזיקלי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(38 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/50c419ff58-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0",
+   "name": "מורן קריב - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1525/normal_logo.png?1516267335",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(9 חוות דעת)",
+   "details": [
+    "מורן קריב - תקליטנים - DJ",
+    "5.0 (9 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/14894_small.jpg?1551190749",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/16e6b1d520-14894_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מורן קריב \" href=\"/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1525/normal_logo.png?1516267335')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0\">מורן קריב - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(9 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/debdbc0c93-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0",
+   "name": "איתי גלו - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1595/normal_logo.png?1507120754",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(17 חוות דעת)",
+   "details": [
+    "איתי גלו - תקליטנים - DJ",
+    "5.0 (17 חוות דעת)",
+    "055-4539182 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/251/photos/9573_small.jpg?1514889910",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/daaacccb11-9573_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4539182",
+     "href": "tel:055-4539182",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"איתי גלו\" href=\"/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1595/normal_logo.png?1507120754')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0\">איתי גלו - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(17 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539182\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539182</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/77b682520d-normal_logo.png"
+  },
+  {
+   "locationId": "351",
+   "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+   "name": "מוסיקה פלוס - שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/306/normal_logo.jpg?1515583846",
+   "logoIcon": null,
+   "rating": "4.8",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(92 חוות דעת)",
+   "details": [
+    "מוסיקה פלוס - שירותי מוזיקה",
+    "4.8 (92 חוות דעת)",
+    "תל אביב עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/278/photos/9710_small.jpg?1515582813",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0d6a03e2d9-9710_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מוסיקה פלוס\" href=\"/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/306/normal_logo.jpg?1515583846')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\">מוסיקה פלוס - שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 75.2%\"></i></div><span class=\"rating_total\">4.8</span></div> </a><div class=\"inline-block small nowrap\">(92 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/177a06e261-normal_logo.jpg"
+  },
+  {
+   "locationId": "643",
+   "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0",
+   "name": "נדב שפילמן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3211/normal_logo.jpg?1660127007",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(25 חוות דעת)",
+   "details": [
+    "נדב שפילמן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+    "4.9 (25 חוות דעת)",
+    "תל אביב 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21718_small.jpg?1716465074",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b650063478-21718_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נדב שפילמן\" href=\"/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3211/normal_logo.jpg?1660127007')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0\">נדב שפילמן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(25 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אביב </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9343ff93ad-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0",
+   "name": "דיג'יי קיטי - DJ KITTY - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1722/normal_logo.jpg?1517144354",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "דיג'יי קיטי - DJ KITTY - תקליטנים - DJ",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/233/photos/10582_small.jpg?1517147510",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/d38d7cae84-10582_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דיג'יי קיטי - DJ KITTY\" href=\"/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1722/normal_logo.jpg?1517144354')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0\">דיג'יי קיטי - DJ KITTY - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"דיג'יי קיטי - DJ KITTY\" href=\"/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/eb5f64d424-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0",
+   "name": "טום רר - Tom Rer - תקליטנים - DJ",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/420/normal_logo.png?1515514854",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(16 חוות דעת)",
+   "details": [
+    "טום רר - Tom Rer - תקליטנים - DJ",
+    "5.0 (16 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/233/photos/10584_small.jpg?1517147621",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b3580bc4ae-10584_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"טום רר - Tom Rer\" href=\"/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/420/normal_logo.png?1515514854')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0\">טום רר - Tom Rer - תקליטנים - DJ </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(16 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/8fc873ab1a-normal_logo.png"
+  },
+  {
+   "locationId": "682",
+   "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0",
+   "name": "שחר בר - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3575/normal_logo.png?1707985500",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "שחר בר - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+    "(0 חוות דעת)",
+    "תל אבי 055-4539613 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21714_small.jpg?1716463805",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/69ca21592a-21714_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21571_small.jpg?1708009434",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/ae897c5224-21571_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/663/photos/21568_small.jpg?1708001050",
+     "promo": true,
+     "promoPhone": "055-4539613",
+     "file": "directory/6c0f18fa67-21568_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "תל אבי",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"שחר בר\" href=\"/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3575/normal_logo.png?1707985500')\" title=\"מוזיקה\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0\">שחר בר - תקליטנים - DJ, נגן / הרכב מוזיקלי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"שחר בר\" href=\"/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0\"><i class=\"fas fa-map-marker-alt\"></i> תל אבי </a><a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4539613\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4539613</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c26aadc208-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "גיל לוגסי - תקליטנים - DJ, שירותי מוזיקה, נגן / הרכב מוזיקלי",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2240-%D7%92%D7%99%D7%9C-%D7%9C%D7%95%D7%92%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "אלי מתנה - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2238-%D7%90%D7%9C%D7%99-%D7%9E%D7%AA%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "פיינל דראם - Final Drum - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "תל אביב יפו",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "055-4539180",
+     "href": "tel:055-4539180"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/567-%D7%A4%D7%99%D7%99%D7%A0%D7%9C-%D7%93%D7%A8%D7%90%D7%9D-final-drum?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "זה דיג'י - !ZE DJ - שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/459-%D7%96%D7%94-%D7%93%D7%99%D7%92%D7%99-ze-dj?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "אוהד פארן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2279-%D7%90%D7%95%D7%94%D7%93-%D7%A4%D7%90%D7%A8%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "קומודו - KOMODO - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "תל-אביב",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "055-4539167",
+     "href": "tel:055-4539167"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2074-%D7%A7%D7%95%D7%9E%D7%95%D7%93%D7%95-komodo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "חן סוקו - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2257-%D7%97%D7%9F-%D7%A1%D7%95%D7%A7%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "ליאם אלבז - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2278-%D7%9C%D7%99%D7%90%D7%9D-%D7%90%D7%9C%D7%91%D7%96?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0"
+    },
+    {
+     "text": "רוי ליבוביץ - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0"
+    },
+    {
+     "text": "055-4539182",
+     "href": "tel:055-4539182"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/468-%D7%A8%D7%95%D7%99-%D7%9C%D7%99%D7%91%D7%95%D7%91%D7%99%D7%A5?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "איציק דדיה - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/785-%D7%90%D7%99%D7%A6%D7%99%D7%A7-%D7%93%D7%93%D7%99%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "זיו גדש - נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2244-%D7%96%D7%99%D7%95-%D7%92%D7%93%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0"
+    },
+    {
+     "text": "עדידור - ADIDOR - נגן / הרכב מוזיקלי, תקליטנים - DJ, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2218-%D7%A2%D7%93%D7%99%D7%93%D7%95%D7%A8-adidor?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "תומר בן עמי - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2298-%D7%AA%D7%95%D7%9E%D7%A8-%D7%91%D7%9F-%D7%A2%D7%9E%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "מורן קריב - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/742-%D7%9E%D7%95%D7%A8%D7%9F-%D7%A7%D7%A8%D7%99%D7%91?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "איתי גלו - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "055-4539182",
+     "href": "tel:055-4539182"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/469-%D7%90%D7%99%D7%AA%D7%99-%D7%92%D7%9C%D7%95?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "מוסיקה פלוס - שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "4.8",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/343-%D7%9E%D7%95%D7%A1%D7%99%D7%A7%D7%94-%D7%A4%D7%9C%D7%95%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "נדב שפילמן - תקליטנים - DJ, נגן / הרכב מוזיקלי, שירותי מוזיקה",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "תל אביב",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2239-%D7%A0%D7%93%D7%91-%D7%A9%D7%A4%D7%99%D7%9C%D7%9E%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "דיג'יי קיטי - DJ KITTY - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/717-%D7%93%D7%99%D7%92%D7%99%D7%99-%D7%A7%D7%99%D7%98%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0"
+    },
+    {
+     "text": "טום רר - Tom Rer - תקליטנים - DJ",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/715-%D7%98%D7%95%D7%9D-%D7%A8%D7%A8-tom-rer?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד פרטים? 055-4539613 לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "שחר בר - תקליטנים - DJ, נגן / הרכב מוזיקלי",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "תל אבי",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "055-4539613",
+     "href": "tel:055-4539613"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2299-%D7%A9%D7%97%D7%A8-%D7%91%D7%A8?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

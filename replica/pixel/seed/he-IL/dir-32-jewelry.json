@@ -1,0 +1,290 @@
+{
+ "category": {
+  "title": "תכשיטים ואקססוריז",
+  "icon": "ip-icon-wedding-rings",
+  "meta": "מוצגות 2 מתוך 2 תוצאות שנמצאו",
+  "pageTitle": "חיפוש תכשיטים ואקססוריז | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור",
+   "options": [
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "449",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "450",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "451",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "452",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "453",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "454",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[299][]",
+     "value": "455",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[302][]",
+     "value": "461",
+     "label": "השכרת תכשיטים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[302][]",
+     "value": "462",
+     "label": "מכירת תכשיטים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[302][]",
+     "value": "463",
+     "label": "אקססוריז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[302][]",
+     "value": "464",
+     "label": "טבעות אירוסין\\נישואין",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[302][]",
+     "value": "465",
+     "label": "תכשיטים בעיצוב אישי",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": "536",
+   "href": "/he-IL/directory/brands/2062-gy-collection?search=0",
+   "name": "GY collection - השכרת תכשיטים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2738/normal_logo.png?1546524475",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "GY collection - השכרת תכשיטים",
+    "4.9 (3 חוות דעת)",
+    "רמת גן עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/541/photos/14384_small.jpg?1546507996",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/579f9a1cee-14384_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/541/photos/14385_small.jpg?1546509811",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6f68c66fa0-14385_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "רמת גן",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"GY collection\" href=\"/he-IL/directory/brands/2062-gy-collection?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2738/normal_logo.png?1546524475')\" title=\"תכשיטים ואקססוריז\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2062-gy-collection?search=0\">GY collection - השכרת תכשיטים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/2062-gy-collection?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2062-gy-collection?search=0\"><i class=\"fas fa-map-marker-alt\"></i> רמת גן </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2062-gy-collection?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/fae9214b74-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2025-workshop?search=0",
+   "name": "Workshop - תכשיטים בעיצוב אישי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2581/normal_logo.jpg?1530191362",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "Workshop - תכשיטים בעיצוב אישי",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/518/photos/13295_small.jpg?1530193082",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/1a73318ea8-13295_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/518/photos/13353_small.jpg?1530433902",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/796bc82774-13353_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Workshop\" href=\"/he-IL/directory/brands/2025-workshop?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2581/normal_logo.jpg?1530191362')\" title=\"תכשיטים ואקססוריז\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2025-workshop?search=0\">Workshop - תכשיטים בעיצוב אישי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Workshop\" href=\"/he-IL/directory/brands/2025-workshop?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2025-workshop?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/78ca793f89-normal_logo.jpg"
+  }
+ ],
+ "pagerInfo": null,
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "GY collection - השכרת תכשיטים",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "רמת גן",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2062-gy-collection?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    },
+    {
+     "text": "Workshop - תכשיטים בעיצוב אישי",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2025-workshop?search=0"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 2,
+ "afterTilesHtml": ""
+}

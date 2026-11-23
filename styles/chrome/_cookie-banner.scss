@@ -1,0 +1,11 @@
+.privacy_cookies_banner {
+  position: fixed; z-index: 1050; bottom: 0; width: 100%; padding: 20px 10px;
+  background-color: $c-nav; border-color: $c-nav-dark; box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.2);
+  color: #fff; box-sizing: border-box; display: flex; flex-direction: column; justify-content: space-between; gap: 10px; align-items: center;
+  @include sm-up { flex-direction: row; }
+  a { color: #fff; text-decoration: underline; }
+  .btn.btn-info { background-color: $c-cookie-btn; border-color: #166982; color: #fff;
+    &:hover, &:focus, &:active { background-color: #166982; border-color: #125366; }
+  }
+  &.is-hidden { display: none; }
+}

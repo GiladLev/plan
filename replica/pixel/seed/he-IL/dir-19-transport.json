@@ -1,0 +1,1324 @@
+{
+ "category": {
+  "title": "הסעות לאורחים",
+  "icon": "ip-icon-bus",
+  "meta": "מוצגות 20 מתוך 27 תוצאות שנמצאו",
+  "pageTitle": "חיפוש הסעות לאורחים | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "207",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "192",
+     "label": "שרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "209",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "230",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "210",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[89][]",
+     "value": "191",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_91",
+   "name": "directory_brands_filter[91]",
+   "label": "אוטובוס",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_115",
+   "name": "directory_brands_filter[115]",
+   "label": "מיניבוס",
+   "tooltip": null
+  },
+  {
+   "kind": "switch",
+   "advanced": false,
+   "id": "directory_brands_filter_117",
+   "name": "directory_brands_filter[117]",
+   "label": "מונית",
+   "tooltip": null
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+   "name": "פיקאפ הסעות - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3248/normal_logo.png?1716119557",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "פיקאפ הסעות - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"פיקאפ הסעות\" href=\"/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3248/normal_logo.png?1716119557')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\">פיקאפ הסעות - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"פיקאפ הסעות\" href=\"/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/92f14caad5-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0",
+   "name": "מסלולים - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1192/normal_logo.png?1507120160",
+   "logoIcon": null,
+   "rating": "4.2",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(48 חוות דעת)",
+   "details": [
+    "מסלולים - הסעות לאורחים",
+    "4.2 (48 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/160/photos/12663_small.jpg?1526371210",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0dfa3c1f3e-12663_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מסלולים\" href=\"/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1192/normal_logo.png?1507120160')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0\">מסלולים - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 18.8%\"></i></div><span class=\"rating_total\">4.2</span></div> </a><div class=\"inline-block small nowrap\">(48 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/5756f1da13-normal_logo.png"
+  },
+  {
+   "locationId": "494",
+   "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+   "name": "רום הסעות - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2321/normal_logo.png?1528355879",
+   "logoIcon": null,
+   "rating": "4.2",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "רום הסעות - הסעות לאורחים",
+    "4.2 (6 חוות דעת)",
+    "קריית אונו עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/449/photos/11694_small.jpg?1521109211",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f46622dc6b-11694_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "קריית אונו",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null,
+     "icon": "fas fa-map-marker-alt"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רום הסעות\" href=\"/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2321/normal_logo.png?1528355879')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\">רום הסעות - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 18.8%\"></i></div><span class=\"rating_total\">4.2</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><i class=\"fas fa-map-marker-alt\"></i> קריית אונו </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9807333d2d-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+   "name": "ישראל ישראלי הסעות - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2620/normal_logo.jpg?1536142137",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "ישראל ישראלי הסעות - הסעות לאורחים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/526/photos/13650_small.jpg?1535812390",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a62bff6070-13650_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ישראל ישראלי הסעות\" href=\"/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2620/normal_logo.jpg?1536142137')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\">ישראל ישראלי הסעות - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"ישראל ישראלי הסעות\" href=\"/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/4392e9dcff-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/467-smart-bus?search=0",
+   "name": "Smart bus - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1184/normal_logo.png?1507120142",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "Smart bus - הסעות לאורחים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Smart bus\" href=\"/he-IL/directory/brands/467-smart-bus?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1184/normal_logo.png?1507120142')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/467-smart-bus?search=0\">Smart bus - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"Smart bus\" href=\"/he-IL/directory/brands/467-smart-bus?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/467-smart-bus?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0b5c021014-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0",
+   "name": "V.I.P.LIMO - הסעות לאורחים",
+   "logo": null,
+   "logoIcon": "ip-icon-bus",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "V.I.P.LIMO - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"V.I.P.LIMO\" href=\"/he-IL/directory/brands/534-v-i-p-limo?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"הסעות לאורחים\"><i class=\"ip-icon-bus\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/534-v-i-p-limo?search=0\">V.I.P.LIMO - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"V.I.P.LIMO\" href=\"/he-IL/directory/brands/534-v-i-p-limo?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/534-v-i-p-limo?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0",
+   "name": "ספיר תור - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1193/normal_logo.png?1507120163",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "ספיר תור - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"ספיר תור\" href=\"/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1193/normal_logo.png?1507120163')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0\">ספיר תור - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"ספיר תור\" href=\"/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6ae0f635a8-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0",
+   "name": "מיצויוסי - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1418/normal_logo.png?1507120508",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מיצויוסי - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מיצויוסי\" href=\"/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1418/normal_logo.png?1507120508')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0\">מיצויוסי - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מיצויוסי\" href=\"/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/610801e551-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0",
+   "name": "כנפי יונה - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1189/normal_logo.png?1507120150",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "כנפי יונה - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"כנפי יונה\" href=\"/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1189/normal_logo.png?1507120150')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0\">כנפי יונה - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"כנפי יונה\" href=\"/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/aae1a2f8d1-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0",
+   "name": "לימוזינה פרדייס - הסעות לאורחים",
+   "logo": null,
+   "logoIcon": "ip-icon-bus",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "לימוזינה פרדייס - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"לימוזינה פרדייס\" href=\"/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"הסעות לאורחים\"><i class=\"ip-icon-bus\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0\">לימוזינה פרדייס - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"לימוזינה פרדייס\" href=\"/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0",
+   "name": "גולדן רויאל טורס - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1190/normal_logo.png?1507120153",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "גולדן רויאל טורס - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גולדן רויאל טורס\" href=\"/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1190/normal_logo.png?1507120153')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0\">גולדן רויאל טורס - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"גולדן רויאל טורס\" href=\"/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f74bccb8f3-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0",
+   "name": "מסיעי כל גיל - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1476/normal_logo.jpg?1507120652",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "מסיעי כל גיל - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"מסיעי כל גיל\" href=\"/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1476/normal_logo.jpg?1507120652')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0\">מסיעי כל גיל - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"מסיעי כל גיל\" href=\"/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a565001113-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0",
+   "name": "גל טל - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1475/normal_logo.jpg?1507120649",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(22 חוות דעת)",
+   "details": [
+    "גל טל - הסעות לאורחים",
+    "(22 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גל טל\" href=\"/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1475/normal_logo.jpg?1507120649')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0\">גל טל - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"גל טל\" href=\"/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(22 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/e4ff72d435-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0",
+   "name": "עופר הסעים - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1183/normal_logo.png?1507120139",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "עופר הסעים - הסעות לאורחים",
+    "5.0 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עופר הסעים\" href=\"/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1183/normal_logo.png?1507120139')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0\">עופר הסעים - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/0d65537c6c-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0",
+   "name": "אגד היסעים - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1421/normal_logo.jpg?1507120514",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(8 חוות דעת)",
+   "details": [
+    "אגד היסעים - הסעות לאורחים",
+    "(8 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אגד היסעים\" href=\"/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1421/normal_logo.jpg?1507120514')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0\">אגד היסעים - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אגד היסעים\" href=\"/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(8 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/63992a34b7-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0",
+   "name": "א.ל הסעות מנחמיה - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1427/normal_logo.png?1507120524",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "א.ל הסעות מנחמיה - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"א.ל הסעות מנחמיה\" href=\"/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1427/normal_logo.png?1507120524')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0\">א.ל הסעות מנחמיה - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"א.ל הסעות מנחמיה\" href=\"/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/eba7b2d443-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0",
+   "name": "אלמוג היסעים - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1188/normal_logo.png?1507120147",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אלמוג היסעים - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אלמוג היסעים\" href=\"/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1188/normal_logo.png?1507120147')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0\">אלמוג היסעים - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אלמוג היסעים\" href=\"/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/00db6aeb45-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+   "name": "א.א. הסעות - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1417/normal_logo.jpg?1507120506",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "א.א. הסעות - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"א.א. הסעות\" href=\"/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1417/normal_logo.jpg?1507120506')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\">א.א. הסעות - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"א.א. הסעות\" href=\"/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/d8fba77e32-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0",
+   "name": "האמר לימוזין טל - הסעות לאורחים",
+   "logo": null,
+   "logoIcon": "ip-icon-bus",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "האמר לימוזין טל - הסעות לאורחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"האמר לימוזין טל\" href=\"/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"הסעות לאורחים\"><i class=\"ip-icon-bus\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0\">האמר לימוזין טל - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"האמר לימוזין טל\" href=\"/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+   "name": "נירים הסעות - הסעות לאורחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1187/normal_logo.jpg?1507120144",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "נירים הסעות - הסעות לאורחים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נירים הסעות\" href=\"/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1187/normal_logo.jpg?1507120144')\" title=\"הסעות לאורחים\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\">נירים הסעות - הסעות לאורחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"נירים הסעות\" href=\"/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a44dbbcfdc-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "פיקאפ הסעות - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2251-%D7%A4%D7%99%D7%A7%D7%90%D7%A4-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "מסלולים - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.2",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/345-%D7%9E%D7%A1%D7%9C%D7%95%D7%9C%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "רום הסעות - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "4.2",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "קריית אונו",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/831-%D7%A8%D7%95%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "ישראל ישראלי הסעות - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2037-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0"
+    },
+    {
+     "text": "Smart bus - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/467-smart-bus?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0"
+    },
+    {
+     "text": "V.I.P.LIMO - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/534-v-i-p-limo?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0"
+    },
+    {
+     "text": "ספיר תור - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/352-%D7%A1%D7%A4%D7%99%D7%A8-%D7%AA%D7%95%D7%A8-sapir-tours?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "מיצויוסי - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/350-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%99%D7%A6%D7%95%D7%99%D7%95%D7%A1%D7%99?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "כנפי יונה - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/355-%D7%9B%D7%A0%D7%A4%D7%99-%D7%99%D7%95%D7%A0%D7%94?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "לימוזינה פרדייס - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/536-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%A0%D7%94-%D7%A4%D7%A8%D7%93%D7%99%D7%99%D7%A1?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0"
+    },
+    {
+     "text": "גולדן רויאל טורס - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/353-%D7%92%D7%95%D7%9C%D7%93%D7%9F-%D7%A8%D7%95%D7%99%D7%90%D7%9C-%D7%98%D7%95%D7%A8%D7%A1?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "מסיעי כל גיל - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/531-%D7%9E%D7%A1%D7%99%D7%A2%D7%99-%D7%9B%D7%9C-%D7%92%D7%99%D7%9C?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "גל טל - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/532-%D7%92%D7%9C-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0"
+    },
+    {
+     "text": "עופר הסעים - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/357-%D7%A2%D7%95%D7%A4%D7%A8-%D7%94%D7%A1%D7%A2%D7%99%D7%9D-%D7%90%D7%95%D7%98%D7%95%D7%91%D7%95%D7%A1-%D7%94-vip-%D7%A9%D7%9C%D7%9B%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אגד היסעים - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/347-%D7%90%D7%92%D7%93-%D7%94%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0"
+    },
+    {
+     "text": "א.ל הסעות מנחמיה - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/348-%D7%90-%D7%9C-%D7%94%D7%A1%D7%A2%D7%95%D7%AA-%D7%9E%D7%A0%D7%97%D7%9E%D7%99%D7%94-%D7%91%D7%A2-%D7%9E?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אלמוג היסעים - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/354-%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%94%D7%99%D7%A1%D7%A2%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "א.א. הסעות - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/351-%D7%90-%D7%90-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "האמר לימוזין טל - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/535-%D7%94%D7%90%D7%9E%D7%A8-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F-%D7%98%D7%9C?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "נירים הסעות - הסעות לאורחים",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/356-%D7%A0%D7%99%D7%A8%D7%99%D7%9D-%D7%94%D7%A1%D7%A2%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}

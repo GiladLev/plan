@@ -1,0 +1,1785 @@
+{
+ "category": {
+  "title": "אטרקציות",
+  "icon": "ip-icon-party",
+  "meta": "מוצגות 20 מתוך 113 תוצאות שנמצאו",
+  "pageTitle": "חיפוש אטרקציות | iPlan",
+  "h1": ""
+ },
+ "filters": [
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "סוג השירות",
+   "options": [
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "278",
+     "label": "ביגוד",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "279",
+     "label": "עמדות משחק",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "303",
+     "label": "משחקי וידאו",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "280",
+     "label": "עיצוב בלונים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "281",
+     "label": "צילום",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "282",
+     "label": "קסמים ואמנות חושים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "283",
+     "label": "עמדות איפור",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "285",
+     "label": "שזירת פרחים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "304",
+     "label": "מתנפחים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "381",
+     "label": "מתנות חתן כלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "382",
+     "label": "מתנות לאורחים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "383",
+     "label": "מגשי פירות",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "400",
+     "label": "רכבי יוקרה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "401",
+     "label": "עוגות ועמדות מתוקים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "402",
+     "label": "מופעים ומיצגים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "403",
+     "label": "זיקוקים ופירוטכניקה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "407",
+     "label": "מולטימדיה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "440",
+     "label": "אלכוהול",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[186][]",
+     "value": "448",
+     "label": "תכשיטים בעיצוב אישי",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": true,
+   "title": "אזור פעילות",
+   "options": [
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "296",
+     "label": "צפון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "297",
+     "label": "אזור חיפה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "298",
+     "label": "השרון",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "299",
+     "label": "מרכז",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "300",
+     "label": "שפלה",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "301",
+     "label": "אזור ירושלים",
+     "checked": false
+    },
+    {
+     "name": "directory_brands_filter[206][]",
+     "value": "302",
+     "label": "דרום",
+     "checked": false
+    }
+   ]
+  },
+  {
+   "kind": "checkbox-group",
+   "advanced": false,
+   "collapsed": false,
+   "title": "",
+   "options": []
+  }
+ ],
+ "cards": [
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0",
+   "name": "קרקס קלאס - קרקס קלאס - סדנאות גיבוש ומופעי קרקס",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3524/normal_logo.jpg?1701792959",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "קרקס קלאס - קרקס קלאס - סדנאות גיבוש ומופעי קרקס",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/710/photos/21535_small.jpg?1701792909",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0b87e85086-21535_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"קרקס קלאס\" href=\"/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3524/normal_logo.jpg?1701792959')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0\">קרקס קלאס - קרקס קלאס - סדנאות גיבוש ומופעי קרקס </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"קרקס קלאס\" href=\"/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/1f6af63f05-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0",
+   "name": "לילות כוכבים - תצפיות כוכבים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3599/normal_logo.png?1714559519",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "לילות כוכבים - תצפיות כוכבים",
+    "(0 חוות דעת)",
+    "יצירת קשר עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/718/photos/21686_small.jpg?1714575797",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/25db8705dd-21686_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0",
+     "action": null,
+     "icon": "fas fa-paper-plane"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"לילות כוכבים\" href=\"/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/3599/normal_logo.png?1714559519')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0\">לילות כוכבים - תצפיות כוכבים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"לילות כוכבים\" href=\"/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" href=\"/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0\"><i class=\"fas fa-paper-plane\"></i> יצירת קשר </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/750af66e99-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0",
+   "name": "נס אטרקציות | Ness Attractions",
+   "logo": null,
+   "logoIcon": "ip-icon-party",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "נס אטרקציות | Ness Attractions",
+    "(0 חוות דעת)",
+    "055-4544641 עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "055-4544641",
+     "href": "tel:055-4544641",
+     "action": null,
+     "icon": "fas fa-phone"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נס אטרקציות | Ness Attractions \" href=\"/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"אטרקציות\"><i class=\"ip-icon-party\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0\">נס אטרקציות | Ness Attractions </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"נס אטרקציות | Ness Attractions \" href=\"/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a class=\"btn btn-default btn-sm pull-left\" href=\"tel:055-4544641\"><i class=\"fas fa-phone\"></i> <span class=\"phone ltr d-inline-block\">055-4544641</span> </a><a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0",
+   "name": "רגעי שזירה - שזירת פרחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2320/normal_logo.jpg?1519225580",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "רגעי שזירה - שזירת פרחים",
+    "5.0 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/448/photos/11426_small.jpg?1519717504",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7980e9f6bc-11426_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/448/photos/12688_small.jpg?1526997452",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/41654c40a5-12688_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/448/photos/13405_small.jpg?1532928821",
+     "promo": true,
+     "promoPhone": null,
+     "file": "directory/d1e6e28099-13405_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/448/photos/14045_small.jpg?1543217244",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/98f47d759f-14045_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/448/photos/16571_small.jpg?1573898327",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/dd98673659-16571_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"רגעי שזירה\" href=\"/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2320/normal_logo.jpg?1519225580')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0\">רגעי שזירה - שזירת פרחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/7e66818c64-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0",
+   "name": "גט פרי - קיאק פירות",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2270/normal_logo.jpg?1516713924",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "גט פרי - קיאק פירות",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/416/photos/10192_small.jpg?1516714263",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/f1a26637d4-10192_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"גט פרי\" href=\"/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2270/normal_logo.jpg?1516713924')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0\">גט פרי - קיאק פירות </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"גט פרי\" href=\"/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/edef56d8b3-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0",
+   "name": "סטייל לימוזין - רכבי יוקרה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2319/normal_logo.png?1519200564",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "סטייל לימוזין - רכבי יוקרה",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/446/photos/11382_small.jpg?1519232496",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/cf1b5a40b5-11382_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"סטייל לימוזין\" href=\"/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2319/normal_logo.png?1519200564')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\">סטייל לימוזין - רכבי יוקרה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"סטייל לימוזין\" href=\"/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/77862d011e-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0",
+   "name": "נעמה מגשימת מתנות - מתנות לכל אירוע",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2261/normal_logo.jpg?1516717619",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(4 חוות דעת)",
+   "details": [
+    "נעמה מגשימת מתנות - מתנות לכל אירוע",
+    "4.9 (4 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/408/photos/10207_small.jpg?1516719142",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/579b3b3810-10207_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/408/photos/10209_small.jpg?1516720674",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/9d341cdc7c-10209_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/408/photos/10211_small.jpg?1516721083",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4751164930-10211_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/408/photos/10375_small.jpg?1516802654",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/61bc944974-10375_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/408/photos/10474_small.jpg?1516821349",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4dc3c731e0-10474_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"נעמה מגשימת מתנות\" href=\"/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2261/normal_logo.jpg?1516717619')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\">נעמה מגשימת מתנות - מתנות לכל אירוע </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(4 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/753d1b0c6d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/472-slowmo?search=0",
+   "name": "SlowMo - צילום בהילוך איטי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1458/normal_logo.jpg?1507120605",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "SlowMo - צילום בהילוך איטי",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/237/photos/8738_small.jpg?1502110509",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/137c2ff395-8738_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/237/photos/8741_small.jpg?1502110565",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/05eba4ec22-8741_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/237/photos/8743_small.jpg?1502110605",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a8d6a646bb-8743_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/237/photos/8739_small.jpg?1502110510",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b06b36cfe1-8739_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/237/photos/8685_small.jpg?1501599028",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6d8bc1de08-8685_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"SlowMo\" href=\"/he-IL/directory/brands/472-slowmo?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1458/normal_logo.jpg?1507120605')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/472-slowmo?search=0\">SlowMo - צילום בהילוך איטי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"SlowMo\" href=\"/he-IL/directory/brands/472-slowmo?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/472-slowmo?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9e2ff700ce-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/511-idry?search=0",
+   "name": "iDry - חולצה מנדפת זיעה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1449/normal_logo.png?1507120580",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(11 חוות דעת)",
+   "details": [
+    "iDry - חולצה מנדפת זיעה",
+    "(11 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/300/photos/9045_small.jpg?1509270172",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5e05370c0c-9045_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/300/photos/9044_small.jpg?1508255253",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/efc82f96e2-9044_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/300/photos/9041_small.jpg?1508255241",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/a4dfc6e766-9041_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/300/photos/9042_small.jpg?1508255243",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7fab5ccf57-9042_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/300/photos/9043_small.jpg?1508255250",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/3a5878dd8c-9043_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/511-idry?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"iDry\" href=\"/he-IL/directory/brands/511-idry?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1449/normal_logo.png?1507120580')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/511-idry?search=0\">iDry - חולצה מנדפת זיעה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"iDry\" href=\"/he-IL/directory/brands/511-idry?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(11 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/511-idry?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/9d201921a0-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0",
+   "name": "עמיתולוגי - עיצוב בלונים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1481/normal_logo.png?1507120669",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "עמיתולוגי - עיצוב בלונים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/352/photos/8339_small.jpg?1500454966",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/41efa8e2a1-8339_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/352/photos/8573_small.jpg?1501402277",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/54447404e1-8573_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/352/photos/8338_small.jpg?1500454959",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/4fb38cba25-8338_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/352/photos/8333_small.jpg?1500454933",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0f7ad76973-8333_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/352/photos/8336_small.jpg?1500454943",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/445021c4d3-8336_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"עמיתולוגי\" href=\"/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1481/normal_logo.png?1507120669')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0\">עמיתולוגי - עיצוב בלונים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"עמיתולוגי\" href=\"/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/30548c5555-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+   "name": "יעל לגשטיין - שזירת פרחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2153/normal_logo.png?1513499250",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "יעל לגשטיין - שזירת פרחים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/378/photos/13212_small.jpg?1528921720",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/41a9a8dfb8-13212_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/378/photos/13224_small.jpg?1528922112",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5961cb0f74-13224_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"יעל לגשטיין\" href=\"/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2153/normal_logo.png?1513499250')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\">יעל לגשטיין - שזירת פרחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"יעל לגשטיין\" href=\"/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/566e7d0734-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0",
+   "name": "בן ועינבל מתוקים - עוגות ועמדות מתוקים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2805/normal_logo.jpg?1557056562",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "בן ועינבל מתוקים - עוגות ועמדות מתוקים",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/558/photos/15041_small.jpg?1557238742",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0102b4eabf-15041_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/558/photos/15158_small.jpg?1557840516",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7ae9920ac3-15158_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/558/photos/15132_small.jpg?1557699327",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/0830bfecff-15132_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/558/photos/15042_small.jpg?1557239555",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bcda8c2b16-15042_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/558/photos/15139_small.jpg?1557699844",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/93bc67675e-15139_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"בן ועינבל מתוקים\" href=\"/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2805/normal_logo.jpg?1557056562')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0\">בן ועינבל מתוקים - עוגות ועמדות מתוקים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"בן ועינבל מתוקים\" href=\"/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/c7c50d6265-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/958-petite-fleur?search=0",
+   "name": "Pet'ite FLEUR - שזירת פרחים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2425/normal_logo.jpg?1520958338",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(3 חוות דעת)",
+   "details": [
+    "Pet'ite FLEUR - שזירת פרחים",
+    "5.0 (3 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/469/photos/11708_small.jpg?1521536821",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/b06cea0806-11708_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Pet'ite FLEUR\" href=\"/he-IL/directory/brands/958-petite-fleur?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2425/normal_logo.jpg?1520958338')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/958-petite-fleur?search=0\">Pet'ite FLEUR - שזירת פרחים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/958-petite-fleur?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(3 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/958-petite-fleur?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/6b00cc9a4d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0",
+   "name": "לסרי לימוזין - רכבי יוקרה",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2306/normal_logo.jpg?1518596213",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "לסרי לימוזין - רכבי יוקרה",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/442/photos/11180_small.jpg?1518612857",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/88cb064748-11180_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"לסרי לימוזין\" href=\"/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2306/normal_logo.jpg?1518596213')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\">לסרי לימוזין - רכבי יוקרה </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"לסרי לימוזין\" href=\"/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/06550238f2-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/471-dr-fun?search=0",
+   "name": "דוקטור פאן - Dr. Fun - עמדות משחק",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1482/normal_logo.jpg?1507120673",
+   "logoIcon": null,
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(74 חוות דעת)",
+   "details": [
+    "דוקטור פאן - Dr. Fun - עמדות משחק",
+    "4.9 (74 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/245/photos/8746_small.jpg?1502177549",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6a45b6f49d-8746_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/245/photos/8761_small.jpg?1502177968",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7b6935ac75-8761_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/245/photos/8762_small.jpg?1502178003",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/bce4dcef41-8762_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/245/photos/8757_small.jpg?1502177850",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/679529f344-8757_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/245/photos/8754_small.jpg?1502177775",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/148066e475-8754_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"דוקטור פאן - Dr. Fun\" href=\"/he-IL/directory/brands/471-dr-fun?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1482/normal_logo.jpg?1507120673')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/471-dr-fun?search=0\">דוקטור פאן - Dr. Fun - עמדות משחק </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/471-dr-fun?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(74 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/471-dr-fun?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/f4d555854d-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/786-flow?search=0",
+   "name": "Flow - חגיגת פרחים לשיער",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2267/normal_logo.jpg?1516625774",
+   "logoIcon": null,
+   "rating": "5.0",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(2 חוות דעת)",
+   "details": [
+    "Flow - חגיגת פרחים לשיער",
+    "5.0 (2 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/413/photos/13021_small.jpg?1527701915",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/2321f1751e-13021_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/413/photos/13022_small.jpg?1527759853",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/982992cad7-13022_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/413/photos/10425_small.jpg?1517304543",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/7aa4aa240b-10425_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/413/photos/10198_small.jpg?1517303930",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/5e3188c425-10198_small.jpg"
+    },
+    {
+     "img": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/companies/413/photos/10389_small.jpg?1517303999",
+     "promo": false,
+     "promoPhone": null,
+     "file": "directory/6b08a579d8-10389_small.jpg"
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/786-flow?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"Flow\" href=\"/he-IL/directory/brands/786-flow?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/2267/normal_logo.jpg?1516625774')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/786-flow?search=0\">Flow - חגיגת פרחים לשיער </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/786-flow?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><span class=\"rating_total\">5.0</span></div> </a><div class=\"inline-block small nowrap\">(2 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/786-flow?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b1ba99c145-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1402-full-moon?search=0",
+   "name": "FULL MOON - אפטר פארטי",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1246/normal_logo.png?1521631942",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "FULL MOON - אפטר פארטי",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"FULL MOON\" href=\"/he-IL/directory/brands/1402-full-moon?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1246/normal_logo.png?1521631942')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1402-full-moon?search=0\">FULL MOON - אפטר פארטי </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"FULL MOON\" href=\"/he-IL/directory/brands/1402-full-moon?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1402-full-moon?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/b945f6af8d-normal_logo.png"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0",
+   "name": "צ'ימני בלונים - עיצוב בלונים",
+   "logo": null,
+   "logoIcon": "ip-icon-party",
+   "rating": "4.9",
+   "stars": [
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fas fa-star",
+    "fal fa-star",
+    "fas fa-star"
+   ],
+   "ratingTitle": null,
+   "reviews": "(6 חוות דעת)",
+   "details": [
+    "צ'ימני בלונים - עיצוב בלונים",
+    "4.9 (6 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"צ'ימני בלונים\" href=\"/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"אטרקציות\"><i class=\"ip-icon-party\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0\">צ'ימני בלונים - עיצוב בלונים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" href=\"/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0\"><div class=\"rating_stars \" data-toggle=\"\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\"><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><i class=\"fas fa-star\"></i><div class=\"partial-star\"><i class=\"fal fa-star\"></i><i class=\"fas fa-star\" style=\"width: 84.6%\"></i></div><span class=\"rating_total\">4.9</span></div> </a><div class=\"inline-block small nowrap\">(6 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0",
+   "name": "הבלון הגמיש - עיצוב בלונים",
+   "logo": "https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1219/normal_logo.jpg?1521634547",
+   "logoIcon": null,
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(1 חוות דעת)",
+   "details": [
+    "הבלון הגמיש - עיצוב בלונים",
+    "(1 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"הבלון הגמיש\" href=\"/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"background-image: url('https://iplan-uuc-production.s3.amazonaws.com/public/directory/brands/1219/normal_logo.jpg?1521634547')\" title=\"אטרקציות\"></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0\">הבלון הגמיש - עיצוב בלונים </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"הבלון הגמיש\" href=\"/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(1 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> ",
+   "logoFile": "directory/a3b6d01509-normal_logo.jpg"
+  },
+  {
+   "locationId": null,
+   "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0",
+   "name": "אהבה בצבעים - ציורי פנים וגוף - עמדות איפור",
+   "logo": null,
+   "logoIcon": "ip-icon-party",
+   "rating": null,
+   "stars": [
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star",
+    "fal fa-star"
+   ],
+   "ratingTitle": "לא ניתנו מספיק חוות דעת עם דירוג",
+   "reviews": "(0 חוות דעת)",
+   "details": [
+    "אהבה בצבעים - ציורי פנים וגוף - עמדות איפור",
+    "(0 חוות דעת)",
+    "עוד עוד מידע"
+   ],
+   "gallery": [
+    {
+     "img": null,
+     "promo": false,
+     "promoPhone": null
+    }
+   ],
+   "cta": [
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0",
+     "action": null
+    }
+   ],
+   "html": " <a target=\"_blank\" class=\"pull-right\" aria-label=\"אהבה בצבעים - ציורי פנים וגוף\" href=\"/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0\"><div class=\"brand_logo_or_brand_page_category_icon\" style=\"\" title=\"אטרקציות\"><i class=\"ip-icon-party\"></i></div> </a><div class=\"text-ellipsis\"> <a target=\"_blank\" class=\"strong\" href=\"/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0\">אהבה בצבעים - ציורי פנים וגוף - עמדות איפור </a></div> <div class=\"text-ellipsis\"> <a target=\"_blank\" aria-label=\"אהבה בצבעים - ציורי פנים וגוף\" href=\"/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0\"><div class=\"rating_stars \" data-toggle=\"tooltip\" data-trigger=\"hover\" data-placement=\"top\" title=\"\" data-container=\"body\" data-original-title=\"לא ניתנו מספיק חוות דעת עם דירוג\"><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i><i class=\"fal fa-star\"></i></div> </a><div class=\"inline-block small nowrap\">(0 חוות דעת)</div> </div> <div class=\"text-ellipsis call-to-action\"> <a target=\"_blank\" class=\"btn btn-default btn-sm pull-left\" title=\"לפרטים נוספים, תיאום פגישה והצעת מחיר\" href=\"/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0\"><div class=\"short\">עוד</div> <div class=\"long\">עוד מידע</div> </a></div> "
+  },
+  {
+   "locationId": null,
+   "name": "",
+   "logo": null,
+   "logoIcon": null,
+   "rating": null,
+   "stars": [],
+   "ratingTitle": null,
+   "reviews": "",
+   "details": [],
+   "gallery": [],
+   "cta": []
+  }
+ ],
+ "pagerInfo": {
+  "cls": "",
+  "text": "הצג עוד",
+  "html": "<a data-action=\"next_page\" data-page_num=\"2\" href=\"javascript:;\">הצג עוד\n<i class=\"fas fa-caret-left\"></i>\n</a>"
+ },
+ "seo": [
+  {
+   "cls": "togglers",
+   "h": "",
+   "links": [
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "סינון",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת רשימה",
+     "href": "javascript:;"
+    },
+    {
+     "text": "תצוגת מפה",
+     "href": "javascript:;"
+    }
+   ]
+  },
+  {
+   "cls": "tiles",
+   "h": "",
+   "links": [
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "קרקס קלאס - קרקס קלאס - סדנאות גיבוש ומופעי קרקס",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2290-%D7%A7%D7%A8%D7%A7%D7%A1-%D7%A7%D7%9C%D7%90%D7%A1?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "לילות כוכבים - תצפיות כוכבים",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "יצירת קשר",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2300-%D7%9C%D7%99%D7%9C%D7%95%D7%AA-%D7%9B%D7%95%D7%9B%D7%91%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0"
+    },
+    {
+     "text": "נס אטרקציות | Ness Attractions",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0"
+    },
+    {
+     "text": "055-4544641",
+     "href": "tel:055-4544641"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2337-%D7%A0%D7%A1-%D7%90%D7%98%D7%A8%D7%A7%D7%A6%D7%99%D7%95%D7%AA-ness-attractions?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "עוד פרטים? לחצ/י ליצירת קשר",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "רגעי שזירה - שזירת פרחים",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/829-%D7%A8%D7%92%D7%A2%D7%99-%D7%A9%D7%96%D7%99%D7%A8%D7%94?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "גט פרי - קיאק פירות",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/789-get-%D7%A4%D7%A8%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "סטייל לימוזין - רכבי יוקרה",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/828-%D7%A1%D7%98%D7%99%D7%99%D7%9C-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "נעמה מגשימת מתנות - מתנות לכל אירוע",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/767-%D7%9E%D7%92%D7%A9%D7%99%D7%9E%D7%AA-%D7%9E%D7%AA%D7%A0%D7%95%D7%AA?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "SlowMo - צילום בהילוך איטי",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/472-slowmo?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "iDry - חולצה מנדפת זיעה",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/511-idry?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "עמיתולוגי - עיצוב בלונים",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/455-%D7%A2%D7%9E%D7%99%D7%AA%D7%95%D7%9C%D7%95%D7%92%D7%99?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "יעל לגשטיין - שזירת פרחים",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/740-%D7%99%D7%A2%D7%9C-%D7%9C%D7%92%D7%A9%D7%98%D7%99%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "בן ועינבל מתוקים - עוגות ועמדות מתוקים",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/2080-%D7%91%D7%9F-%D7%95%D7%A2%D7%99%D7%A0%D7%91%D7%9C-%D7%9E%D7%AA%D7%95%D7%A7%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0"
+    },
+    {
+     "text": "Pet'ite FLEUR - שזירת פרחים",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/958-petite-fleur?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "לסרי לימוזין - רכבי יוקרה",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/824-%D7%9C%D7%A1%D7%A8%D7%99-%D7%9C%D7%99%D7%9E%D7%95%D7%96%D7%99%D7%9F?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "דוקטור פאן - Dr. Fun - עמדות משחק",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/471-dr-fun?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "Flow - חגיגת פרחים לשיער",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "5.0",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/786-flow?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0"
+    },
+    {
+     "text": "FULL MOON - אפטר פארטי",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1402-full-moon?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "צ'ימני בלונים - עיצוב בלונים",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "4.9",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1478-%D7%A6%D7%99%D7%9E%D7%A0%D7%99-%D7%91%D7%9C%D7%95%D7%A0%D7%99%D7%9D?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0"
+    },
+    {
+     "text": "הבלון הגמיש - עיצוב בלונים",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1419-%D7%94%D7%91%D7%9C%D7%95%D7%9F-%D7%94%D7%92%D7%9E%D7%99%D7%A9?search=0"
+    },
+    {
+     "text": "אין תמונה",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0"
+    },
+    {
+     "text": "אהבה בצבעים - ציורי פנים וגוף - עמדות איפור",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0"
+    },
+    {
+     "text": "",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0"
+    },
+    {
+     "text": "עוד עוד מידע",
+     "href": "/he-IL/directory/brands/1405-%D7%90%D7%94%D7%91%D7%94-%D7%91%D7%A6%D7%91%D7%A2%D7%99%D7%9D-%D7%A6%D7%99%D7%95%D7%A8%D7%99-%D7%A4%D7%A0%D7%99%D7%9D-%D7%95%D7%92%D7%95%D7%A3?search=0"
+    },
+    {
+     "text": "הצג עוד",
+     "href": "javascript:;"
+    }
+   ]
+  }
+ ],
+ "resultsCount": 21,
+ "afterTilesHtml": ""
+}
