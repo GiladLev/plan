@@ -224,3 +224,62 @@ body.crm { font-family: var(--font); font-size: 15px; line-height: 1.5; color: v
 .feed-dot { width: 18px; height: 18px; color: var(--ok); flex: none; }
 @media (max-width: 1100px) { .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 860px) { .today-grid { grid-template-columns: 1fr; } .kpi-value { font-size: 24px; } }
+
+/* pipeline */
+.kanban { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(205px, 1fr); gap: 10px; padding: 18px 20px 28px; min-height: 100%; align-items: start; overflow-x: auto; touch-action: pan-x pan-y; }
+.kanban-col { background: rgba(17, 19, 24, 0.035); border-radius: var(--r-lg); padding: 10px; min-height: 240px; transition: background-color 160ms; }
+.kanban-col.is-over { background: var(--accent-soft); }
+.kanban-col-head { display: flex; align-items: center; gap: 8px; padding: 4px 6px 10px; }
+.kanban-col-head h2 { font-size: 14px; font-weight: 650; margin: 0; }
+.kanban-col-head .count { font-size: 12px; font-weight: 600; color: var(--ink-3); }
+.kanban-col-head .sum { margin-inline-start: auto; font-size: 12px; color: var(--ink-2); }
+.stage-dot { width: 8px; height: 8px; border-radius: 50%; background: var(--ink-3); }
+.stage-inquiry .stage-dot { background: var(--accent); } .stage-meeting .stage-dot { background: #a855f7; } .stage-proposal .stage-dot { background: #f59e0b; } .stage-won .stage-dot { background: var(--ok); } .stage-lost .stage-dot { background: #9ca3af; }
+.kanban-list { display: flex; flex-direction: column; gap: 8px; min-height: 60px; }
+.kanban-card { display: block; background: var(--bg-surface); border-radius: 12px; padding: 12px; box-shadow: var(--shadow-card); border: 1px solid var(--hairline); cursor: grab; touch-action: none; -webkit-user-select: none; user-select: none; transition: box-shadow 140ms, transform 120ms var(--ease-out); }
+.kanban-card:hover { box-shadow: var(--shadow-float); }
+.kanban-card:active { transform: scale(0.985); }
+.kanban-ghost { position: fixed; z-index: 100; pointer-events: none; box-shadow: var(--shadow-float); cursor: grabbing; will-change: transform; transform-origin: center; margin: 0; }
+.kanban-ph { height: 86px; border-radius: 12px; border: 1.5px dashed color-mix(in srgb, var(--accent) 55%, transparent); background: color-mix(in srgb, var(--accent) 6%, transparent); animation: fade-in 120ms ease-out; }
+.kanban-empty { font-size: 13px; color: var(--ink-3); text-align: center; padding: 18px 0; border: 1.5px dashed var(--hairline-strong); border-radius: 12px; }
+.kc-name { font-weight: 600; font-size: 14px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.kc-sub { font-size: 12.5px; color: var(--ink-2); }
+.kc-foot { display: flex; justify-content: space-between; margin-top: 10px; font-size: 12.5px; color: var(--ink-2); }
+.kc-val { font-weight: 600; color: var(--ink-1); }
+@media (max-width: 860px) { .kanban { grid-auto-columns: 82%; scroll-snap-type: x mandatory; padding: 14px; } .kanban-col { scroll-snap-align: start; } }
+
+/* client card */
+.client-page { max-width: 980px; }
+.client-hero { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
+.quick-actions { display: flex; gap: 6px; }
+.qa { display: flex; flex-direction: column; align-items: center; gap: 4px; min-width: 58px; padding: 8px 6px; border-radius: 12px; border: 0; background: var(--bg-subtle); color: var(--accent); font-size: 11.5px; font-weight: 550; cursor: pointer; transition: background-color 120ms, transform 100ms var(--ease-out); }
+.qa span { color: var(--ink-2); }
+.qa svg { width: 19px; height: 19px; stroke-width: 1.9; }
+.qa:hover { background: var(--accent-soft); } .qa:active { transform: scale(0.94); }
+.facts { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin-block: 14px; }
+.fact { padding: 12px 14px; display: flex; flex-direction: column; gap: 2px; }
+.fact span { font-size: 12px; color: var(--ink-3); font-weight: 550; } .fact b { font-size: 17px; font-weight: 650; }
+.client-cols { display: grid; grid-template-columns: minmax(0, 1.6fr) minmax(0, 1fr); gap: 14px; align-items: start; }
+.composer { padding: 14px; display: flex; flex-direction: column; gap: 10px; }
+.timeline { list-style: none; margin: 0; padding: 8px 18px 18px; }
+.tl-item { display: grid; grid-template-columns: 14px 1fr; gap: 12px; padding-block: 10px; position: relative; }
+.tl-item::before { content: ''; position: absolute; inset-inline-start: 6px; top: 26px; bottom: -10px; width: 1.5px; background: var(--hairline-strong); }
+.tl-item:last-child::before { display: none; }
+.tl-dot { width: 13px; height: 13px; border-radius: 50%; margin-top: 5px; background: var(--bg-surface); border: 3px solid var(--ink-3); }
+.tl-call .tl-dot, .tl-meeting .tl-dot { border-color: #a855f7; } .tl-whatsapp .tl-dot { border-color: #22c55e; } .tl-email .tl-dot, .tl-sms .tl-dot { border-color: var(--accent); } .tl-document .tl-dot { border-color: #f59e0b; } .tl-stage .tl-dot { border-color: var(--ok); background: var(--ok); } .tl-created .tl-dot { border-color: var(--accent); background: var(--accent); }
+.tl-text { margin-top: 2px; color: var(--ink-1); white-space: pre-wrap; }
+.link { color: var(--accent) !important; }
+.mobile-back { display: none; margin-bottom: 8px; }
+@media (max-width: 860px) { .mobile-back { display: inline-flex; } .client-cols { grid-template-columns: 1fr; } .facts { grid-template-columns: repeat(2, 1fr); } .quick-actions { width: 100%; justify-content: space-between; } }
+.task-add { padding: 8px 14px; }
+.task-del { opacity: 0; transition: opacity 120ms; } .task-row:hover .task-del, .task-del:focus-visible { opacity: 1; }
+@media (hover: none) { .task-del { opacity: 1; } }
+@media (max-width: 860px) { .task-add { flex-wrap: wrap; } .task-add .input[type=datetime-local] { width: 100% !important; } }
+.detail-col { container-type: inline-size; }
+@container (max-width: 820px) {
+  .client-cols { grid-template-columns: 1fr; }
+  .facts { grid-template-columns: repeat(2, 1fr); }
+  .client-hero .quick-actions { width: 100%; justify-content: flex-start; }
+}
+.composer .segmented { flex-wrap: wrap; align-self: flex-start; max-width: 100%; }
+@media (max-width: 1360px) { :root { --list-w: 300px; --inspector-w: 290px; } }
